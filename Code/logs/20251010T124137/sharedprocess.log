@@ -1,0 +1,48 @@
+2025-10-10 12:42:24.319 [info] Getting Manifest... whizkydee.material-palenight-theme
+2025-10-10 12:42:24.414 [info] Installing extension: whizkydee.material-palenight-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.0","date":"2025-10-08T14:09:35.891Z"}}
+2025-10-10 12:42:25.193 [info] Extension signature verification result for whizkydee.material-palenight-theme: Success. Internal Code: 0. Executed: true. Duration: 449ms.
+2025-10-10 12:42:25.204 [info] Extracted extension to file:///home/arshan/.vscode/extensions/whizkydee.material-palenight-theme-2.0.4: whizkydee.material-palenight-theme
+2025-10-10 12:42:25.206 [info] Renamed to /home/arshan/.vscode/extensions/whizkydee.material-palenight-theme-2.0.4
+2025-10-10 12:42:25.214 [info] Extension installed successfully: whizkydee.material-palenight-theme vscode-userdata:/home/arshan/.vscode/extensions/extensions.json
+2025-10-10 12:43:38.519 [info] Getting Manifest... rpinski.shebang-snippets
+2025-10-10 12:43:38.605 [info] Installing extension: rpinski.shebang-snippets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.0","date":"2025-10-08T14:09:35.891Z"}}
+2025-10-10 12:43:39.895 [info] Extension signature verification result for rpinski.shebang-snippets: Success. Internal Code: 0. Executed: true. Duration: 424ms.
+2025-10-10 12:43:39.913 [info] Extracted extension to file:///home/arshan/.vscode/extensions/rpinski.shebang-snippets-1.1.0: rpinski.shebang-snippets
+2025-10-10 12:43:39.915 [info] Renamed to /home/arshan/.vscode/extensions/rpinski.shebang-snippets-1.1.0
+2025-10-10 12:43:39.923 [info] Extension installed successfully: rpinski.shebang-snippets vscode-userdata:/home/arshan/.vscode/extensions/extensions.json
+2025-10-10 12:44:18.177 [info] Getting Manifest... mads-hartmann.bash-ide-vscode
+2025-10-10 12:44:18.245 [info] Installing extension: mads-hartmann.bash-ide-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.0","date":"2025-10-08T14:09:35.891Z"}}
+2025-10-10 12:44:19.318 [info] Extension signature verification result for mads-hartmann.bash-ide-vscode: Success. Internal Code: 0. Executed: true. Duration: 441ms.
+2025-10-10 12:44:19.577 [info] Extracted extension to file:///home/arshan/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0: mads-hartmann.bash-ide-vscode
+2025-10-10 12:44:19.594 [info] Renamed to /home/arshan/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0
+2025-10-10 12:44:19.600 [info] Extension installed successfully: mads-hartmann.bash-ide-vscode vscode-userdata:/home/arshan/.vscode/extensions/extensions.json
+2025-10-10 14:16:37.603 [info] Getting Manifest... ms-python.python
+2025-10-10 14:16:37.664 [info] Installing extension: ms-python.python {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.0","date":"2025-10-08T14:09:35.891Z"}}
+2025-10-10 14:16:37.908 [info] Getting Manifest... ms-python.debugpy
+2025-10-10 14:16:37.922 [info] Getting Manifest... ms-python.vscode-python-envs
+2025-10-10 14:16:37.945 [info] Getting Manifest... ms-python.vscode-pylance
+2025-10-10 14:16:37.969 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.0","date":"2025-10-08T14:09:35.891Z"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-10-10 14:16:37.969 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.0","date":"2025-10-08T14:09:35.891Z"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-10-10 14:16:37.969 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.0","date":"2025-10-08T14:09:35.891Z"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-10-10 14:16:39.665 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 835ms.
+2025-10-10 14:16:39.669 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 804ms.
+2025-10-10 14:16:39.865 [info] Extracted extension to file:///home/arshan/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64: ms-python.vscode-python-envs
+2025-10-10 14:16:39.872 [info] Renamed to /home/arshan/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64
+2025-10-10 14:16:39.880 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 826ms.
+2025-10-10 14:16:40.199 [info] Extracted extension to file:///home/arshan/.vscode/extensions/ms-python.debugpy-2025.14.0-linux-x64: ms-python.debugpy
+2025-10-10 14:16:40.216 [info] Renamed to /home/arshan/.vscode/extensions/ms-python.debugpy-2025.14.0-linux-x64
+2025-10-10 14:16:40.287 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 750ms.
+2025-10-10 14:16:40.876 [info] Extracted extension to file:///home/arshan/.vscode/extensions/ms-python.python-2025.16.0-linux-x64: ms-python.python
+2025-10-10 14:16:40.920 [info] Renamed to /home/arshan/.vscode/extensions/ms-python.python-2025.16.0-linux-x64
+2025-10-10 14:16:42.507 [info] Extracted extension to file:///home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3: ms-python.vscode-pylance
+2025-10-10 14:16:42.640 [info] Renamed to /home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3
+2025-10-10 14:16:42.656 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/arshan/.vscode/extensions/extensions.json
+2025-10-10 14:16:42.656 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/arshan/.vscode/extensions/extensions.json
+2025-10-10 14:16:42.656 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/arshan/.vscode/extensions/extensions.json
+2025-10-10 14:16:42.656 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/arshan/.vscode/extensions/extensions.json
+2025-10-10 14:34:19.813 [info] Getting Manifest... esbenp.prettier-vscode
+2025-10-10 14:34:19.886 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.0","date":"2025-10-08T14:09:35.891Z"}}
+2025-10-10 14:34:20.785 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Internal Code: 0. Executed: true. Duration: 457ms.
+2025-10-10 14:34:20.832 [info] Extracted extension to file:///home/arshan/.vscode/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2025-10-10 14:34:20.835 [info] Renamed to /home/arshan/.vscode/extensions/esbenp.prettier-vscode-11.0.0
+2025-10-10 14:34:20.853 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/arshan/.vscode/extensions/extensions.json

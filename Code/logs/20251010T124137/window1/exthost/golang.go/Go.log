@@ -1,0 +1,726 @@
+2025-10-10 12:41:42.448 [info] Tools environment: GOPATH=/home/arshan/go, GOTOOLCHAIN=auto
+2025-10-10 12:41:42.448 [info] Installing 1 tool at /home/arshan/go/bin
+2025-10-10 12:41:42.448 [info]   staticcheck
+2025-10-10 12:41:42.448 [info] 
+2025-10-10 12:41:47.275 [info] Installing honnef.co/go/tools/cmd/staticcheck@latest (/home/arshan/go/bin/staticcheck) SUCCEEDED
+2025-10-10 12:41:47.276 [info] 
+2025-10-10 12:41:47.276 [info] All tools successfully installed. You are ready to Go. :)
+2025-10-10 12:41:47.411 [info] Try to start language server - activation (enabled: true)
+2025-10-10 12:41:47.616 [info] Running language server gopls(v0.20.0/go1.25.1)
+2025-10-10 14:24:32.752 [info] Try to start language server - activation (enabled: true)
+2025-10-10 14:24:32.836 [info] Running language server gopls(v0.20.0/go1.25.1)
+2025-10-10 14:25:16.635 [info] Running checks...
+2025-10-10 14:25:16.635 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:25:16.672 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:25:16.672 [info] 
+2025-10-10 14:25:25.782 [info] Running checks...
+2025-10-10 14:25:25.782 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:25:25.811 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:25:25.811 [info] 
+2025-10-10 14:25:30.640 [info] Running checks...
+2025-10-10 14:25:30.640 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:25:30.677 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:25:30.677 [info] 
+2025-10-10 14:25:35.072 [info] Running checks...
+2025-10-10 14:25:35.072 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:25:35.101 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:25:35.101 [info] 
+2025-10-10 14:25:38.343 [info] Running checks...
+2025-10-10 14:25:38.343 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:25:38.372 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:25:38.372 [info] 
+2025-10-10 14:25:41.307 [info] Running checks...
+2025-10-10 14:25:41.308 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:25:41.347 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:25:41.347 [info] 
+2025-10-10 14:25:46.122 [info] Running checks...
+2025-10-10 14:25:46.122 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:25:46.167 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:25:46.167 [info] 
+2025-10-10 14:25:49.831 [info] Running checks...
+2025-10-10 14:25:49.831 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:25:49.867 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:25:49.867 [info] 
+2025-10-10 14:25:55.076 [info] Running checks...
+2025-10-10 14:25:55.076 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:25:55.106 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:25:55.106 [info] 
+2025-10-10 14:25:56.432 [info] Running checks...
+2025-10-10 14:25:56.432 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:25:56.463 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:25:56.463 [info] 
+2025-10-10 14:26:04.853 [info] Running checks...
+2025-10-10 14:26:04.853 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:26:04.895 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:26:04.895 [info] 
+2025-10-10 14:26:08.335 [info] Running checks...
+2025-10-10 14:26:08.335 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:26:08.366 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:26:08.366 [info] 
+2025-10-10 14:26:33.465 [info] Running checks...
+2025-10-10 14:26:33.465 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:26:33.496 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:26:33.496 [info] 
+2025-10-10 14:26:35.108 [info] Running checks...
+2025-10-10 14:26:35.108 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:26:35.134 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:26:35.134 [info] 
+2025-10-10 14:26:37.140 [info] Running checks...
+2025-10-10 14:26:37.140 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:26:37.166 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:26:37.166 [info] 
+2025-10-10 14:27:29.959 [info] Running checks...
+2025-10-10 14:27:29.959 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:27:29.987 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:27:29.988 [info] 
+2025-10-10 14:27:59.462 [info] Running checks...
+2025-10-10 14:27:59.462 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:27:59.488 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:27:59.488 [info] 
+2025-10-10 14:28:11.179 [info] Running checks...
+2025-10-10 14:28:11.180 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:28:11.206 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:28:11.206 [info] 
+2025-10-10 14:28:12.247 [info] Running checks...
+2025-10-10 14:28:12.248 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:28:12.276 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:28:12.276 [info] 
+2025-10-10 14:28:30.519 [info] Running checks...
+2025-10-10 14:28:30.519 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:28:30.546 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:28:30.546 [info] 
+2025-10-10 14:28:35.822 [info] Running checks...
+2025-10-10 14:28:35.822 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:28:35.848 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:28:35.848 [info] 
+2025-10-10 14:28:37.215 [info] Running checks...
+2025-10-10 14:28:37.215 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:28:37.243 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:28:37.243 [info] 
+2025-10-10 14:28:41.804 [info] Running checks...
+2025-10-10 14:28:41.804 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:28:41.830 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:28:41.830 [info] 
+2025-10-10 14:28:46.619 [info] Running checks...
+2025-10-10 14:28:46.619 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:28:46.646 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:28:46.646 [info] 
+2025-10-10 14:28:53.059 [info] Running checks...
+2025-10-10 14:28:53.059 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:28:53.085 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:28:53.085 [info] 
+2025-10-10 14:28:58.088 [info] Running checks...
+2025-10-10 14:28:58.088 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:28:58.114 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:28:58.114 [info] 
+2025-10-10 14:29:21.344 [info] Running checks...
+2025-10-10 14:29:21.344 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:29:21.369 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:29:21.369 [info] 
+2025-10-10 14:29:23.702 [info] Running checks...
+2025-10-10 14:29:23.702 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:29:23.729 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:29:23.729 [info] 
+2025-10-10 14:29:24.737 [info] Running checks...
+2025-10-10 14:29:24.737 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:29:24.762 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:29:24.762 [info] 
+2025-10-10 14:29:27.268 [info] Running checks...
+2025-10-10 14:29:27.268 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:29:27.294 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:29:27.294 [info] 
+2025-10-10 14:29:28.303 [info] Running checks...
+2025-10-10 14:29:28.303 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:29:28.329 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:29:28.329 [info] 
+2025-10-10 14:29:38.358 [info] Running checks...
+2025-10-10 14:29:38.358 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:29:38.384 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:29:38.384 [info] 
+2025-10-10 14:29:41.086 [info] Running checks...
+2025-10-10 14:29:41.086 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:29:41.113 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:29:41.113 [info] 
+2025-10-10 14:29:48.760 [info] Running checks...
+2025-10-10 14:29:48.760 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:29:48.789 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:29:48.789 [info] 
+2025-10-10 14:30:01.899 [info] Running checks...
+2025-10-10 14:30:01.899 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:30:01.924 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:30:01.924 [info] 
+2025-10-10 14:30:03.850 [info] Running checks...
+2025-10-10 14:30:03.850 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:30:03.876 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:30:03.876 [info] 
+2025-10-10 14:30:09.782 [info] Running checks...
+2025-10-10 14:30:09.782 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:30:09.811 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:30:09.811 [info] 
+2025-10-10 14:30:45.775 [info] Running checks...
+2025-10-10 14:30:45.775 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:30:45.802 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:30:45.802 [info] 
+2025-10-10 14:30:47.604 [info] Running checks...
+2025-10-10 14:30:47.604 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:30:47.630 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:30:47.630 [info] 
+2025-10-10 14:30:51.078 [info] Running checks...
+2025-10-10 14:30:51.078 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:30:51.113 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:30:51.113 [info] 
+2025-10-10 14:30:53.579 [info] Running checks...
+2025-10-10 14:30:53.579 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:30:53.605 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:30:53.605 [info] 
+2025-10-10 14:30:56.191 [info] Running checks...
+2025-10-10 14:30:56.192 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:30:56.218 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:30:56.218 [info] 
+2025-10-10 14:30:59.767 [info] Running checks...
+2025-10-10 14:30:59.767 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:30:59.793 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:30:59.793 [info] 
+2025-10-10 14:31:04.358 [info] Running checks...
+2025-10-10 14:31:04.358 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:04.384 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:04.384 [info] 
+2025-10-10 14:31:06.916 [info] Running checks...
+2025-10-10 14:31:06.916 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:06.943 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:06.943 [info] 
+2025-10-10 14:31:09.730 [info] Running checks...
+2025-10-10 14:31:09.730 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:09.755 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:09.755 [info] 
+2025-10-10 14:31:13.364 [info] Running checks...
+2025-10-10 14:31:13.364 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:13.390 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:13.390 [info] 
+2025-10-10 14:31:17.747 [info] Running checks...
+2025-10-10 14:31:17.747 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:17.777 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:17.777 [info] 
+2025-10-10 14:31:20.837 [info] Running checks...
+2025-10-10 14:31:20.837 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:20.863 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:20.863 [info] 
+2025-10-10 14:31:26.008 [info] Running checks...
+2025-10-10 14:31:26.008 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:26.035 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:26.035 [info] 
+2025-10-10 14:31:31.771 [info] Running checks...
+2025-10-10 14:31:31.771 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:31.797 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:31.797 [info] 
+2025-10-10 14:31:35.066 [info] Running checks...
+2025-10-10 14:31:35.066 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:35.091 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:35.091 [info] 
+2025-10-10 14:31:36.361 [info] Running checks...
+2025-10-10 14:31:36.361 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:36.386 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:36.386 [info] 
+2025-10-10 14:31:41.507 [info] Running checks...
+2025-10-10 14:31:41.507 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:41.543 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:41.543 [info] 
+2025-10-10 14:31:44.295 [info] Running checks...
+2025-10-10 14:31:44.295 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:44.321 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:44.321 [info] 
+2025-10-10 14:31:48.035 [info] Running checks...
+2025-10-10 14:31:48.035 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:48.062 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:48.062 [info] 
+2025-10-10 14:31:54.087 [info] Running checks...
+2025-10-10 14:31:54.087 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:54.114 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:54.114 [info] 
+2025-10-10 14:31:58.667 [info] Running checks...
+2025-10-10 14:31:58.667 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:31:58.692 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:31:58.692 [info] 
+2025-10-10 14:32:01.592 [info] Running checks...
+2025-10-10 14:32:01.592 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:32:01.617 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:32:01.617 [info] 
+2025-10-10 14:32:05.367 [info] Running checks...
+2025-10-10 14:32:05.367 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:32:05.393 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:32:05.393 [info] 
+2025-10-10 14:32:10.028 [info] Running checks...
+2025-10-10 14:32:10.028 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:32:10.060 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:32:10.060 [info] 
+2025-10-10 14:32:12.333 [info] Running checks...
+2025-10-10 14:32:12.333 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:32:12.358 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:32:12.358 [info] 
+2025-10-10 14:32:17.003 [info] Running checks...
+2025-10-10 14:32:17.003 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:32:17.029 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:32:17.029 [info] 
+2025-10-10 14:32:18.999 [info] Running checks...
+2025-10-10 14:32:18.999 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:32:19.029 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:32:19.029 [info] 
+2025-10-10 14:32:24.853 [info] Running checks...
+2025-10-10 14:32:24.853 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:32:24.881 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:32:24.881 [info] 
+2025-10-10 14:32:30.389 [info] Running checks...
+2025-10-10 14:32:30.389 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:32:30.415 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:32:30.415 [info] 
+2025-10-10 14:32:32.895 [info] Running checks...
+2025-10-10 14:32:32.895 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:32:32.920 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:32:32.920 [info] 
+2025-10-10 14:32:35.106 [info] Running checks...
+2025-10-10 14:32:35.106 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:32:35.133 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:32:35.133 [info] 
+2025-10-10 14:32:40.292 [info] Running checks...
+2025-10-10 14:32:40.292 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:32:40.318 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:32:40.318 [info] 
+2025-10-10 14:33:23.103 [info] Running checks...
+2025-10-10 14:33:23.103 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:33:23.128 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:33:23.128 [info] 
+2025-10-10 14:33:24.174 [info] Running checks...
+2025-10-10 14:33:24.174 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:33:24.200 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:33:24.200 [info] 
+2025-10-10 14:33:26.262 [info] Running checks...
+2025-10-10 14:33:26.262 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:33:26.289 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:33:26.289 [info] 
+2025-10-10 14:33:32.399 [info] Running checks...
+2025-10-10 14:33:32.399 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:33:32.425 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:33:32.425 [info] 
+2025-10-10 14:33:38.111 [info] Running checks...
+2025-10-10 14:33:38.111 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:33:38.140 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:33:38.140 [info] 
+2025-10-10 14:33:41.243 [info] Running checks...
+2025-10-10 14:33:41.243 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:33:41.277 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:33:41.277 [info] 
+2025-10-10 14:33:48.591 [info] Running checks...
+2025-10-10 14:33:48.591 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:33:48.618 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:33:48.618 [info] 
+2025-10-10 14:33:51.633 [info] Running checks...
+2025-10-10 14:33:51.633 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:33:51.661 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:33:51.661 [info] 
+2025-10-10 14:34:02.084 [info] Running checks...
+2025-10-10 14:34:02.084 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:34:02.113 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:34:02.113 [info] 
+2025-10-10 14:34:06.574 [info] Running checks...
+2025-10-10 14:34:06.574 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:34:06.601 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:34:06.601 [info] 
+2025-10-10 14:34:08.177 [info] Running checks...
+2025-10-10 14:34:08.177 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:34:08.204 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:34:08.204 [info] 
+2025-10-10 14:34:09.592 [info] Running checks...
+2025-10-10 14:34:09.592 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:34:09.629 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:34:09.629 [info] 
+2025-10-10 14:34:10.802 [info] Running checks...
+2025-10-10 14:34:10.802 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:34:10.829 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:34:10.829 [info] 
+2025-10-10 14:34:24.077 [info] Running checks...
+2025-10-10 14:34:24.077 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:34:24.110 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:34:24.110 [info] 
+2025-10-10 14:34:24.470 [info] Running checks...
+2025-10-10 14:34:24.470 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:34:24.501 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:34:24.501 [info] 
+2025-10-10 14:34:26.539 [info] Running checks...
+2025-10-10 14:34:26.539 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:34:26.582 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:34:26.582 [info] 
+2025-10-10 14:35:15.470 [info] Running checks...
+2025-10-10 14:35:15.471 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:35:15.505 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:35:15.505 [info] 
+2025-10-10 14:35:39.936 [info] Running checks...
+2025-10-10 14:35:39.936 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:35:39.966 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:35:39.966 [info] 
+2025-10-10 14:35:47.880 [info] Running checks...
+2025-10-10 14:35:47.880 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:35:47.909 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:35:47.909 [info] 
+2025-10-10 14:35:49.786 [info] Running checks...
+2025-10-10 14:35:49.786 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:35:49.818 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:35:49.818 [info] 
+2025-10-10 14:35:55.126 [info] Running checks...
+2025-10-10 14:35:55.126 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:35:55.158 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:35:55.158 [info] 
+2025-10-10 14:35:57.734 [info] Running checks...
+2025-10-10 14:35:57.734 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:35:57.762 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:35:57.762 [info] 
+2025-10-10 14:36:03.171 [info] Running checks...
+2025-10-10 14:36:03.171 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:36:03.199 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:36:03.199 [info] 
+2025-10-10 14:36:05.083 [info] Running checks...
+2025-10-10 14:36:05.083 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:36:05.112 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:36:05.112 [info] 
+2025-10-10 14:36:17.292 [info] Running checks...
+2025-10-10 14:36:17.292 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:36:17.322 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:36:17.322 [info] 
+2025-10-10 14:38:14.208 [info] Running checks...
+2025-10-10 14:38:14.208 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:38:14.236 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:38:14.236 [info] 
+2025-10-10 14:38:19.846 [info] Running checks...
+2025-10-10 14:38:19.846 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:38:19.875 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:38:19.875 [info] 
+2025-10-10 14:39:33.592 [info] Running checks...
+2025-10-10 14:39:33.592 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:39:33.620 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:39:33.620 [info] 
+2025-10-10 14:39:38.324 [info] Running checks...
+2025-10-10 14:39:38.324 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:39:38.362 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:39:38.362 [info] 
+2025-10-10 14:39:55.521 [info] Running checks...
+2025-10-10 14:39:55.521 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:39:55.549 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:39:55.549 [info] 
+2025-10-10 14:40:07.387 [info] Running checks...
+2025-10-10 14:40:07.387 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:40:07.414 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:40:07.414 [info] 
+2025-10-10 14:40:11.944 [info] Running checks...
+2025-10-10 14:40:11.944 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:40:11.975 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:40:11.975 [info] 
+2025-10-10 14:40:18.469 [info] Running checks...
+2025-10-10 14:40:18.469 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:40:18.496 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:40:18.496 [info] 
+2025-10-10 14:40:20.091 [info] Running checks...
+2025-10-10 14:40:20.091 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:40:20.119 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:40:20.119 [info] 
+2025-10-10 14:40:45.182 [info] Running checks...
+2025-10-10 14:40:45.182 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:40:45.209 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:40:45.209 [info] 
+2025-10-10 14:40:51.535 [info] Running checks...
+2025-10-10 14:40:51.535 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:40:51.566 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:40:51.566 [info] 
+2025-10-10 14:40:54.973 [info] Running checks...
+2025-10-10 14:40:54.973 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:40:55.003 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:40:55.003 [info] 
+2025-10-10 14:41:00.147 [info] Running checks...
+2025-10-10 14:41:00.147 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:41:00.177 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:41:00.177 [info] 
+2025-10-10 14:41:05.252 [info] Running checks...
+2025-10-10 14:41:05.252 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:41:05.281 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:41:05.281 [info] 
+2025-10-10 14:41:08.451 [info] Running checks...
+2025-10-10 14:41:08.451 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:41:08.478 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:41:08.478 [info] 
+2025-10-10 14:41:20.615 [info] Running checks...
+2025-10-10 14:41:20.615 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:41:20.643 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:41:20.643 [info] 
+2025-10-10 14:41:22.873 [info] Running checks...
+2025-10-10 14:41:22.873 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:41:22.900 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:41:22.900 [info] 
+2025-10-10 14:41:25.244 [info] Running checks...
+2025-10-10 14:41:25.244 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:41:25.275 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:41:25.275 [info] 
+2025-10-10 14:41:26.247 [info] Running checks...
+2025-10-10 14:41:26.247 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:41:26.294 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:41:26.294 [info] 
+2025-10-10 14:41:36.534 [info] Running checks...
+2025-10-10 14:41:36.534 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:41:36.561 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:41:36.561 [info] 
+2025-10-10 14:41:37.752 [info] Running checks...
+2025-10-10 14:41:37.752 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:41:37.779 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:41:37.779 [info] 
+2025-10-10 14:41:44.977 [info] Running checks...
+2025-10-10 14:41:44.977 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:41:45.006 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:41:45.006 [info] 
+2025-10-10 14:42:20.351 [info] Running checks...
+2025-10-10 14:42:20.351 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:20.378 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:20.378 [info] 
+2025-10-10 14:42:22.689 [info] Running checks...
+2025-10-10 14:42:22.689 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:22.716 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:22.716 [info] 
+2025-10-10 14:42:27.100 [info] Running checks...
+2025-10-10 14:42:27.101 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:27.129 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:27.129 [info] 
+2025-10-10 14:42:30.489 [info] Running checks...
+2025-10-10 14:42:30.489 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:30.516 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:30.516 [info] 
+2025-10-10 14:42:35.864 [info] Running checks...
+2025-10-10 14:42:35.864 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:35.891 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:35.891 [info] 
+2025-10-10 14:42:38.310 [info] Running checks...
+2025-10-10 14:42:38.310 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:38.339 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:38.339 [info] 
+2025-10-10 14:42:40.991 [info] Running checks...
+2025-10-10 14:42:40.991 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:41.019 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:41.019 [info] 
+2025-10-10 14:42:46.093 [info] Running checks...
+2025-10-10 14:42:46.093 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:46.122 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:46.122 [info] 
+2025-10-10 14:42:47.783 [info] Running checks...
+2025-10-10 14:42:47.783 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:47.810 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:47.810 [info] 
+2025-10-10 14:42:55.247 [info] Running checks...
+2025-10-10 14:42:55.247 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:55.274 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:55.274 [info] 
+2025-10-10 14:42:56.345 [info] Running checks...
+2025-10-10 14:42:56.345 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:56.373 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:56.373 [info] 
+2025-10-10 14:42:57.809 [info] Running checks...
+2025-10-10 14:42:57.809 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:42:57.838 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:42:57.838 [info] 
+2025-10-10 14:43:03.464 [info] Running checks...
+2025-10-10 14:43:03.464 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:43:03.492 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:43:03.492 [info] 
+2025-10-10 14:43:07.876 [info] Running checks...
+2025-10-10 14:43:07.876 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:43:07.904 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:43:07.904 [info] 
+2025-10-10 14:43:09.214 [info] Running checks...
+2025-10-10 14:43:09.214 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:43:09.244 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:43:09.244 [info] 
+2025-10-10 14:46:09.202 [info] Running checks...
+2025-10-10 14:46:09.202 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:46:09.233 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:46:09.233 [info] 
+2025-10-10 14:46:15.391 [info] Running checks...
+2025-10-10 14:46:15.391 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:46:15.423 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:46:15.423 [info] 
+2025-10-10 14:46:18.026 [info] Running checks...
+2025-10-10 14:46:18.027 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:46:18.060 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:46:18.061 [info] 
+2025-10-10 14:46:29.501 [info] Running checks...
+2025-10-10 14:46:29.501 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:46:29.531 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:46:29.531 [info] 
+2025-10-10 14:46:33.696 [info] Running checks...
+2025-10-10 14:46:33.696 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:46:33.726 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:46:33.726 [info] 
+2025-10-10 14:46:35.003 [info] Running checks...
+2025-10-10 14:46:35.003 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:46:35.035 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:46:35.035 [info] 
+2025-10-10 14:47:40.935 [info] Running checks...
+2025-10-10 14:47:40.935 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:47:40.962 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:47:40.962 [info] 
+2025-10-10 14:47:43.783 [info] Running checks...
+2025-10-10 14:47:43.783 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:47:43.817 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:47:43.817 [info] 
+2025-10-10 14:47:45.442 [info] Running checks...
+2025-10-10 14:47:45.442 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:47:45.473 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:47:45.473 [info] 
+2025-10-10 14:48:52.175 [info] Running checks...
+2025-10-10 14:48:52.175 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:48:52.206 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:48:52.206 [info] 
+2025-10-10 14:48:53.698 [info] Running checks...
+2025-10-10 14:48:53.698 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:48:53.727 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:48:53.727 [info] 
+2025-10-10 14:48:59.334 [info] Running checks...
+2025-10-10 14:48:59.334 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:48:59.365 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:48:59.365 [info] 
+2025-10-10 14:49:11.295 [info] Running checks...
+2025-10-10 14:49:11.295 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:11.325 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:11.325 [info] 
+2025-10-10 14:49:19.535 [info] Running checks...
+2025-10-10 14:49:19.535 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:19.562 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:19.562 [info] 
+2025-10-10 14:49:23.269 [info] Running checks...
+2025-10-10 14:49:23.269 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:23.298 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:23.298 [info] 
+2025-10-10 14:49:26.991 [info] Running checks...
+2025-10-10 14:49:26.991 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:27.018 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:27.018 [info] 
+2025-10-10 14:49:29.021 [info] Running checks...
+2025-10-10 14:49:29.021 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:29.048 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:29.048 [info] 
+2025-10-10 14:49:33.502 [info] Running checks...
+2025-10-10 14:49:33.502 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:33.530 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:33.530 [info] 
+2025-10-10 14:49:34.871 [info] Running checks...
+2025-10-10 14:49:34.871 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:34.899 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:34.899 [info] 
+2025-10-10 14:49:41.389 [info] Running checks...
+2025-10-10 14:49:41.389 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:41.418 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:41.418 [info] 
+2025-10-10 14:49:44.375 [info] Running checks...
+2025-10-10 14:49:44.375 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:44.403 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:44.403 [info] 
+2025-10-10 14:49:47.101 [info] Running checks...
+2025-10-10 14:49:47.101 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:47.129 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:47.129 [info] 
+2025-10-10 14:49:51.616 [info] Running checks...
+2025-10-10 14:49:51.617 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:51.644 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:51.644 [info] 
+2025-10-10 14:49:54.801 [info] Running checks...
+2025-10-10 14:49:54.801 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:54.832 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:54.832 [info] 
+2025-10-10 14:49:56.445 [info] Running checks...
+2025-10-10 14:49:56.445 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:56.476 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:56.476 [info] 
+2025-10-10 14:49:58.621 [info] Running checks...
+2025-10-10 14:49:58.621 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:49:58.650 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:49:58.650 [info] 
+2025-10-10 14:50:01.274 [info] Running checks...
+2025-10-10 14:50:01.274 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:01.301 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:01.301 [info] 
+2025-10-10 14:50:11.720 [info] Running checks...
+2025-10-10 14:50:11.720 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:11.748 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:11.748 [info] 
+2025-10-10 14:50:16.322 [info] Running checks...
+2025-10-10 14:50:16.322 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:16.349 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:16.349 [info] 
+2025-10-10 14:50:20.289 [info] Running checks...
+2025-10-10 14:50:20.289 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:20.317 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:20.317 [info] 
+2025-10-10 14:50:27.075 [info] Running checks...
+2025-10-10 14:50:27.075 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:27.101 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:27.101 [info] 
+2025-10-10 14:50:29.612 [info] Running checks...
+2025-10-10 14:50:29.612 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:29.641 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:29.641 [info] 
+2025-10-10 14:50:33.229 [info] Running checks...
+2025-10-10 14:50:33.229 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:33.260 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:33.260 [info] 
+2025-10-10 14:50:39.140 [info] Running checks...
+2025-10-10 14:50:39.140 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:39.168 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:39.168 [info] 
+2025-10-10 14:50:42.109 [info] Running checks...
+2025-10-10 14:50:42.109 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:42.136 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:42.136 [info] 
+2025-10-10 14:50:44.592 [info] Running checks...
+2025-10-10 14:50:44.592 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:44.621 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:44.621 [info] 
+2025-10-10 14:50:49.788 [info] Running checks...
+2025-10-10 14:50:49.788 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:49.820 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:49.820 [info] 
+2025-10-10 14:50:59.109 [info] Running checks...
+2025-10-10 14:50:59.109 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:50:59.138 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:50:59.138 [info] 
+2025-10-10 14:51:03.434 [info] Running checks...
+2025-10-10 14:51:03.434 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:51:03.464 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:51:03.464 [info] 
+2025-10-10 14:51:04.795 [info] Running checks...
+2025-10-10 14:51:04.796 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:51:04.823 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:51:04.823 [info] 
+2025-10-10 14:51:08.224 [info] Running checks...
+2025-10-10 14:51:08.224 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:51:08.253 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:51:08.253 [info] 
+2025-10-10 14:51:12.155 [info] Running checks...
+2025-10-10 14:51:12.155 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:51:12.184 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:51:12.184 [info] 
+2025-10-10 14:51:13.481 [info] Running checks...
+2025-10-10 14:51:13.481 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:51:13.509 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:51:13.509 [info] 
+2025-10-10 14:51:14.974 [info] Running checks...
+2025-10-10 14:51:14.974 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:51:15.006 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:51:15.006 [info] 
+2025-10-10 14:51:22.986 [info] Running checks...
+2025-10-10 14:51:22.986 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:51:23.018 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:51:23.018 [info] 
+2025-10-10 14:54:32.754 [info] Fetching latest go developer survey
+2025-10-10 14:54:33.151 [info] Using fetched Go developer survey: v0.1.0
+2025-10-10 14:54:33.152 [info] Survey active from Mon Sep 08 2025 to Tue Sep 30 2025
+2025-10-10 14:58:07.100 [info] Running checks...
+2025-10-10 14:58:07.100 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:58:07.130 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:58:07.130 [info] 
+2025-10-10 14:58:08.224 [info] Running checks...
+2025-10-10 14:58:08.224 [info] Starting linting the current package at /home/arshan/Code/gotut
+2025-10-10 14:58:08.250 [info] /home/arshan/Code/gotut>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-10 14:58:08.250 [info] 

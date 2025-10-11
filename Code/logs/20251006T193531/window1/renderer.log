@@ -1,0 +1,92 @@
+2025-10-06 19:35:33.437 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-06 19:35:33.533 [info] Started local extension host with pid 6485.
+2025-10-06 19:35:33.562 [info] Started initializing default profile extensions in extensions installation folder. file:///home/arshan/.vscode/extensions
+2025-10-06 19:35:33.656 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/arshan/.vscode/extensions
+2025-10-06 19:35:34.318 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-06 19:35:36.443 [info] [perf] Render performance baseline is 17ms
+2025-10-06 19:35:46.516 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-06 19:35:46.621 [info] Started local extension host with pid 6599.
+2025-10-06 19:35:47.265 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-06 19:35:49.198 [info] [perf] Render performance baseline is 18ms
+2025-10-06 19:35:57.959 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:35:57.959 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList
+2025-10-06 19:36:04.087 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:37:09.554 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:37:15.219 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:37:15.219 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList
+2025-10-06 19:37:15.315 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-10-06 19:37:15.325 [info] Started local extension host with pid 8350.
+2025-10-06 19:37:16.221 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:37:17.017 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-06 19:37:18.048 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:37:18.232 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:37:19.752 [info] [perf] Render performance baseline is 18ms
+2025-10-06 19:37:20.202 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:37:23.482 [error] [Extension Host] (node:8350) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-06 19:37:23.839 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:37:29.866 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:37:45.674 [error] [Extension Host] Error finding fonts: /usr/local/share/fonts/ EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/usr/local/share/fonts/'
+	at ms.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:18064)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16011)
+	at async X5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275971)
+	at async Promise.all (index 1)
+	at async j5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275174)
+	at async /home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:277033
+2025-10-06 19:37:45.675 [error] [Extension Host] Error finding fonts: /home/arshan/.fonts EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arshan/.fonts'
+	at ms.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:18064)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16011)
+	at async X5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275971)
+	at async Promise.all (index 2)
+	at async j5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275174)
+	at async /home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:277033
+2025-10-06 19:37:52.632 [info] Started local extension host with pid 8548.
+2025-10-06 19:37:53.205 [error] [Extension Host] (node:8548) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-06 19:37:53.469 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-06 19:37:53.970 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:37:53.971 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList
+2025-10-06 19:37:55.319 [info] [perf] Render performance baseline is 19ms
+2025-10-06 19:37:55.754 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-06 19:37:58.144 [error] [Extension Host] Error finding fonts: /usr/local/share/fonts/ EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/usr/local/share/fonts/'
+	at ms.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:18064)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16011)
+	at async X5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275971)
+	at async Promise.all (index 1)
+	at async j5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275174)
+	at async /home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:277033
+2025-10-06 19:37:58.144 [error] [Extension Host] Error finding fonts: /home/arshan/.fonts EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arshan/.fonts'
+	at ms.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:18064)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16011)
+	at async X5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275971)
+	at async Promise.all (index 2)
+	at async j5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275174)
+	at async /home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:277033
+2025-10-06 19:38:18.579 [error] [Extension Host] Error finding fonts: /usr/local/share/fonts/ EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/usr/local/share/fonts/'
+	at ms.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:18064)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16011)
+	at async X5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275971)
+	at async Promise.all (index 1)
+	at async j5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275174)
+	at async /home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:277033
+2025-10-06 19:38:18.579 [error] [Extension Host] Error finding fonts: /home/arshan/.fonts EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arshan/.fonts'
+	at ms.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:18064)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16011)
+	at async X5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275971)
+	at async Promise.all (index 2)
+	at async j5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275174)
+	at async /home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:277033
+2025-10-06 19:38:53.499 [error] [Extension Host] Error finding fonts: /usr/local/share/fonts/ EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/usr/local/share/fonts/'
+	at ms.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:18064)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16011)
+	at async X5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275971)
+	at async Promise.all (index 1)
+	at async j5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275174)
+	at async /home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:277033
+2025-10-06 19:38:53.499 [error] [Extension Host] Error finding fonts: /home/arshan/.fonts EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/arshan/.fonts'
+	at ms.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:18064)
+	at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16011)
+	at async X5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275971)
+	at async Promise.all (index 2)
+	at async j5 (/home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:275174)
+	at async /home/arshan/.vscode/extensions/talhabalaj.actual-font-changer-0.0.10/out/main.js:3:277033

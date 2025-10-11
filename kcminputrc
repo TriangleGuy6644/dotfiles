@@ -1,0 +1,6 @@
+[Libinput][5426][138][Razer Razer Viper Mini]
+PointerAcceleration=-0.050
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+cursorTheme=breeze_cursors

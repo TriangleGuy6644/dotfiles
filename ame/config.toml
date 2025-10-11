@@ -1,0 +1,8 @@
+# See https://getcryst.al/docs/amethyst/config for more information on config keys
+
+[base]
+pacdiff_warn = true
+aur_verification_prompt = true
+
+[bin]
+sudo = 'sudo'

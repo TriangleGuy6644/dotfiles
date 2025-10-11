@@ -1,0 +1,9 @@
+2025-10-06 19:35:31.702 [info] update#setState idle
+2025-10-06 19:35:46.199 [info] Extension host with pid 6485 exited with code: 0, signal: unknown.
+2025-10-06 19:36:01.704 [info] update#setState checking for updates
+2025-10-06 19:36:01.746 [info] update#setState idle
+2025-10-06 19:37:14.802 [info] Extension host with pid 6599 exited with code: 0, signal: unknown.
+2025-10-06 19:37:14.821 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 6589]: crashed with code 15 and reason 'killed'
+2025-10-06 19:37:52.093 [info] Extension host with pid 8350 exited with code: 0, signal: unknown.
+2025-10-06 19:44:13.306 [info] Extension host with pid 8548 exited with code: 0, signal: unknown.
+2025-10-06 19:44:13.342 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 8547]: crashed with code 15 and reason 'killed'
