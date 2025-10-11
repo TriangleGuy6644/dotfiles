@@ -1,0 +1,10 @@
+[Unit]
+Description=Auto-push .config to GitHub on startup
+
+[Service]
+Type=oneshot
+ExecStart=/home/%u/.local/bin/autopush-config.sh
+
+[Install]
+WantedBy=default.target
+
