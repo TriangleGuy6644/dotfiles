@@ -211,7 +211,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][44][Applets][66][Configuration]
-PreloadWeight=65
+PreloadWeight=70
 popupHeight=450
 popupWidth=560
 
@@ -228,8 +228,9 @@ immutability=1
 plugin=org.kde.plasma.shutdownorswitch
 
 [Containments][44][Applets][69][Configuration]
+PreloadWeight=65
 popupHeight=400
-popupWidth=560
+popupWidth=216
 
 [Containments][44][Applets][70]
 immutability=1
@@ -259,8 +260,19 @@ icon=/home/arshan/Downloads/skull-removebg-preview.png
 immutability=1
 plugin=org.kde.plasma.appmenu
 
+[Containments][44][Applets][73]
+immutability=1
+plugin=org.kde.plasma.lock_logout
+
+[Containments][44][Applets][73][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][44][Applets][73][Configuration][General]
+show_lockScreen=false
+
 [Containments][44][General]
-AppletOrder=70;71;72;68;66;67;69;65;48
+AppletOrder=70;71;72;73;68;66;67;69;65;48
 
 [ScreenMapping]
 itemsOnDisabledScreens=
