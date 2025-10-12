@@ -7,6 +7,9 @@
         "folders": [
             {
                 "folderUri": "file:///home/arshan/Code/gotut"
+            },
+            {
+                "folderUri": "file:///home/arshan/.local/share/color-schemes"
             }
         ],
         "emptyWindows": []
@@ -15,7 +18,8 @@
     "profileAssociations": {
         "workspaces": {
             "file:///home/arshan/Code/gotut": "__default__profile__",
-            "file:///home/arshan/Code/learningbash": "__default__profile__"
+            "file:///home/arshan/Code/learningbash": "__default__profile__",
+            "file:///home/arshan/.local/share/color-schemes": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -40,15 +44,15 @@
             "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 300,
-            "auxiliaryBarWidth": 0,
+            "auxiliaryBarWidth": 300,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/arshan/Code/gotut",
-            "backupPath": "/home/arshan/.config/Code/Backups/db2be6e9f1d0c67a8d7adcbee5c696d4",
+            "folder": "file:///home/arshan/.local/share/color-schemes",
+            "backupPath": "/home/arshan/.config/Code/Backups/9876438bbbb178f252f4b5e862f0ccff",
             "uiState": {
                 "mode": 0,
                 "x": 1920,
@@ -71,6 +75,10 @@
                 "cbc21a3a70ad7938214228c88b433918": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
+                },
+                "f944a6608cbd78fbd46b95bceb862347": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
                 }
             }
         }

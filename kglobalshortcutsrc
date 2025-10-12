@@ -253,6 +253,9 @@ switch to next activity=none,,Switch to Next Activity
 switch to previous activity=none,,Switch to Previous Activity
 toggle do not disturb=none,,Toggle do not disturb
 
+[services][com.mitchellh.ghostty.desktop]
+_launch=
+
 [services][net.local.flameshot.desktop]
 _launch=Meta+Shift+S
 
@@ -261,6 +264,9 @@ _launch=Meta+Ctrl+Shift+S
 
 [services][org.flameshot.Flameshot.desktop]
 Capture=Meta+Shift+S
+
+[services][org.kde.kcolorchooser.desktop]
+_launch=Meta+Ctrl+P
 
 [services][org.kde.spectacle.desktop]
 _launch=Print

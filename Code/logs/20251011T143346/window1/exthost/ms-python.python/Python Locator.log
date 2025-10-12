@@ -1,0 +1,46 @@
+2025-10-11 16:17:14.207 [info] Starting Python Locator /home/arshan/.vscode/extensions/ms-python.python-2025.16.0-linux-x64/python-env-tools/bin/pet server
+2025-10-11 16:17:14.374 [info] Discovered env: /bin/python
+2025-10-11 16:17:14.376 [info] Discovered env: /usr/bin/python
+2025-10-11 16:17:14.376 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-10-11 16:17:14.376 [info] Discovered env: /usr/sbin/python
+2025-10-11 16:17:14.377 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-10-11 16:17:14.377 [info] Discovered env: /sbin/python
+2025-10-11 16:17:14.377 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-10-11 16:17:14.377 [info] Discovered env: /usr/sbin/python3
+2025-10-11 16:17:14.378 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-10-11 16:17:14.378 [info] Discovered env: /sbin/python3
+2025-10-11 16:17:14.379 [info] Env ("/usr/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-10-11 16:17:14.379 [info] Discovered env: /usr/sbin/python3.13
+2025-10-11 16:17:14.396 [info] Env ("/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-10-11 16:17:14.396 [info] Discovered env: /sbin/python3.13
+2025-10-11 16:17:14.397 [info] Locator Conda took 183.332378ms
+2025-10-11 16:17:14.397 [info] Locator Homebrew took 107.751µs
+2025-10-11 16:17:14.397 [info] Locator LinuxGlobal took 127.953755ms
+2025-10-11 16:17:14.397 [info] Locator PipEnv took 59.721µs
+2025-10-11 16:17:14.397 [info] Locator Pixi took 47.461µs
+2025-10-11 16:17:14.397 [info] Locator Poetry took 950.554µs
+2025-10-11 16:17:14.397 [info] Locator PyEnv took 782.83µs
+2025-10-11 16:17:14.397 [info] Locator Venv took 191.13µs
+2025-10-11 16:17:14.397 [info] Locator VirtualEnv took 43.949µs
+2025-10-11 16:17:14.397 [info] Locator VirtualEnvWrapper took 62.887µs
+2025-10-11 16:17:14.397 [info] Locator GlobalVirtualEnvs took 337.646µs
+2025-10-11 16:17:14.397 [info] Locator Locators took 183.541839ms
+2025-10-11 16:17:14.397 [info] Locator Path took 219.964883ms
+2025-10-11 16:17:14.397 [info] Locator Workspaces took 744.548µs
+2025-10-11 16:17:14.397 [info] Refresh completed in 220ms
+2025-10-11 16:17:14.429 [info] Resolved Python Environment /bin/python
+2025-10-11 16:17:47.120 [info] Resolved Python Environment /bin/python
+2025-10-11 16:22:08.762 [info] Resolved Python Environment /bin/python
+2025-10-11 16:22:48.733 [info] Resolved Python Environment /bin/python
+2025-10-11 16:23:37.924 [info] Resolved Python Environment /bin/python
+2025-10-11 16:25:00.508 [info] Resolved Python Environment /bin/python
+2025-10-11 16:26:29.841 [info] Resolved Python Environment /bin/python
+2025-10-11 16:27:07.028 [info] Resolved Python Environment /bin/python
+2025-10-11 16:27:59.422 [info] Resolved Python Environment /bin/python
+2025-10-11 16:28:38.569 [info] Resolved Python Environment /bin/python
+2025-10-11 16:32:30.253 [info] Resolved Python Environment /bin/python
+2025-10-11 16:40:07.167 [info] Resolved Python Environment /bin/python
+2025-10-11 16:43:11.085 [info] Resolved Python Environment /bin/python
+2025-10-11 16:44:04.131 [info] Resolved Python Environment /bin/python
+2025-10-11 16:44:35.348 [info] Resolved Python Environment /bin/python
+2025-10-11 16:45:05.892 [info] Resolved Python Environment /bin/python

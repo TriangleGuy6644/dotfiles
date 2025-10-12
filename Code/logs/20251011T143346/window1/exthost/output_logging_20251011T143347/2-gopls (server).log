@@ -446,3 +446,980 @@
 
 [Info  - 15:43:37] 2025/10/11 15:43:37 background refresh finished after 25.427µs
 
+[Error - 15:59:25] 2025/10/11 15:59:25 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:16:11: expression in go must be function call
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 15:59:25] 2025/10/11 15:59:25 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:16:14: expression in go must be function call
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 15:59:26] 2025/10/11 15:59:26 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:16:18: expression in go must be function call
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 15:59:28] 2025/10/11 15:59:28 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:16:24: expression in go must be function call
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 15:59:28] 2025/10/11 15:59:28 signature help failed: cannot get type for Fun *ast.Ident (checkCelciusPrices)
+	position=15:24
+
+[Error - 15:59:32] 2025/10/11 15:59:32 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:16:34: expected operand, found ']'
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 15:59:38] 2025/10/11 15:59:38 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:13:16: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 15:59:41] 2025/10/11 15:59:41 signature help failed: call operand is not a func or type: *ast.Ident (make)
+	position=12:27
+
+[Info  - 15:59:52] 2025/10/11 15:59:52 background imports cache refresh starting
+
+[Info  - 15:59:52] 2025/10/11 15:59:52 background refresh finished after 30.436µs
+
+[Info  - 16:00:28] 2025/10/11 16:00:28 background imports cache refresh starting
+
+[Info  - 16:00:28] 2025/10/11 16:00:28 background refresh finished after 30.062µs
+
+[Info  - 16:01:14] 2025/10/11 16:01:14 background imports cache refresh starting
+
+[Info  - 16:01:14] 2025/10/11 16:01:14 background refresh finished after 29.704µs
+
+[Info  - 16:01:45] 2025/10/11 16:01:45 background imports cache refresh starting
+
+[Info  - 16:01:45] 2025/10/11 16:01:45 background refresh finished after 33.419µs
+
+[Error - 16:02:10] 2025/10/11 16:02:10 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:33:48: missing parameter type
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:02:18] 2025/10/11 16:02:18 background imports cache refresh starting
+
+[Info  - 16:02:18] 2025/10/11 16:02:18 background refresh finished after 27.334µs
+
+[Error - 16:02:32] 2025/10/11 16:02:32 signature help failed: cannot get type for Fun *ast.Ident (checkCelciusPrices)
+	position=16:37
+
+[Error - 16:02:35] 2025/10/11 16:02:35 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:17:35: expected ']', found ')' (and 23 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:02:36] 2025/10/11 16:02:36 signature help failed: cannot get type for Fun *ast.Ident (checkCelciusPrices)
+	position=16:36
+
+[Error - 16:02:37] 2025/10/11 16:02:37 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:17:35: expected ']', found ')' (and 23 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:02:38] 2025/10/11 16:02:38 signature help failed: cannot get type for Fun *ast.Ident (checkCelciusPrices)
+	position=16:37
+
+[Error - 16:02:59] 2025/10/11 16:02:59 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:22:15: expected '(', found newline (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:03:00] 2025/10/11 16:03:00 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:22:15: expected '(', found newline (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:03:00] 2025/10/11 16:03:00 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:22:15: expected '(', found newline (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:03:01] 2025/10/11 16:03:01 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:22:11: expected '(', found newline (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:03:02] 2025/10/11 16:03:02 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:22:16: expected '(', found newline (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:03:03] 2025/10/11 16:03:03 background imports cache refresh starting
+
+[Info  - 16:03:03] 2025/10/11 16:03:03 background refresh finished after 47.964µs
+
+[Error - 16:03:04] 2025/10/11 16:03:04 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:22:18: expected '(', found newline (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:03:05] 2025/10/11 16:03:05 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:22:24: expected '(', found newline (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:03:06] 2025/10/11 16:03:06 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:22:24: expected '(', found newline (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:03:21] 2025/10/11 16:03:21 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:24:3: expected type, found newline (and 9 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:03:28] 2025/10/11 16:03:28 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{time sleep})
+	position=23:13
+
+[Error - 16:03:38] 2025/10/11 16:03:38 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:25:12: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:03:40] 2025/10/11 16:03:40 background imports cache refresh starting
+
+[Info  - 16:03:40] 2025/10/11 16:03:40 background refresh finished after 30.069µs
+
+[Error - 16:03:43] 2025/10/11 16:03:43 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:25:15: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:03:43] 2025/10/11 16:03:43 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:25:20: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:03:44] 2025/10/11 16:03:44 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:25:20: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:03:45] 2025/10/11 16:03:45 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:25:20: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:04:21] 2025/10/11 16:04:21 background imports cache refresh starting
+
+[Info  - 16:04:21] 2025/10/11 16:04:21 background refresh finished after 29.908µs
+
+[Info  - 16:05:04] 2025/10/11 16:05:04 background imports cache refresh starting
+
+[Info  - 16:05:04] 2025/10/11 16:05:04 background refresh finished after 50.059µs
+
+[Error - 16:05:17] 2025/10/11 16:05:17 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:46:51: missing parameter type
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:05:18] 2025/10/11 16:05:18 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:46:51: missing parameter type
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:05:18] 2025/10/11 16:05:18 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:46:51: missing parameter type
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:05:22] 2025/10/11 16:05:22 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:46:59: missing parameter type
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:05:23] 2025/10/11 16:05:23 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:46:61: expected type, found ')'
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:05:24] 2025/10/11 16:05:24 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:46:61: expected type, found ')'
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:05:25] 2025/10/11 16:05:25 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:46:61: expected type, found ')'
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:05:26] 2025/10/11 16:05:26 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:46:60: missing parameter type
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:05:56] 2025/10/11 16:05:56 background imports cache refresh starting
+
+[Info  - 16:05:56] 2025/10/11 16:05:56 background refresh finished after 27.675µs
+
+[Error - 16:09:10] 2025/10/11 16:09:10 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:47:65: missing ',' before newline in argument list (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:09:34] 2025/10/11 16:09:34 background imports cache refresh starting
+
+[Info  - 16:09:34] 2025/10/11 16:09:34 background refresh finished after 26.377µs
+
+[Error - 16:09:36] 2025/10/11 16:09:36 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:49:2: expected operand, found '}' (and 5 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:09:44] 2025/10/11 16:09:44 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:48:15: expected ':', found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:09:58] 2025/10/11 16:09:58 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:48:34: expected ':', found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:09:59] 2025/10/11 16:09:59 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:48:34: expected ':', found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:10:00] 2025/10/11 16:10:00 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:48:34: expected ':', found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:10:04] 2025/10/11 16:10:04 background imports cache refresh starting
+
+[Info  - 16:10:04] 2025/10/11 16:10:04 background refresh finished after 29.055µs
+
+[Info  - 16:10:16] 2025/10/11 16:10:16 go/packages.Load #40
+	view_id="1"
+	snapshot=1796
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=47.793163ms
+
+[Info  - 16:10:16] 2025/10/11 16:10:16 go/packages.Load #41
+	view_id="1"
+	snapshot=1796
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=47.969981ms
+
+[Info  - 16:10:24] 2025/10/11 16:10:24 go/packages.Load #43
+	view_id="1"
+	snapshot=1812
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=45.537503ms
+
+[Info  - 16:10:24] 2025/10/11 16:10:24 go/packages.Load #44
+	view_id="1"
+	snapshot=1812
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=48.116296ms
+
+[Error - 16:10:40] 2025/10/11 16:10:40 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:49:58: expected operand, found ')' (and 7 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:10:40] 2025/10/11 16:10:40 background imports cache refresh starting
+
+[Info  - 16:10:40] 2025/10/11 16:10:40 background refresh finished after 33.461µs
+
+[Error - 16:10:51] 2025/10/11 16:10:51 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:50:26: expected ':', found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:10:51] 2025/10/11 16:10:51 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:50:27: expected ':', found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:10:53] 2025/10/11 16:10:53 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:50:21: expected ':', found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:10:54] 2025/10/11 16:10:54 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:50:24: expected ':', found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:10:55] 2025/10/11 16:10:55 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:50:34: expected ':', found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:11:13] 2025/10/11 16:11:13 background imports cache refresh starting
+
+[Info  - 16:11:13] 2025/10/11 16:11:13 background refresh finished after 20.551µs
+
+[Info  - 16:11:43] 2025/10/11 16:11:43 background imports cache refresh starting
+
+[Info  - 16:11:43] 2025/10/11 16:11:43 background refresh finished after 51.178µs
+
+[Error - 16:12:30] 2025/10/11 16:12:30 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:51:16: unknown escape sequence
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:12:43] 2025/10/11 16:12:43 background imports cache refresh starting
+
+[Info  - 16:12:43] 2025/10/11 16:12:43 background refresh finished after 28.977µs
+
+[Info  - 16:13:02] 2025/10/11 16:13:02 go/packages.Load #45
+	view_id="1"
+	snapshot=2068
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=7.585384ms
+
+[Info  - 16:13:17] 2025/10/11 16:13:17 go/packages.Load #46
+	view_id="1"
+	snapshot=2079
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=6.995789ms
+
+[Info  - 16:13:17] 2025/10/11 16:13:17 go/packages.Load #48
+	view_id="1"
+	snapshot=2080
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=8.691564ms
+
+[Info  - 16:13:17] 2025/10/11 16:13:17 go/packages.Load #47
+	view_id="1"
+	snapshot=2080
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=8.732008ms
+
+[Info  - 16:13:17] 2025/10/11 16:13:17 go/packages.Load #50
+	view_id="1"
+	snapshot=2081
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=7.901921ms
+
+[Info  - 16:13:17] 2025/10/11 16:13:17 go/packages.Load #49
+	view_id="1"
+	snapshot=2081
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=7.931479ms
+
+[Info  - 16:13:17] 2025/10/11 16:13:17 go/packages.Load #52
+	view_id="1"
+	snapshot=2082
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=30.996924ms
+
+[Info  - 16:13:17] 2025/10/11 16:13:17 go/packages.Load #51
+	view_id="1"
+	snapshot=2082
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=31.040212ms
+
+[Info  - 16:13:17] 2025/10/11 16:13:17 go/packages.Load #53
+	view_id="1"
+	snapshot=2083
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=28.457548ms
+
+[Info  - 16:13:17] 2025/10/11 16:13:17 go/packages.Load #54
+	view_id="1"
+	snapshot=2083
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=28.046949ms
+
+[Info  - 16:13:17] 2025/10/11 16:13:17 go/packages.Load #55
+	view_id="1"
+	snapshot=2084
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=30.022731ms
+
+[Info  - 16:13:17] 2025/10/11 16:13:17 go/packages.Load #56
+	view_id="1"
+	snapshot=2084
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=28.838199ms
+
+[Error - 16:13:20] 2025/10/11 16:13:20 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:3:5: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:13:22] 2025/10/11 16:13:22 go/packages.Load #57
+	view_id="1"
+	snapshot=2103
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=28.333916ms
+
+[Info  - 16:13:22] 2025/10/11 16:13:22 go/packages.Load #58
+	view_id="1"
+	snapshot=2103
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=34.256638ms
+
+[Info  - 16:13:23] 2025/10/11 16:13:23 go/packages.Load #59
+	view_id="1"
+	snapshot=2106
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=27.438284ms
+
+[Error - 16:13:23] 2025/10/11 16:13:23 unable to compute deps errors: stat : no such file or directory
+	package="_/home/arshan/Code/gotut"
+
+[Info  - 16:13:23] 2025/10/11 16:13:23 go/packages.Load #60
+	view_id="1"
+	snapshot=2106
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=25.881486ms
+
+[Info  - 16:13:23] 2025/10/11 16:13:23 go/packages.Load #61
+	view_id="1"
+	snapshot=2107
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=25.640776ms
+
+[Error - 16:13:23] 2025/10/11 16:13:23 unable to compute deps errors: stat : no such file or directory
+	package="_/home/arshan/Code/gotut"
+
+[Info  - 16:13:23] 2025/10/11 16:13:23 go/packages.Load #62
+	view_id="1"
+	snapshot=2107
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=25.767112ms
+
+[Info  - 16:13:23] 2025/10/11 16:13:23 go/packages.Load #63
+	view_id="1"
+	snapshot=2108
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=46.105391ms
+
+[Info  - 16:13:23] 2025/10/11 16:13:23 go/packages.Load #64
+	view_id="1"
+	snapshot=2108
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=46.766826ms
+
+[Error - 16:13:47] 2025/10/11 16:13:47 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:8:14: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:13:49] 2025/10/11 16:13:49 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:8:19: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:13:49] 2025/10/11 16:13:49 background imports cache refresh starting
+
+[Info  - 16:13:49] 2025/10/11 16:13:49 background refresh finished after 47.266µs
+
+[Error - 16:14:05] 2025/10/11 16:14:05 signature help failed: cannot get type for Fun *ast.Ident (sumSlice)
+	position=8:22
+
+[Error - 16:14:11] 2025/10/11 16:14:11 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:7: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:14:12] 2025/10/11 16:14:12 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:14: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:14:19] 2025/10/11 16:14:19 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:23: expected type, found ')' (and 4 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:14:19] 2025/10/11 16:14:19 background imports cache refresh starting
+
+[Info  - 16:14:19] 2025/10/11 16:14:19 background refresh finished after 27.328µs
+
+[Info  - 16:14:50] 2025/10/11 16:14:50 background imports cache refresh starting
+
+[Info  - 16:14:50] 2025/10/11 16:14:50 background refresh finished after 28.317µs
+
+[Info  - 16:15:21] 2025/10/11 16:15:21 background imports cache refresh starting
+
+[Info  - 16:15:21] 2025/10/11 16:15:21 background refresh finished after 29.087µs
+
+[Info  - 16:15:51] 2025/10/11 16:15:51 background imports cache refresh starting
+
+[Info  - 16:15:51] 2025/10/11 16:15:51 background refresh finished after 30.456µs
+
+[Info  - 16:16:29] 2025/10/11 16:16:29 background imports cache refresh starting
+
+[Info  - 16:16:29] 2025/10/11 16:16:29 background refresh finished after 41.438µs
+
+[Error - 16:16:43] 2025/10/11 16:16:43 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:13:13: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:17:11] 2025/10/11 16:17:11 background imports cache refresh starting
+
+[Info  - 16:17:11] 2025/10/11 16:17:11 background refresh finished after 24.224µs
+
+[Info  - 16:26:04] 2025/10/11 16:26:04 background imports cache refresh starting
+
+[Info  - 16:26:04] 2025/10/11 16:26:04 background refresh finished after 25.894µs
+
+[Info  - 16:26:37] 2025/10/11 16:26:37 background imports cache refresh starting
+
+[Info  - 16:26:37] 2025/10/11 16:26:37 background refresh finished after 38.876µs
+
+[Info  - 16:31:28] 2025/10/11 16:31:28 go/packages.Load #65
+	view_id="1"
+	snapshot=2639
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=8.470167ms
+
+[Error - 16:31:29] 2025/10/11 16:31:29 no completions found: getting file file:///home/arshan/Code/gotut/main.go for Completion: <nil> (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:7
+
+[Info  - 16:31:30] 2025/10/11 16:31:30 go/packages.Load #66
+	view_id="1"
+	snapshot=2656
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=7.605824ms
+
+[Info  - 16:31:30] 2025/10/11 16:31:30 go/packages.Load #67
+	view_id="1"
+	snapshot=2657
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=7.454237ms
+
+[Info  - 16:31:30] 2025/10/11 16:31:30 go/packages.Load #68
+	view_id="1"
+	snapshot=2657
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=7.580414ms
+
+[Info  - 16:31:30] 2025/10/11 16:31:30 go/packages.Load #70
+	view_id="1"
+	snapshot=2658
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=8.019303ms
+
+[Info  - 16:31:30] 2025/10/11 16:31:30 go/packages.Load #69
+	view_id="1"
+	snapshot=2658
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=8.671821ms
+
+[Info  - 16:31:31] 2025/10/11 16:31:31 go/packages.Load #72
+	view_id="1"
+	snapshot=2659
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=29.02702ms
+
+[Info  - 16:31:31] 2025/10/11 16:31:31 go/packages.Load #71
+	view_id="1"
+	snapshot=2659
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=29.035333ms
+
+[Error - 16:31:33] 2025/10/11 16:31:33 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:2:7: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:31:33] 2025/10/11 16:31:33 go/packages.Load #73
+	view_id="1"
+	snapshot=2669
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=28.617122ms
+
+[Info  - 16:31:33] 2025/10/11 16:31:33 go/packages.Load #74
+	view_id="1"
+	snapshot=2669
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=27.532607ms
+
+[Error - 16:31:34] 2025/10/11 16:31:34 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:2:11: missing import path
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:31:35] 2025/10/11 16:31:35 go/packages.Load #75
+	view_id="1"
+	snapshot=2675
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=28.174353ms
+
+[Info  - 16:31:35] 2025/10/11 16:31:35 go/packages.Load #76
+	view_id="1"
+	snapshot=2675
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=26.79101ms
+
+[Info  - 16:31:35] 2025/10/11 16:31:35 go/packages.Load #77
+	view_id="1"
+	snapshot=2677
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=29.444618ms
+
+[Error - 16:31:35] 2025/10/11 16:31:35 unable to compute deps errors: stat : no such file or directory
+	package="_/home/arshan/Code/gotut"
+
+[Info  - 16:31:35] 2025/10/11 16:31:35 go/packages.Load #78
+	view_id="1"
+	snapshot=2677
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=28.020514ms
+
+[Info  - 16:31:35] 2025/10/11 16:31:35 go/packages.Load #79
+	view_id="1"
+	snapshot=2678
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=25.50317ms
+
+[Error - 16:31:35] 2025/10/11 16:31:35 unable to compute deps errors: stat : no such file or directory
+	package="_/home/arshan/Code/gotut"
+
+[Error - 16:31:35] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 16:31:35] 2025/10/11 16:31:35 go/packages.Load #81
+	view_id="1"
+	snapshot=2679
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=46.642941ms
+
+[Info  - 16:31:35] 2025/10/11 16:31:35 go/packages.Load #82
+	view_id="1"
+	snapshot=2679
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=48.137239ms
+
+[Info  - 16:32:05] 2025/10/11 16:32:05 background imports cache refresh starting
+
+[Info  - 16:32:05] 2025/10/11 16:32:05 background refresh finished after 60.066µs
+
+[Info  - 16:33:00] 2025/10/11 16:33:00 background imports cache refresh starting
+
+[Info  - 16:33:00] 2025/10/11 16:33:00 background refresh finished after 35.403µs
+
+[Error - 16:33:13] 2025/10/11 16:33:13 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:4:10: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:33:41] 2025/10/11 16:33:41 background imports cache refresh starting
+
+[Info  - 16:33:41] 2025/10/11 16:33:41 background refresh finished after 30.248µs
+
+[Error - 16:33:55] 2025/10/11 16:33:55 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:5:9: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:34:00] 2025/10/11 16:34:00 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:5:19: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:34:01] 2025/10/11 16:34:01 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:5:19: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:34:15] 2025/10/11 16:34:15 background imports cache refresh starting
+
+[Info  - 16:34:15] 2025/10/11 16:34:15 background refresh finished after 28.621µs
+
+[Error - 16:34:17] 2025/10/11 16:34:17 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:5:19: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:34:33] 2025/10/11 16:34:33 signature help failed: cannot get type for Fun *ast.Ident (sumIntSlice)
+	position=5:25
+
+[Info  - 16:34:49] 2025/10/11 16:34:49 background imports cache refresh starting
+
+[Info  - 16:34:49] 2025/10/11 16:34:49 background refresh finished after 25.862µs
+
+[Error - 16:36:47] 2025/10/11 16:36:47 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:5: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:36:49] 2025/10/11 16:36:49 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:14: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:36:54] 2025/10/11 16:36:54 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:14: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:36:55] 2025/10/11 16:36:55 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:14: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:36:55] 2025/10/11 16:36:55 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:15: empty type parameter list (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:36:56] 2025/10/11 16:36:56 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:16: missing type constraint (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:36:56] 2025/10/11 16:36:56 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:17: missing type constraint (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:36:57] 2025/10/11 16:36:57 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:17: missing type constraint (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:36:57] 2025/10/11 16:36:57 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:17: missing type constraint (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:37:11] 2025/10/11 16:37:11 background imports cache refresh starting
+
+[Info  - 16:37:11] 2025/10/11 16:37:11 background refresh finished after 26.874µs
+
+[Error - 16:37:11] 2025/10/11 16:37:11 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:31: expected ~ term or type, found ']' (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:37:12] 2025/10/11 16:37:12 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:31: expected ~ term or type, found ']' (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:37:21] 2025/10/11 16:37:21 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:41: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:37:21] 2025/10/11 16:37:21 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:41: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:37:21] 2025/10/11 16:37:21 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:41: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:37:26] 2025/10/11 16:37:26 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:50: expected type, found ')'
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:37:42] 2025/10/11 16:37:42 background imports cache refresh starting
+
+[Info  - 16:37:42] 2025/10/11 16:37:42 background refresh finished after 48.82µs
+
+[Info  - 16:38:12] 2025/10/11 16:38:12 background imports cache refresh starting
+
+[Info  - 16:38:12] 2025/10/11 16:38:12 background refresh finished after 34.716µs
+
+[Error - 16:40:25] 2025/10/11 16:40:25 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:5:19: expected type, found '{' (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:40:42] 2025/10/11 16:40:42 background imports cache refresh starting
+
+[Info  - 16:40:42] 2025/10/11 16:40:42 background refresh finished after 56.142µs
+
+[Error - 16:40:44] 2025/10/11 16:40:44 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:5:9: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:40:45] 2025/10/11 16:40:45 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:5:14: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:40:46] 2025/10/11 16:40:46 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:5:14: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:40:47] 2025/10/11 16:40:47 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:5:14: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:40:47] 2025/10/11 16:40:47 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:5:14: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:40:49] 2025/10/11 16:40:49 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:5:19: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:41:00] 2025/10/11 16:41:00 signature help failed: cannot get type for Fun *ast.Ident (isEmpty)
+	position=5:21
+
+[Error - 16:41:04] 2025/10/11 16:41:04 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:6:27: expected type, found ')'
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:41:12] 2025/10/11 16:41:12 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:6:21: missing ',' before newline in argument list (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:41:13] 2025/10/11 16:41:13 background imports cache refresh starting
+
+[Info  - 16:41:13] 2025/10/11 16:41:13 background refresh finished after 29.35µs
+
+[Error - 16:41:13] 2025/10/11 16:41:13 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:6:22: missing ',' before newline in argument list (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:41:14] 2025/10/11 16:41:14 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:6:21: missing ',' before newline in argument list (and 6 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:41:18] 2025/10/11 16:41:18 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:6:22: expected operand, found ']'
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:41:19] 2025/10/11 16:41:19 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:6:22: expected operand, found ']'
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:41:20] 2025/10/11 16:41:20 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:6:22: expected operand, found ']'
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:41:23] 2025/10/11 16:41:23 signature help failed: cannot get type for Fun *ast.IndexExpr (&{isEmpty 19162250 int 19162254})
+	position=5:26
+
+[Info  - 16:41:43] 2025/10/11 16:41:43 background imports cache refresh starting
+
+[Info  - 16:41:43] 2025/10/11 16:41:43 background refresh finished after 67.982µs
+
+[Error - 16:41:46] 2025/10/11 16:41:46 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:8:13: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:41:47] 2025/10/11 16:41:47 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:8:13: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:41:47] 2025/10/11 16:41:47 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:8:13: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:41:47] 2025/10/11 16:41:47 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:8:16: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:41:48] 2025/10/11 16:41:48 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:8:18: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:42:03] 2025/10/11 16:42:03 signature help failed: cannot get type for Fun *ast.Ident (isEmpty)
+	position=8:21
+
+[Info  - 16:42:14] 2025/10/11 16:42:14 background imports cache refresh starting
+
+[Info  - 16:42:14] 2025/10/11 16:42:14 background refresh finished after 29.556µs
+
+[Error - 16:42:27] 2025/10/11 16:42:27 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:14: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:42:28] 2025/10/11 16:42:28 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:13: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:42:28] 2025/10/11 16:42:28 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:13: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:42:29] 2025/10/11 16:42:29 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:13: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:42:29] 2025/10/11 16:42:29 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:13: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:42:38] 2025/10/11 16:42:38 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:14: empty type parameter list (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:42:40] 2025/10/11 16:42:40 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:20: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:42:41] 2025/10/11 16:42:41 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:20: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:42:41] 2025/10/11 16:42:41 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:12:20: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:42:55] 2025/10/11 16:42:55 background imports cache refresh starting
+
+[Info  - 16:42:55] 2025/10/11 16:42:55 background refresh finished after 36.704µs
+
+[Error - 16:42:58] 2025/10/11 16:42:58 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=12:12
+
+[Info  - 16:43:25] 2025/10/11 16:43:25 background imports cache refresh starting
+
+[Info  - 16:43:25] 2025/10/11 16:43:25 background refresh finished after 43.994µs
+
+[Info  - 16:43:58] 2025/10/11 16:43:58 background imports cache refresh starting
+
+[Info  - 16:43:58] 2025/10/11 16:43:58 background refresh finished after 51.502µs
+
+[Error - 16:45:31] 2025/10/11 16:45:31 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:4:1: expected declaration, found typeww
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:45:34] 2025/10/11 16:45:34 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:4:13: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:45:34] 2025/10/11 16:45:34 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:4:17: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:45:37] 2025/10/11 16:45:37 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:4:24: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:46:01] 2025/10/11 16:46:01 background imports cache refresh starting
+
+[Info  - 16:46:01] 2025/10/11 16:46:01 background refresh finished after 26.384µs
+
+[Error - 16:47:00] 2025/10/11 16:47:00 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:9:12: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:47:23] 2025/10/11 16:47:23 background imports cache refresh starting
+
+[Info  - 16:47:23] 2025/10/11 16:47:23 background refresh finished after 41.815µs
+
+[Error - 16:47:42] 2025/10/11 16:47:42 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:15:8: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:47:47] 2025/10/11 16:47:47 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:19:5: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:47:48] 2025/10/11 16:47:48 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:19:10: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:47:48] 2025/10/11 16:47:48 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:19:11: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:47:49] 2025/10/11 16:47:49 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:19:14: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:47:50] 2025/10/11 16:47:50 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:19:15: empty type parameter list (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:47:51] 2025/10/11 16:47:51 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:19:17: missing type constraint (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:47:54] 2025/10/11 16:47:54 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:19:31: expected ~ term or type, found ']' (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:47:55] 2025/10/11 16:47:55 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:19:31: expected ~ term or type, found ']' (and 3 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:47:55] 2025/10/11 16:47:55 background imports cache refresh starting
+
+[Info  - 16:47:55] 2025/10/11 16:47:55 background refresh finished after 33.601µs
+
+[Error - 16:48:00] 2025/10/11 16:48:00 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:19:44: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:48:24] 2025/10/11 16:48:24 go/packages.Load #84
+	view_id="1"
+	snapshot=3736
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=44.158913ms
+
+[Info  - 16:48:24] 2025/10/11 16:48:24 go/packages.Load #85
+	view_id="1"
+	snapshot=3736
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=40.369814ms
+
+[Info  - 16:48:26] 2025/10/11 16:48:26 background imports cache refresh starting
+
+[Info  - 16:48:26] 2025/10/11 16:48:26 background refresh finished after 70.164µs
+
+[Error - 16:48:52] 2025/10/11 16:48:52 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:25:12: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:48:53] 2025/10/11 16:48:53 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:25:12: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:48:56] 2025/10/11 16:48:56 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:25:17: expected ']', found newline (and 1 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:48:57] 2025/10/11 16:48:57 background imports cache refresh starting
+
+[Info  - 16:48:57] 2025/10/11 16:48:57 background refresh finished after 23.313µs
+
+[Error - 16:48:57] 2025/10/11 16:48:57 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:25:17: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:49:06] 2025/10/11 16:49:06 go/packages.Load #87
+	view_id="1"
+	snapshot=3818
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=54.177005ms
+
+[Info  - 16:49:06] 2025/10/11 16:49:06 go/packages.Load #88
+	view_id="1"
+	snapshot=3818
+	directory=/home/arshan/Code/gotut
+	query=[./]
+	packages=1
+	duration=50.090172ms
+
+[Error - 16:49:18] 2025/10/11 16:49:18 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:27:24: expected operand, found ')' (and 5 more errors)
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:49:27] 2025/10/11 16:49:27 background imports cache refresh starting
+
+[Info  - 16:49:27] 2025/10/11 16:49:27 background refresh finished after 24.634µs
+
+[Error - 16:49:43] 2025/10/11 16:49:43 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:21:14: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:49:44] 2025/10/11 16:49:44 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:21:14: expected type, found newline
+	file="/home/arshan/Code/gotut/main.go"
+
+[Error - 16:49:51] 2025/10/11 16:49:51 imports fixes: allImportsFixes: /home/arshan/Code/gotut/main.go:21:40: expected operand, found ']'
+	file="/home/arshan/Code/gotut/main.go"
+
+[Info  - 16:50:00] 2025/10/11 16:50:00 background imports cache refresh starting
+
+[Info  - 16:50:00] 2025/10/11 16:50:00 background refresh finished after 46.962µs
+
+[Info  - 16:50:21] 2025/10/11 16:50:21 Shutdown session
+	shutdown_session=1
+

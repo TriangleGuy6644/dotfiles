@@ -1,0 +1,22 @@
+[Info  - 16:50:36] 2025/10/11 16:50:36 Created View (#1)
+	directory=/home/arshan/Code/gotut
+	view_type="AdHoc"
+	root_dir="file:///home/arshan/Code/gotut"
+	go_version="go version go1.25.1 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/arshan/.cache/go-build GOMODCACHE:/home/arshan/go/pkg/mod GOPATH:/home/arshan/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.1 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 16:50:36] 2025/10/11 16:50:36 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/arshan/Code/gotut
+	query=[./ builtin]
+	packages=2
+	duration=98.021428ms
+
+[Info  - 16:51:06] 2025/10/11 16:51:06 background imports cache refresh starting
+
+[Info  - 16:51:06] 2025/10/11 16:51:06 background refresh finished after 2.263307ms
+
