@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 17,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "SpaceMono Nerd Font",
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.productIconTheme": "fluent-icons"
+}

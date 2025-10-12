@@ -1,6 +1,0 @@
-[Warn  - 12:44:19] 19:44:19.921 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
-[Info  - 12:44:19] 19:44:19.935 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///home/arshan/Code/learningbash"...
-[Info  - 12:44:19] 19:44:19.942 INFO BackgroundAnalysis: Glob resolved with 1 files after 0.007 seconds
-[Info  - 12:44:19] 19:44:19.943 INFO BackgroundAnalysis: Completed after 0.008 seconds.
-[Warn  - 12:44:20] 19:44:20.439 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'
-[Warn  - 14:11:00] 21:11:00.469 WARNING ⛔️ Error while parsing file:///home/arshan/Code/learningbash/1.sh: syntax error

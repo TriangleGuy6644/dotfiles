@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "requesterUsername": "",
+  "responderUsername": "",
+  "initialLocation": "panel",
+  "requests": [
+    {
+      "requestId": "request_6d997702-88d0-4499-96a5-e83474f65f89",
+      "message": {
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 4
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 5
+            },
+            "text": "Shut",
+            "kind": "text"
+          }
+        ],
+        "text": "Shut"
+      },
+      "variableData": {
+        "variables": []
+      },
+      "response": [
+        {
+          "value": "You need to set up GitHub Copilot and be signed in to use Chat.",
+          "isTrusted": false,
+          "supportThemeIcons": false,
+          "supportHtml": false
+        }
+      ],
+      "responseId": "response_620b0d54-4c03-4ad4-a67b-4b28303c1596",
+      "result": {},
+      "responseMarkdownInfo": [],
+      "followups": [],
+      "isCanceled": false,
+      "agent": {
+        "id": "setup.agent",
+        "name": "GitHub Copilot",
+        "isDefault": true,
+        "isCore": true,
+        "modes": [
+          "agent"
+        ],
+        "when": "config.chat.agent.enabled && !previewFeaturesDisabled",
+        "slashCommands": [],
+        "disambiguation": [],
+        "locations": [
+          "panel"
+        ],
+        "metadata": {
+          "helpTextPrefix": {
+            "value": "You need to set up GitHub Copilot and be signed in to use Chat.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          },
+          "themeIcon": {
+            "id": "tools"
+          }
+        },
+        "description": "Provide instructions.",
+        "extensionId": {
+          "value": "nullExtensionDescription",
+          "_lower": "nullextensiondescription"
+        },
+        "extensionDisplayName": "Null Extension Description",
+        "extensionPublisherId": "vscode"
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1760304397794
+    }
+  ],
+  "sessionId": "edd5bb6a-fe41-4d08-86e3-af810423e470",
+  "creationDate": 1760302796354,
+  "isImported": false,
+  "lastMessageDate": 1760304397795
+}

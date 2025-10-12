@@ -1,4 +1,0 @@
-[Warn  - 14:11:18] 21:11:18.703 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
-[Info  - 14:11:18] 21:11:18.731 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///home/arshan/Code/learningbash"...
-[Info  - 14:11:18] 21:11:18.743 INFO BackgroundAnalysis: Glob resolved with 1 files after 0.012 seconds
-[Info  - 14:11:18] 21:11:18.745 INFO BackgroundAnalysis: Completed after 0.014 seconds.

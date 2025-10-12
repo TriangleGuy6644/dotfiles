@@ -6,10 +6,10 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/arshan/Code/gotut"
+                "folderUri": "file:///home/arshan/Code/goapi"
             },
             {
-                "folderUri": "file:///home/arshan/Code/goapi"
+                "folderUri": "file:///home/arshan/Code/omni"
             }
         ],
         "emptyWindows": []
@@ -20,24 +20,25 @@
             "file:///home/arshan/Code/gotut": "__default__profile__",
             "file:///home/arshan/Code/learningbash": "__default__profile__",
             "file:///home/arshan/.local/share/color-schemes": "__default__profile__",
-            "file:///home/arshan/Code/goapi": "__default__profile__"
+            "file:///home/arshan/Code/goapi": "__default__profile__",
+            "file:///home/arshan/Code/omni": "__default__profile__"
         },
         "emptyWindows": {}
     },
     "theme": "vs-dark",
-    "themeBackground": "#101010",
+    "themeBackground": "#21252c",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cccccc",
-            "background": "#101010",
-            "editorBackground": "#101010",
-            "titleBarBackground": "#101010",
-            "activityBarBackground": "#101010",
-            "sideBarBackground": "#101010",
-            "statusBarBackground": "#101010",
-            "statusBarNoFolderBackground": "#68217a"
+            "background": "#21252c",
+            "editorBackground": "#21252c",
+            "titleBarBackground": "#1e2227",
+            "activityBarBackground": "#1e2227",
+            "sideBarBackground": "#1e2227",
+            "statusBarBackground": "#1e2227",
+            "statusBarNoFolderBackground": "#1e2227"
         },
         "layoutInfo": {
             "sideBarSide": "left",
@@ -52,8 +53,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/arshan/Code/goapi",
-            "backupPath": "/home/arshan/.config/Code/Backups/ced2afa6413b7b9e83bbdeb4b07b5f58",
+            "folder": "file:///home/arshan/Code/omni",
+            "backupPath": "/home/arshan/.config/Code/Backups/6508ad8e0638ee7b41a490b58a9008c8",
             "uiState": {
                 "mode": 0,
                 "x": 1920,
@@ -82,6 +83,10 @@
                     "auxiliaryBarVisible": false
                 },
                 "76adc4ab3dad05e346d744938a61b3bb": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "1a559d47fa0d015cf38cef4db9558df6": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 }

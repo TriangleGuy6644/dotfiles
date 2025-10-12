@@ -1,0 +1,16 @@
+clear
+ls
+clear
+exit
+nu
+clear
+ls
+clear
+ls
+ls | grep go | save g.txt
+ls
+cat g.txt
+rm g.txt
+clear
+eit
+exit
