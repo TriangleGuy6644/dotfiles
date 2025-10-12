@@ -1,0 +1,5 @@
+[11/10/2025 19:09:26 - INFO] Discord Presence activated
+[11/10/2025 19:09:26 - INFO] Creating discord-rpc client
+[11/10/2025 19:09:26 - INFO] Successfully connected to Discord
+[11/10/2025 19:09:26 - DEBUG] Loading git extension
+[11/10/2025 19:09:26 - TRACE] VSCode language id: plaintext

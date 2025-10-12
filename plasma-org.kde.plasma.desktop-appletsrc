@@ -23,7 +23,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][23][Applets][26][Configuration][General]
-launchers=applications:firefox.desktop,file:///opt/discord/discord.desktop,applications:kitty.desktop,applications:steam.desktop,applications:systemsettings.desktop,preferred://filemanager,applications:org.prismlauncher.PrismLauncher.desktop
+launchers=applications:firefox.desktop,applications:discord.desktop,applications:code.desktop,applications:kitty.desktop,applications:steam.desktop,applications:systemsettings.desktop,preferred://filemanager,applications:org.prismlauncher.PrismLauncher.desktop
 
 [Containments][23][Applets][46]
 immutability=1

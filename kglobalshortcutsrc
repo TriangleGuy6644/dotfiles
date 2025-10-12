@@ -256,11 +256,11 @@ toggle do not disturb=none,,Toggle do not disturb
 [services][com.mitchellh.ghostty.desktop]
 _launch=none
 
-[services][net.local.flameshot.desktop]
-_launch=Meta+Shift+S
-
 [services][net.local.poweroff.desktop]
 _launch=Meta+Ctrl+Shift+S
+
+[services][net.local.reboot-2.desktop]
+_launch=Meta+Ctrl+Shift+R
 
 [services][org.flameshot.Flameshot.desktop]
 Capture=Meta+Shift+S
@@ -269,4 +269,5 @@ Capture=Meta+Shift+S
 _launch=Meta+Ctrl+P
 
 [services][org.kde.spectacle.desktop]
+RectangularRegionScreenShot=Meta+Shift+S\tMeta+Shift+Print
 _launch=Print

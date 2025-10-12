@@ -1,3 +1,8 @@
+[ExtractDialog]
+2 screens: Height=540
+2 screens: Width=1256
+DirHistory[$e]=$HOME/Documents/gits/
+
 [Extraction]
 openDestinationFolderAfterExtraction=true
 

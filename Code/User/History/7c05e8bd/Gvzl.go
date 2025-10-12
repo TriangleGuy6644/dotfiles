@@ -1,0 +1,29 @@
+package main
+
+import (
+	"fmt"
+)
+
+type gasEngine struct {
+	gallons float32
+	mpg     float32
+}
+
+type electricEngine struct {
+	kwh float32
+	mpkwh float32
+}
+
+type car [T gasEngine | electricEngine]struct {
+	carMake string
+	carModel string
+	engine T
+}
+
+func main() {
+	var gasCar = car[gasEngine]{
+		carMake: "Honda",
+		carModel: "Civic"
+	}
+}
+

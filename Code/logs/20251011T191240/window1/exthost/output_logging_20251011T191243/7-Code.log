@@ -1,0 +1,28 @@
+[Running] go run "/home/arshan/Code/gotut/main.go"
+
+[Done] exited with code=0 in 0.095 seconds
+
+[Running] go run "/home/arshan/Code/gotut/main.go"
+# command-line-arguments
+./main.go:30:17: syntax error: unexpected newline in composite literal; possibly missing comma or }
+./main.go:32:4: syntax error: unexpected newline in composite literal; possibly missing comma or }
+
+[Done] exited with code=1 in 0.039 seconds
+
+[Running] go run "/home/arshan/Code/gotut/main.go"
+# command-line-arguments
+./main.go:31:10: syntax error: unexpected newline in composite literal; possibly missing comma or }
+./main.go:32:4: syntax error: unexpected newline in composite literal; possibly missing comma or }
+
+[Done] exited with code=1 in 0.03 seconds
+
+[Running] go run "/home/arshan/Code/gotut/main.go"
+{Honda Civic 2007 {12.4 40}}
+
+[Done] exited with code=0 in 0.092 seconds
+
+[Running] go run "/home/arshan/Code/gotut/main.go"
+{Honda Civic 2007 {12.4 40}}
+
+[Done] exited with code=0 in 0.031 seconds
+

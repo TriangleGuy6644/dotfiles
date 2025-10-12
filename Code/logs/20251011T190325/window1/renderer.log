@@ -1,0 +1,11 @@
+2025-10-11 19:03:27.488 [error] Error: The editor could not be opened because the file was not found.
+    at yDe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:81184)
+    at async yDe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:80342)
+    at async PGe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:58521)
+    at async PGe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:57076)
+    at async PGe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:56158)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:808:23355
+2025-10-11 19:03:27.534 [info] Started local extension host with pid 36027.
+2025-10-11 19:03:28.607 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-11 19:03:28.608 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-11 19:03:30.234 [info] [perf] Render performance baseline is 18ms

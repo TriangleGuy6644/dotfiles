@@ -9,7 +9,7 @@
                 "folderUri": "file:///home/arshan/Code/gotut"
             },
             {
-                "folderUri": "file:///home/arshan/.local/share/color-schemes"
+                "folderUri": "file:///home/arshan/Code/goapi"
             }
         ],
         "emptyWindows": []
@@ -19,7 +19,8 @@
         "workspaces": {
             "file:///home/arshan/Code/gotut": "__default__profile__",
             "file:///home/arshan/Code/learningbash": "__default__profile__",
-            "file:///home/arshan/.local/share/color-schemes": "__default__profile__"
+            "file:///home/arshan/.local/share/color-schemes": "__default__profile__",
+            "file:///home/arshan/Code/goapi": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -44,15 +45,15 @@
             "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 300,
-            "auxiliaryBarWidth": 300,
+            "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/arshan/.local/share/color-schemes",
-            "backupPath": "/home/arshan/.config/Code/Backups/9876438bbbb178f252f4b5e862f0ccff",
+            "folder": "file:///home/arshan/Code/goapi",
+            "backupPath": "/home/arshan/.config/Code/Backups/ced2afa6413b7b9e83bbdeb4b07b5f58",
             "uiState": {
                 "mode": 0,
                 "x": 1920,
@@ -78,7 +79,11 @@
                 },
                 "f944a6608cbd78fbd46b95bceb862347": {
                     "sideBarVisible": true,
-                    "auxiliaryBarVisible": true
+                    "auxiliaryBarVisible": false
+                },
+                "76adc4ab3dad05e346d744938a61b3bb": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
                 }
             }
         }
