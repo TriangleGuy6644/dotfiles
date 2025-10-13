@@ -6,9 +6,6 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/arshan/Code/goapi"
-            },
-            {
                 "folderUri": "file:///home/arshan/Code/omni"
             }
         ],

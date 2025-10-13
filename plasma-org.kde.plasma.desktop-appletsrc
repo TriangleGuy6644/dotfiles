@@ -279,4 +279,4 @@ AppletOrder=70;71;72;73;68;66;67;69;65;48
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/kitty.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131,desktop:/steam.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131
+screenMapping=desktop:/steam.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131,desktop:/kitty.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131
