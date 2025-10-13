@@ -22,12 +22,34 @@ configs:
       width: 1920
       height: 1080
   icons:
+    "trash:///":
+      row: 2
+      col: 0
+    "3EE6-CAC6":
+      row: 5
+      col: 0
+      last_seen: 1760379546173721
+    "2671-30E9":
+      row: 3
+      col: 0
+      last_seen: 1760379546162214
+    "/home/arshan/Desktop/kitty.desktop":
+      row: 7
+      col: 0
+    "/home/arshan/Desktop/steam.desktop":
+      row: 8
+      col: 0
+    "a430227f-c45f-49dd-af9b-00e5c2f3b1bd":
+      row: 4
+      col: 0
+      last_seen: 1760379546167928
     "/":
       row: 1
       col: 0
+    "9CDE8D66DE8D3A12":
+      row: 6
+      col: 0
+      last_seen: 1760379546179923
     "/home/arshan":
       row: 0
-      col: 0
-    "/home/arshan/Desktop/steam.desktop":
-      row: 2
       col: 0
