@@ -1,0 +1,7 @@
+2025-10-13 11:03:27.361 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2025-10-13 11:03:27.464 [info] Installing extension: catppuccin.catppuccin-vsc {"productVersion":{"version":"1.105.0","date":"2025-10-08T14:09:35.891Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-10-13 11:03:27.996 [info] Extension signature verification result for catppuccin.catppuccin-vsc: Success. Internal Code: 0. Executed: true. Duration: 472ms.
+2025-10-13 11:03:28.008 [info] Extracted extension to file:///home/arshan/.vscode/extensions/catppuccin.catppuccin-vsc-3.18.1: catppuccin.catppuccin-vsc
+2025-10-13 11:03:28.011 [info] Renamed to /home/arshan/.vscode/extensions/catppuccin.catppuccin-vsc-3.18.1
+2025-10-13 11:03:28.018 [info] Marked extension as removed catppuccin.catppuccin-vsc-3.18.0
+2025-10-13 11:03:28.024 [info] Extension installed successfully: catppuccin.catppuccin-vsc vscode-userdata:/home/arshan/.vscode/extensions/extensions.json
