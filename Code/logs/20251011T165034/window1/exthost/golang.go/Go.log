@@ -1,4 +1,0 @@
-2025-10-11 16:50:36.447 [info] Try to start language server - activation (enabled: true)
-2025-10-11 16:50:36.528 [info] Running language server gopls(v0.20.0/go1.25.1)
-2025-10-11 18:23:00.668 [info] Using cached Go developer survey: v0.1.0
-2025-10-11 18:23:00.668 [info] Survey active from Mon Sep 08 2025 to Tue Sep 30 2025
