@@ -3,7 +3,12 @@
     "telemetry.machineId": "3a323e1f80941bf922e60c0127ff319560d73f2dd0bf4376d1a1380465086a69",
     "telemetry.devDeviceId": "a3056720-bd32-4ae0-abfe-ff8f484873ac",
     "backupWorkspaces": {
-        "workspaces": [],
+        "workspaces": [
+            {
+                "id": "f908e9fddd723dbee91cbc41bd7d0da9",
+                "configURIPath": "file:///home/arshan/Dendron/dendron.code-workspace"
+            }
+        ],
         "folders": [
             {
                 "folderUri": "file:///home/arshan/Code/omni"
@@ -18,7 +23,8 @@
             "file:///home/arshan/Code/learningbash": "__default__profile__",
             "file:///home/arshan/.local/share/color-schemes": "__default__profile__",
             "file:///home/arshan/Code/goapi": "__default__profile__",
-            "file:///home/arshan/Code/omni": "__default__profile__"
+            "file:///home/arshan/Code/omni": "__default__profile__",
+            "file:///home/arshan/Dendron/dendron.code-workspace": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -86,6 +92,10 @@
                 "1a559d47fa0d015cf38cef4db9558df6": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
+                },
+                "f908e9fddd723dbee91cbc41bd7d0da9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
                 }
             }
         }

@@ -1,0 +1,379 @@
+2025-10-15 18:30:14.815 [info] Extension host with pid 5153 started
+2025-10-15 18:30:14.815 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/1a559d47fa0d015cf38cef4db9558df6.
+2025-10-15 18:30:15.066 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-15 18:30:15.093 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-15 18:30:15.107 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-15 18:30:15.269 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-15 18:30:15.461 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-15 18:30:15.462 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-15 18:30:15.545 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-15 18:30:15.605 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-15 18:30:15.775 [info] Eager extensions activated
+2025-10-15 18:30:15.781 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:30:15.783 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:30:15.799 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:30:15.803 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:30:15.862 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:30:15.880 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:30:15.883 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:31:30.593 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-10-15 18:33:18.831 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-10-15 18:33:18.980 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-10-15 18:33:19.311 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-10-15 18:33:19.344 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:python'
+2025-10-15 18:33:19.485 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-10-15 18:33:20.611 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-15 18:33:20.703 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-15 18:33:20.720 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-15 18:33:21.151 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onCommand:json.validate'
+2025-10-15 18:33:32.984 [error] Error: illegal state - object is disposed
+	at K3.j (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:100686)
+	at K3.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:100204)
+	at W.forgetDocument (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:7992156)
+	at h.cleanUpDocument (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:8002356)
+	at od.value (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:8001656)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at od.I [as value] (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:1041034)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at Ky.$acceptTabOperation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:25037)
+	at U4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120964)
+	at U4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120744)
+	at U4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119833)
+	at U4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118938)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117735)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:8616)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6908)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-15 18:33:32.985 [error] Error: illegal state - object is disposed
+	at K3.j (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:100686)
+	at K3.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:100204)
+	at W.forgetDocument (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:7992156)
+	at h.cleanUpDocument (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:8002356)
+	at od.value (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:8001656)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at od.I [as value] (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:1041034)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at Ky.$acceptTabOperation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:25037)
+	at U4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120964)
+	at U4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120744)
+	at U4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119833)
+	at U4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118938)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117735)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:8616)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6908)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-15 18:33:32.985 [error] Error: illegal state - object is disposed
+	at K3.j (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:100686)
+	at K3.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:100204)
+	at W.forgetDocument (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:7992156)
+	at h.cleanUpDocument (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:8002356)
+	at od.value (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:8001656)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at od.I [as value] (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:1041034)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at Ky.$acceptTabOperation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:25037)
+	at U4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120964)
+	at U4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120744)
+	at U4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119833)
+	at U4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118938)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117735)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:8616)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6908)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-15 18:33:32.985 [error] Error: illegal state - object is disposed
+	at K3.j (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:100686)
+	at K3.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:100204)
+	at W.forgetDocument (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:7992156)
+	at h.cleanUpDocument (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:8002356)
+	at od.value (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:8001656)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at od.I [as value] (/home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist/vendor.bundle.js:2:1041034)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.D (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+	at Ky.$acceptTabOperation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:25037)
+	at U4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120964)
+	at U4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120744)
+	at U4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119833)
+	at U4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118938)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117735)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:8616)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at Ao.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6908)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-15 18:38:22.840 [error] TypeError: terminated
+	at Fetch.onAborted (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2042:49)
+	at Fetch.emit (node:events:519:28)
+	at Fetch.terminate (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:92:10)
+	at Object.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/web/fetch/index.js:2223:34)
+	at Request.onError (node:internal/deps/undici/undici:2094:31)
+	at Object.errorRequest (node:internal/deps/undici/undici:1591:17)
+	at Socket.<anonymous> (node:internal/deps/undici/undici:6319:16)
+	at Socket.emit (node:events:531:35)
+	at TCP.<anonymous> (node:net:346:12)
+2025-10-15 18:38:26.551 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-15 18:38:26.557 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-15 18:38:49.393 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-15 18:38:49.414 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/arshan/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:668401)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-15 18:38:49.421 [info] Extension host with pid 5153 exiting with code 0
+2025-10-15 18:38:49.824 [info] Extension host with pid 10246 started
+2025-10-15 18:38:49.824 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/1a559d47fa0d015cf38cef4db9558df6.
+2025-10-15 18:38:49.839 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-15 18:38:49.898 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-15 18:38:49.915 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-15 18:38:49.930 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-15 18:38:49.985 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-10-15 18:38:50.004 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-10-15 18:38:50.128 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-10-15 18:38:50.448 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-10-15 18:38:50.480 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:python'
+2025-10-15 18:38:50.482 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onCommand:json.validate'
+2025-10-15 18:38:50.529 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-10-15 18:38:50.531 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: false, activationEvent: '*'
+2025-10-15 18:38:50.564 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-15 18:38:50.569 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-15 18:38:50.755 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-10-15 18:38:50.809 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-10-15 18:38:51.034 [info] Eager extensions activated
+2025-10-15 18:38:51.073 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:38:51.075 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:38:51.089 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:38:51.094 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:38:51.104 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:38:51.126 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:38:51.140 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-10-15 18:38:52.780 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-15 18:38:52.858 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-15 18:38:52.860 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-15 18:40:42.172 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: false, activationEvent: '*'
+2025-10-15 18:40:44.289 [info] ExtensionService#_doActivateExtension dionmunk.vscode-notes, startup: false, activationEvent: 'onView:notes'
+2025-10-15 18:41:26.344 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-15 18:41:26.367 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/arshan/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:668401)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-15 18:41:26.370 [info] Extension host with pid 10246 exiting with code 0
+2025-10-15 18:41:27.501 [info] Extension host with pid 11669 started
+2025-10-15 18:41:27.501 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/1a559d47fa0d015cf38cef4db9558df6.
+2025-10-15 18:41:27.606 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-15 18:41:27.643 [info] ExtensionService#_doActivateExtension dionmunk.vscode-notes, startup: false, activationEvent: 'onView:notes'
+2025-10-15 18:41:27.654 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-15 18:41:27.670 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-15 18:41:27.889 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-15 18:41:28.024 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-15 18:41:28.028 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-15 18:41:28.031 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-15 18:41:28.207 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-15 18:41:28.245 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-15 18:41:28.355 [info] Eager extensions activated
+2025-10-15 18:41:28.357 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:41:28.358 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:41:28.373 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:41:28.377 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:41:28.387 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:41:28.390 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:41:33.294 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:41:33.304 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:41:33.375 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:41:33.609 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-10-15 18:44:09.807 [info] ExtensionService#_doActivateExtension dendron.dendron, startup: false, activationEvent: '*'
+2025-10-15 18:44:10.440 [error] [golang.go] provider FAILED
+2025-10-15 18:44:10.442 [error] Error: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-15 18:44:11.443 [error] Error: ENOENT: no such file or directory, open '/home/arshan/.config/Code/User/globalStorage/dendron.dendron/segmentresidualcache.log'
+2025-10-15 18:44:13.805 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-15 18:44:13.815 [error] An error occurred when deactivating the extension 'dendron.dendron':
+2025-10-15 18:44:13.815 [error] DendronError: no native workspace
+	at Dr.getWorkspaceImplOrThrow (/home/arshan/.vscode/extensions/dendron.dendron-0.124.0/dist/extension.js:8:3220235)
+	at Nr (/home/arshan/.vscode/extensions/dendron.dendron-0.124.0/dist/extension.js:8:3216863)
+	at Object.Bo (/home/arshan/.vscode/extensions/dendron.dendron-0.124.0/dist/extension.js:8:3473989)
+	at Module.v (/home/arshan/.vscode/extensions/dendron.dendron-0.124.0/dist/extension.js:8:3502418)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-15 18:44:13.820 [info] Extension host with pid 11669 exiting with code 0
+2025-10-15 18:44:14.774 [info] Extension host with pid 12436 started
+2025-10-15 18:44:14.774 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/f908e9fddd723dbee91cbc41bd7d0da9.
+2025-10-15 18:44:14.847 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-15 18:44:14.873 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-15 18:44:14.938 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-10-15 18:44:14.941 [info] ExtensionService#_doActivateExtension dendron.dendron, startup: true, activationEvent: '*'
+2025-10-15 18:44:15.550 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-15 18:44:15.608 [info] Eager extensions activated
+2025-10-15 18:44:15.609 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:15.610 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:15.623 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:15.626 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:15.629 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:16.267 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:44:16.277 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:44:16.514 [error] Error: Element with id root is already registered
+	at h5.ib (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:84069)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:82915
+	at Array.map (<anonymous>)
+	at h5.cb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:82897)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async h5.getChildren (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:79207)
+2025-10-15 18:44:16.709 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-10-15 18:44:16.749 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-10-15 18:44:16.899 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: false, activationEvent: '*'
+2025-10-15 18:44:16.900 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:16.911 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: false, activationEvent: '*'
+2025-10-15 18:44:16.968 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:44:17.103 [error] Error: ENOENT: no such file or directory, open '/home/arshan/.config/Code/User/globalStorage/dendron.dendron/segmentresidualcache.log'
+2025-10-15 18:44:41.903 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-15 18:44:41.917 [info] Extension host with pid 12436 exiting with code 0
+2025-10-15 18:44:42.901 [info] Extension host with pid 12685 started
+2025-10-15 18:44:42.902 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/1a559d47fa0d015cf38cef4db9558df6.
+2025-10-15 18:44:43.112 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-15 18:44:43.135 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-15 18:44:43.149 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-15 18:44:43.226 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:44:43.236 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:44:43.316 [info] ExtensionService#_doActivateExtension dendron.dendron, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:44:43.850 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:44:44.066 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-15 18:44:44.135 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-15 18:44:44.137 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-15 18:44:44.138 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-15 18:44:44.212 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-15 18:44:44.249 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-15 18:44:44.321 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-10-15 18:44:44.445 [info] Eager extensions activated
+2025-10-15 18:44:44.456 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:44.457 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:44.471 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:44.475 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:44.483 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:44.485 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:45.541 [error] Error: ENOENT: no such file or directory, open '/home/arshan/.config/Code/User/globalStorage/dendron.dendron/segmentresidualcache.log'
+2025-10-15 18:44:58.043 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-15 18:44:58.056 [error] An error occurred when deactivating the extension 'dendron.dendron':
+2025-10-15 18:44:58.057 [error] DendronError: no native workspace
+	at Dr.getWorkspaceImplOrThrow (/home/arshan/.vscode/extensions/dendron.dendron-0.124.0/dist/extension.js:8:3220235)
+	at Nr (/home/arshan/.vscode/extensions/dendron.dendron-0.124.0/dist/extension.js:8:3216863)
+	at Object.Bo (/home/arshan/.vscode/extensions/dendron.dendron-0.124.0/dist/extension.js:8:3473989)
+	at Module.v (/home/arshan/.vscode/extensions/dendron.dendron-0.124.0/dist/extension.js:8:3502418)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-15 18:44:58.067 [info] Extension host with pid 12685 exiting with code 0
+2025-10-15 18:44:58.505 [info] Extension host with pid 13023 started
+2025-10-15 18:44:58.505 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/1a559d47fa0d015cf38cef4db9558df6.
+2025-10-15 18:44:58.513 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-15 18:44:58.560 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-15 18:44:58.578 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-15 18:44:58.592 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-15 18:44:58.648 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:44:58.657 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:44:58.714 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-15 18:44:58.963 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-15 18:44:58.964 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-15 18:44:58.965 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-15 18:44:59.051 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-15 18:44:59.086 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-15 18:44:59.089 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-10-15 18:44:59.225 [info] Eager extensions activated
+2025-10-15 18:44:59.231 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:59.232 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:59.246 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:59.250 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:59.261 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:59.263 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-15 18:44:59.985 [info] ExtensionService#_doActivateExtension dionmunk.vscode-notes, startup: false, activationEvent: 'onView:notes'
+2025-10-15 19:03:13.346 [error] [golang.go] provider FAILED
+2025-10-15 19:03:13.349 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-15 19:03:13.833 [error] [golang.go] provider FAILED
+2025-10-15 19:03:13.833 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-15 19:11:50.361 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-15 19:11:50.393 [info] Extension host with pid 13023 exiting with code 0

@@ -1,0 +1,67 @@
+{"level":30,"time":1760579055422,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"Logger:configure","msg":"exit","logLevel":"info"}
+{"level":30,"time":1760579055535,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"_activate","stage":"prod","isDebug":false,"logLevel":"info","logPath":"/home/arshan/.config/Code/logs/20251015T183012/window1/exthost/dendron.dendron","extensionPath":"/home/arshan/.vscode/extensions/dendron.dendron-0.124.0","extensionUri":"/home/arshan/.vscode/extensions/dendron.dendron-0.124.0","workspaceFile":"/home/arshan/Dendron/dendron.code-workspace","workspaceFolders":["/home/arshan/Dendron/notes"]}
+{"level":30,"time":1760579055543,"pid":12436,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"No cache path for Segment specified. Failed event uploads will not be retried."}
+{"level":30,"time":1760579055543,"pid":12436,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"user telemetry setting: enabled by config"}
+{"level":30,"time":1760579055543,"pid":12436,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"telemetry initializing"}
+{"level":30,"time":1760579055543,"pid":12436,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"using existing id"}
+{"level":30,"time":1760579055543,"pid":12436,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"anonymous id","anonymousId":"em1qt0pfz7dkmc9bh8z8fg7"}
+{"level":30,"time":1760579055550,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"DendronExtension","msg":"initialized"}
+{"level":30,"time":1760579055568,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"_activate","msg":"initializeWorkspace","wsType":"CODE","currentVersion":"0.124.0","previousGlobalVersion":"0.124.0","extensionInstallStatus":"NO_CHANGE"}
+{"level":30,"time":1760579055569,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","msg":"User specified note traits not initialized because workspace is not trusted."}
+{"level":30,"time":1760579055569,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"WorkspaceActivator.init:postSetupTraits","wsRoot":"/home/arshan/Dendron"}
+{"level":30,"time":1760579055577,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"runMigrationsIfNecessary","changes":[],"workspaceInstallStatus":"INITIAL_INSTALL"}
+{"level":30,"time":1760579055577,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"WorkspaceActivator.init:postMigration","wsRoot":"/home/arshan/Dendron"}
+{"level":30,"time":1760579055582,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"WorkspaceActivator.init:postWsServiceInitialize","wsRoot":"/home/arshan/Dendron"}
+{"level":30,"time":1760579055585,"pid":12436,"hostname":"tuffasslaptop","name":"execServer","state":"enter"}
+{"level":30,"time":1760579055591,"pid":12436,"hostname":"tuffasslaptop","name":"execServer","state":"post:exec.node"}
+{"level":30,"time":1760579056075,"pid":12464,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"No cache path for Segment specified. Failed event uploads will not be retried."}
+{"level":30,"time":1760579056075,"pid":12464,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"user telemetry setting: enabled by config"}
+{"level":30,"time":1760579056075,"pid":12464,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"telemetry initializing"}
+{"level":30,"time":1760579056075,"pid":12464,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"using existing id"}
+{"level":30,"time":1760579056075,"pid":12464,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"anonymous id","anonymousId":"em1qt0pfz7dkmc9bh8z8fg7"}
+{"level":30,"time":1760579056086,"pid":12436,"hostname":"tuffasslaptop","name":"execServer","state":"message","message":"41871"}
+{"level":30,"time":1760579056086,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"handleServerProcess","msg":"subprocess running","pid":12464}
+{"level":30,"time":1760579056086,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"startServerProcess","msg":"post-start-server","port":41871,"durationStartServer":503}
+{"level":30,"time":1760579056087,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"WorkspaceActivator.init:verifyOrStartServerProcess","port":41871}
+{"level":30,"time":1760579056089,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"WorkspaceActivator.init:exit"}
+{"level":30,"time":1760579056091,"pid":12436,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"user telemetry setting: enabled by config"}
+{"level":30,"time":1760579056091,"pid":12436,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"telemetry initializing"}
+{"level":30,"time":1760579056091,"pid":12436,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"using existing id"}
+{"level":30,"time":1760579056091,"pid":12436,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"anonymous id","anonymousId":"em1qt0pfz7dkmc9bh8z8fg7"}
+{"level":30,"time":1760579056091,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","msg":"Telemetry is disabled? false"}
+{"level":30,"time":1760579056092,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","msg":"Segment Residual Cache Path is at /home/arshan/.config/Code/User/globalStorage/dendron.dendron/segmentresidualcache.log"}
+{"level":30,"time":1760579056092,"pid":12436,"hostname":"tuffasslaptop","name":"SegmentClient","msg":"Attempting to flush residual segment data from file."}
+{"level":30,"time":1760579056097,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"_activate:postSetupWorkspace","platform":"linux","extensions":[{"id":"dendron.dendron","version":"0.124.0","active":true},{"id":"dendron.dendron-paste-image"},{"id":"dendron.dendron-markdown-shortcuts"},{"id":"redhat.vscode-yaml"}],"vaults":[{"fsPath":".","selfContained":true,"name":"Dendron"}]}
+{"level":30,"time":1760579056099,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"dendron.reloadIndex:run","msg":"pre-execute"}
+{"level":30,"time":1760579056099,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"ReloadIndex.execute","msg":"enter"}
+{"level":30,"time":1760579056196,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"ReloadIndex.execute","durationEngineInit":95}
+{"level":30,"time":1760579056197,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"ReloadIndex.execute","msg":"exit"}
+{"level":30,"time":1760579056197,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"dendron.reloadIndex:run","msg":"post-execute"}
+{"level":30,"time":1760579056201,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"reloadWorkspace","msg":"post-ws.reloadWorkspace"}
+{"level":30,"time":1760579056202,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"reloadWorkspace","msg":"exit"}
+{"level":30,"time":1760579056202,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"postReloadWorkspace","msg":"same wsVersion"}
+{"level":30,"time":1760579056202,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"postReloadWorkspace","msg":"exit"}
+{"level":30,"time":1760579056203,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"setupViews","msg":"init:treeViewV2"}
+{"level":30,"time":1760579056203,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"setupBacklinkTreeView","msg":"init:backlinks"}
+{"level":30,"time":1760579056216,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"WorkspaceActivator:activate","msg":"fin startClient","durationReloadWorkspace":109}
+{"level":30,"time":1760579056216,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"activateWorkspace","stage":"prod","msg":"enter"}
+{"level":30,"time":1760579056220,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"togglePluginActiveContext","state":"togglePluginActiveContext: true"}
+{"level":30,"time":1760579056247,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"showWelcomeOrWhatsNew","version":"0.124.0","previousExtensionVersion":"0.0.0"}
+{"level":30,"time":1760579056348,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"WindowWatcher:onDidChangeVisibleTextEditors","editorPaths":["/home/arshan/Dendron/notes/tutorial.md"]}
+{"level":30,"time":1760579056350,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"refreshBacklinksChangeActiveTextEditor"}
+{"level":30,"time":1760579056351,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"WorkspaceWatcher:onFirstOpen","msg":"enter","fname":"tutorial"}
+{"level":30,"time":1760579056401,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"WorkspaceWatcher:onFirstOpen","msg":"exit","fname":"tutorial"}
+{"level":30,"time":1760579056426,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"WindowWatcher:onDidChangeActiveTextEditor","editor":"/home/arshan/Dendron/notes/tutorial.md"}
+{"level":30,"time":1760579056542,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"updateDecorations","msg":"decorating...","payload":{"decorationsLength":2,"diagnosticsLength":0}}
+{"level":30,"time":1760579057119,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"onDidReceiveMessage","data":{"type":"init","data":{"src":"DendronVSCodeApp"},"source":"webClient"}}
+{"level":30,"time":1760579057119,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"onDidReceiveMessage","data":{"type":"messageDispatcherReady","data":{},"source":"webClient"}}
+{"level":30,"time":1760579057133,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"GraphPanel(side):onDidReceiveMessage","data":{"type":"onRequestGraphOpts","data":{},"source":"webClient"}}
+{"level":30,"time":1760579057167,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"GraphPanel(side):onDidReceiveMessage","data":{"type":"init","data":{"src":"DendronVSCodeApp"},"source":"webClient"}}
+{"level":30,"time":1760579057168,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"GraphPanel(side):onDidReceiveMessage","data":{"type":"messageDispatcherReady","data":{},"source":"webClient"}}
+{"level":30,"time":1760579057492,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"updateDecorations","msg":"decorating...","payload":{"decorationsLength":2,"diagnosticsLength":0}}
+{"level":30,"time":1760579071415,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","msg":"sendSavedAnalytics"}
+{"level":30,"time":1760579071415,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"AnalyticsUtils.sendSavedAnalytics","message":"start"}
+{"level":30,"time":1760579081914,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"deactivateWorkspace"}
+{"level":30,"time":1760579081914,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"togglePluginActiveContext","state":"togglePluginActiveContext: false"}
+{"level":30,"time":1760579081915,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"handleServerProcess","msg":"kill server start"}
+{"level":30,"time":1760579081915,"pid":12436,"hostname":"tuffasslaptop","name":"dendron","ctx":"handleServerProcess","msg":"kill server end"}

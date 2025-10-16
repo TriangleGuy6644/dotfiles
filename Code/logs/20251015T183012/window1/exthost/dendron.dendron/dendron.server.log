@@ -1,0 +1,70 @@
+{"level":30,"time":1760579056073,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","msg":"83466303689-hjgotouovohj71j7n2mjroe04en9tqnm.apps.googleusercontent.com"}
+{"level":30,"time":1760579056074,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"appModule:start","dirPath":"/home/arshan/.vscode/extensions/dendron.dendron-0.124.0/dist"}
+{"level":30,"time":1760579056086,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"launch","msg":"exit","port":41871,"LOG_DST":"/home/arshan/.config/Code/logs/20251015T183012/window1/exthost/dendron.dendron/dendron.server.log","root":"/home/arshan/.vscode/extensions/dendron.dendron-0.124.0/dist"}
+{"level":30,"time":1760579056121,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"WorkspaceController:init","msg":"enter","uri":"/home/arshan/Dendron"}
+{"level":30,"time":1760579056128,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"FileStorageV2","wsRoot":"/home/arshan/Dendron","vaults":[{"fsPath":".","selfContained":true,"name":"Dendron"}],"level":"info"}
+{"level":30,"time":1760579056129,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"createRenderedCache","msg":"Creating rendered preview cache set to hold maximum of '10' items."}
+{"level":30,"time":1760579056129,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"Engine:init","msg":"enter"}
+{"level":30,"time":1760579056129,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"initSchema","msg":"enter"}
+{"level":30,"time":1760579056129,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"initSchema","msg":"enter"}
+{"level":30,"time":1760579056131,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"initSchema","schemaFiles":["root.schema.yml"]}
+{"level":30,"time":1760579056131,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"parse","msg":"enter","fpaths":["root.schema.yml"],"vault":{"fsPath":".","selfContained":true,"name":"Dendron"}}
+{"level":30,"time":1760579056139,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"initNotes","msg":"enter"}
+{"level":30,"time":1760579056139,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"initNotes","msg":"enter"}
+{"level":30,"time":1760579056140,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"parseFile","msg":"enter","vault":{"fsPath":".","selfContained":true,"name":"Dendron"}}
+{"level":30,"time":1760579056153,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"parseFile","msg":"post:parseRootNote"}
+{"level":30,"time":1760579056190,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"parseFile","msg":"post:parseDomainNotes"}
+{"level":30,"time":1760579056190,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"parseFile","msg":"post:parseAllNotes"}
+{"level":30,"time":1760579056190,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"parseFile","msg":"post:matchSchemas"}
+{"level":30,"time":1760579056190,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"initNotes","msg":"parseNotes:fin"}
+{"level":30,"time":1760579056190,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"initNotes","vault":{"fsPath":".","selfContained":true,"name":"Dendron"},"numEntries":2,"numCacheUpdates":2}
+{"level":30,"time":1760579056191,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"_addBacklinks:ext","duration":0}
+{"level":30,"time":1760579056191,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"initNotes","msg":"time to init notes: \"51\" ms"}
+{"level":30,"time":1760579056191,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"FileStorage:init","msg":"post:initNotes","errors":[]}
+{"level":30,"time":1760579056191,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"FileStorage:init","msg":"exit"}
+{"level":30,"time":1760579056191,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"Engine:init","msg":"updated index"}
+{"level":30,"time":1760579056191,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"Engine:init","msg":"initialize hooks"}
+{"level":30,"time":1760579056191,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"init:ext","hookErrors":[]}
+{"level":30,"time":1760579056192,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"WorkspaceController:init","msg":"finish init","duration":71,"uri":"/home/arshan/Dendron"}
+POST /api/workspace/initialize? 200 73.551 ms - 10827 - 105
+POST /api/note/findMeta? 200 2.107 ms - 8430 - 49
+POST /api/note/find? 200 1.426 ms - 7873 - 109
+{"level":30,"time":1760579056348,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"querySchema","msg":"exit"}
+POST /api/schema/query? 200 0.860 ms - 574 - 38
+POST /api/note/find? 200 1.139 ms - 7873 - 109
+POST /api/note/find? 200 1.646 ms - 7873 - 109
+POST /api/note/find? 200 1.204 ms - 7873 - 109
+POST /api/note/findMeta? 200 0.791 ms - 567 - 44
+POST /api/note/find? 200 2.772 ms - 7873 - 109
+POST /api/note/findMeta? 200 0.402 ms - 567 - 44
+POST /api/note/decorations? 200 28.272 ms - 287 - 8063
+POST /api/note/find? 200 0.629 ms - 7873 - 109
+POST /api/note/find? 200 0.596 ms - 7873 - 109
+POST /api/note/find? 200 0.705 ms - 7873 - 109
+POST /api/note/find? 200 0.492 ms - 7873 - 109
+POST /api/note/find? 200 0.486 ms - 7873 - 109
+{"level":30,"time":1760579057186,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"Engine:queryNotes","msg":"exit"}
+GET /api/note/query?qs=tutorial&ws=%2Fhome%2Farshan%2FDendron&vault%5BfsPath%5D=.&vault%5BselfContained%5D=true&vault%5Bname%5D=Dendron 200 4.772 ms - 7873 - -
+POST /api/workspace/sync? 200 3.263 ms - 10827 - 29
+POST /api/workspace/sync? 200 1.956 ms - 10827 - 29
+POST /api/workspace/sync? 200 3.246 ms - 10827 - 29
+POST /api/workspace/sync? 200 3.017 ms - 10827 - 29
+{"level":30,"time":1760579057244,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"Engine:queryNotes","msg":"exit"}
+GET /api/note/query?qs=tutorial&ws=%2Fhome%2Farshan%2FDendron&vault%5BfsPath%5D=.&vault%5BselfContained%5D=true&vault%5Bname%5D=Dendron 304 1.419 ms - - - -
+{"level":50,"time":1760579057270,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"appModule:ErrorHandler","error":{"0":"N","1":"o","2":" ","3":"E","4":"n","5":"g","6":"i","7":"n","8":"e","9":":","10":" ","length":11}}
+POST /api/schema/query? 500 17.337 ms - 102 - 10
+{"level":50,"time":1760579057274,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"appModule:ErrorHandler","error":{"0":"N","1":"o","2":" ","3":"E","4":"n","5":"g","6":"i","7":"n","8":"e","9":":","10":" ","length":11}}
+POST /api/schema/query? 500 1.570 ms - 102 - 10
+{"level":50,"time":1760579057277,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"appModule:ErrorHandler","error":{"0":"N","1":"o","2":" ","3":"E","4":"n","5":"g","6":"i","7":"n","8":"e","9":":","10":" ","length":11}}
+POST /api/schema/query? 500 1.305 ms - 102 - 10
+{"level":50,"time":1760579057319,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"appModule:ErrorHandler","error":{"0":"N","1":"o","2":" ","3":"E","4":"n","5":"g","6":"i","7":"n","8":"e","9":":","10":" ","length":11}}
+POST /api/schema/query? 500 2.221 ms - 102 - 10
+POST /api/note/find? 200 1.158 ms - 7873 - 109
+POST /api/note/find? 200 0.893 ms - 7873 - 109
+POST /api/note/find? 200 0.844 ms - 7873 - 109
+POST /api/note/find? 200 0.804 ms - 7873 - 109
+POST /api/note/decorations? 200 18.684 ms - 287 - 7550
+POST /api/note/find? 200 0.498 ms - 7873 - 109
+{"level":30,"time":1760579057824,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"DendronEngineV2:renderNote","id":"c1bs7wsjfbhb0zipaywqv1","msg":"Did not find usable cached rendered preview. Starting to render."}
+{"level":30,"time":1760579057866,"pid":12464,"hostname":"tuffasslaptop","name":"dendron.server","ctx":"DendronEngineV2:renderNote","id":"c1bs7wsjfbhb0zipaywqv1","duration":42,"msg":"Render preview finished."}
+POST /api/note/render? 200 42.726 ms - 7840 - 7932

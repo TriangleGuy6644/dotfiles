@@ -128,7 +128,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][44][Applets][48][Applets][52][Configuration]
-PreloadWeight=90
+PreloadWeight=95
 
 [Containments][44][Applets][48][Applets][53]
 immutability=1
@@ -139,7 +139,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][44][Applets][48][Applets][54][Configuration]
-PreloadWeight=55
+PreloadWeight=65
 
 [Containments][44][Applets][48][Applets][55]
 immutability=1
@@ -238,30 +238,6 @@ PreloadWeight=65
 popupHeight=400
 popupWidth=216
 
-[Containments][44][Applets][70]
-immutability=1
-plugin=com.himdek.kde.plasma.runcommand
-
-[Containments][44][Applets][70][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][44][Applets][70][Configuration][General]
-command=poweroff
-icon=system-shutdown
-
-[Containments][44][Applets][71]
-immutability=1
-plugin=com.himdek.kde.plasma.runcommand
-
-[Containments][44][Applets][71][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][44][Applets][71][Configuration][General]
-command=reboot
-icon=/home/arshan/Downloads/skull-removebg-preview.png
-
 [Containments][44][Applets][72]
 immutability=1
 plugin=org.kde.plasma.appmenu
@@ -278,8 +254,8 @@ DialogWidth=720
 show_lockScreen=false
 
 [Containments][44][General]
-AppletOrder=70;71;72;73;68;66;67;69;65;48
+AppletOrder=72;73;68;66;67;69;65;48
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/kitty.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131,desktop:/steam.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131
+screenMapping=desktop:/steam.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131,desktop:/kitty.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131

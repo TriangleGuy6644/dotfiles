@@ -9,3 +9,6 @@ Seen=true
 
 [Applications][org.flameshot.Flameshot]
 Seen=true
+
+[DoNotDisturb]
+Until=2025,10,15,20,7,0.427

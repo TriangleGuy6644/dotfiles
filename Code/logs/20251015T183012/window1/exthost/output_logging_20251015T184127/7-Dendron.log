@@ -1,0 +1,15 @@
+info: {"ctx":"Logger:configure","msg":"exit","logLevel":"info"}
+info: {"ctx":"_activate","stage":"prod","isDebug":false,"logLevel":"info","logPath":"/home/arshan/.config/Code/logs/20251015T183012/window1/exthost/dendron.dendron","extensionPath":"/home/arshan/.vscode/extensions/dendron.dendron-0.124.0","extensionUri":"/home/arshan/.vscode/extensions/dendron.dendron-0.124.0","workspaceFolders":["/home/arshan/Code/omni"]}
+info: {"ctx":"DendronExtension","msg":"initialized"}
+info: {"ctx":"_activate","msg":"initializeWorkspace","wsType":"NONE","currentVersion":"0.124.0","previousGlobalVersion":"0.0.0","extensionInstallStatus":"INITIAL_INSTALL"}
+info: {"ctx":"_activate","msg":"dendron not active"}
+info: {"msg":"Telemetry is disabled? false"}
+info: {"msg":"Segment Residual Cache Path is at /home/arshan/.config/Code/User/globalStorage/dendron.dendron/segmentresidualcache.log"}
+info: {"ctx":"showWelcomeOrWhatsNew","version":"0.124.0","previousExtensionVersion":"0.0.0"}
+info: {"ctx":"showWelcomeOrWhatsNew","msg":"extension, secondary install on new vscode instance"}
+debug: {"ctx":"AnalyticsUtils.trackForNextRun","event":"Getting_Started_Clicked"}
+info: {"ctx":"dendron.launchTutorialWorkspace:run","msg":"pre-execute"}
+debug: {"ctx":"AnalyticsUtils.trackForNextRun","event":"TutorialWorkspaceLaunching"}
+info: {"ctx":"SetupWorkspaceCommand","rootDir":"/home/arshan/Dendron","workspaceType":"CODE"}
+info: {"ctx":"SetupWorkspaceCommand:postCreateWorkspace","wsRoot":"/home/arshan/Dendron","wsVault":{"fsPath":".","name":"Dendron","selfContained":true}}
+info: {"ctx":"dendron.launchTutorialWorkspace:run","msg":"post-execute"}

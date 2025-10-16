@@ -1,0 +1,61 @@
+2025-10-15 18:30:14.393 [info] Started local extension host with pid 5153.
+2025-10-15 18:30:15.220 [error] [Extension Host] (node:5153) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-15 18:30:15.508 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-15 18:30:15.803 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-15 18:30:16.978 [info] [perf] Render performance baseline is 20ms
+2025-10-15 18:30:32.672 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-10-15 18:30:33.697 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:13055
+    at Vi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:12993
+2025-10-15 18:33:33.055 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-15 18:35:28.457 [error] Error: The editor could not be opened because the file was not found.
+    at yDe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:81184)
+    at async yDe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:80342)
+    at async PGe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:58521)
+    at async PGe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:57076)
+    at async PGe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:56158)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:808:23355
+    at async WKe.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1294:30900)
+    at async WKe.openCodeEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1294:21877)
+    at async AXe.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:634)
+    at async NXe.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:1690)
+2025-10-15 18:38:22.841 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-15 18:38:49.466 [info] Started local extension host with pid 10246.
+2025-10-15 18:38:49.985 [error] [Extension Host] (node:10246) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-15 18:41:26.996 [info] Started local extension host with pid 11669.
+2025-10-15 18:41:27.856 [error] [Extension Host] (node:11669) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-15 18:41:28.427 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-15 18:41:28.585 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-15 18:41:30.194 [info] [perf] Render performance baseline is 18ms
+2025-10-15 18:44:10.388 [error] [Extension Host] (node:11669) [PINODEP007] PinoWarning: bindings.level is deprecated, use options.level option instead
+2025-10-15 18:44:11.444 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-15 18:44:14.299 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-15 18:44:14.397 [info] Started local extension host with pid 12436.
+2025-10-15 18:44:15.027 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-15 18:44:15.185 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-15 18:44:15.536 [error] [Extension Host] (node:12436) [PINODEP007] PinoWarning: bindings.level is deprecated, use options.level option instead
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-10-15 18:44:15.536 [error] [Extension Host] (node:12436) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2025-10-15 18:44:17.120 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-15 18:44:17.607 [info] [perf] Render performance baseline is 20ms
+2025-10-15 18:44:42.395 [info] Started local extension host with pid 12685.
+2025-10-15 18:44:43.288 [error] [Extension Host] (node:12685) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-15 18:44:43.643 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-15 18:44:43.764 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-15 18:44:44.010 [error] [Extension Host] (node:12685) [PINODEP007] PinoWarning: bindings.level is deprecated, use options.level option instead
+2025-10-15 18:44:45.025 [info] [perf] Render performance baseline is 19ms
+2025-10-15 18:44:45.541 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-15 18:44:58.157 [info] Started local extension host with pid 13023.
+2025-10-15 18:44:58.649 [error] [Extension Host] (node:13023) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
