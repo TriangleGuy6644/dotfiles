@@ -1,0 +1,11 @@
+2025-10-16 18:57:37.957 [info] update#setState idle
+2025-10-16 18:58:07.959 [info] update#setState checking for updates
+2025-10-16 18:58:08.005 [info] update#setState available for download
+2025-10-16 19:27:58.353 [info] Extension host with pid 7573 exited with code: 0, signal: unknown.
+2025-10-16 19:59:22.648 [error] ptyHost terminated unexpectedly with code 15
+2025-10-16 19:59:22.650 [warning] [UtilityProcess type: ptyHost, pid: 7530]: unable to kill the process
+2025-10-16 19:59:22.703 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-10-16 19:59:22.705 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 21415]: crashed with code 15 and reason 'killed'
+2025-10-16 19:59:22.715 [error] [UtilityProcess type: shared-process, pid: 7544]: crashed with code 15 and reason 'killed'
+2025-10-16 19:59:22.717 [info] Extension host with pid 21428 exited with code: 15, signal: unknown.
+2025-10-16 19:59:22.722 [error] [UtilityProcess id: 2, type: extensionHost, pid: 21428]: crashed with code 15 and reason 'killed'

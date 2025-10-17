@@ -1,0 +1,453 @@
+2025-10-16 18:57:39.889 [info] Try to start language server - activation (enabled: true)
+2025-10-16 18:57:39.938 [info] Running language server gopls(v0.20.0/go1.25.1)
+2025-10-16 18:57:48.925 [info] Running checks...
+2025-10-16 18:57:48.925 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 18:57:49.010 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 18:57:49.010 [info] /home/arshan/Code/omni/cmd/main.go:4:2 "fmt" imported and not used
+2025-10-16 18:57:49.010 [info] /home/arshan/Code/omni/cmd/main.go:16:2 declared and not used: cmd
+2025-10-16 18:57:49.010 [info] /home/arshan/Code/omni/cmd/main.go:16:9 not enough arguments in call to exec.Command
+2025-10-16 18:57:49.010 [info] 
+2025-10-16 18:57:51.113 [info] Running checks...
+2025-10-16 18:57:51.113 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 18:57:51.169 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 18:57:51.169 [info] /home/arshan/Code/omni/cmd/main.go:4:2 "fmt" imported and not used
+2025-10-16 18:57:51.169 [info] /home/arshan/Code/omni/cmd/main.go:16:2 declared and not used: cmd (compile)
+2025-10-16 18:57:51.169 [info] 
+2025-10-16 18:57:53.280 [info] Running checks...
+2025-10-16 18:57:53.280 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 18:57:53.334 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 18:57:53.334 [info] /home/arshan/Code/omni/cmd/main.go:16:27 syntax error: unexpected literal "-la" in argument list; possibly missing comma or ) (compile)
+2025-10-16 18:57:53.334 [info] 
+2025-10-16 18:57:57.965 [info] Running checks...
+2025-10-16 18:57:57.965 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 18:57:58.019 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 18:57:58.019 [info] /home/arshan/Code/omni/cmd/main.go:4:2 "fmt" imported and not used
+2025-10-16 18:57:58.019 [info] /home/arshan/Code/omni/cmd/main.go:16:2 declared and not used: cmd (compile)
+2025-10-16 18:57:58.019 [info] 
+2025-10-16 19:01:07.234 [info] Running checks...
+2025-10-16 19:01:07.234 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:01:07.291 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:01:07.291 [info] /home/arshan/Code/omni/cmd/main.go:4:2 "fmt" imported and not used
+2025-10-16 19:01:07.291 [info] /home/arshan/Code/omni/cmd/main.go:16:2 declared and not used: cmd (compile)
+2025-10-16 19:01:07.291 [info] 
+2025-10-16 19:01:31.473 [info] Running checks...
+2025-10-16 19:01:31.473 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:01:31.526 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:01:31.526 [info] /home/arshan/Code/omni/cmd/main.go:18:1 syntax error: unexpected }, expected expression (compile)
+2025-10-16 19:01:31.526 [info] 
+2025-10-16 19:01:34.489 [info] Running checks...
+2025-10-16 19:01:34.489 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:01:34.543 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:01:34.543 [info] /home/arshan/Code/omni/cmd/main.go:18:1 syntax error: unexpected }, expected expression (compile)
+2025-10-16 19:01:34.543 [info] 
+2025-10-16 19:01:39.348 [info] Running checks...
+2025-10-16 19:01:39.348 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:01:39.412 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:01:39.412 [info] /home/arshan/Code/omni/cmd/main.go:4:2 "fmt" imported and not used
+2025-10-16 19:01:39.412 [info] /home/arshan/Code/omni/cmd/main.go:17:2 declared and not used: output
+2025-10-16 19:01:39.412 [info] /home/arshan/Code/omni/cmd/main.go:17:10 declared and not used: err (compile)
+2025-10-16 19:01:39.412 [info] 
+2025-10-16 19:01:40.746 [info] Running checks...
+2025-10-16 19:01:40.746 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:01:40.799 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:01:40.799 [info] /home/arshan/Code/omni/cmd/main.go:4:2 "fmt" imported and not used
+2025-10-16 19:01:40.799 [info] /home/arshan/Code/omni/cmd/main.go:17:2 declared and not used: output
+2025-10-16 19:01:40.799 [info] /home/arshan/Code/omni/cmd/main.go:17:10 declared and not used: err (compile)
+2025-10-16 19:01:40.799 [info] 
+2025-10-16 19:01:46.230 [info] Running checks...
+2025-10-16 19:01:46.230 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:01:46.288 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:01:46.288 [info] /home/arshan/Code/omni/cmd/main.go:19:1 syntax error: unexpected }, expected expression (compile)
+2025-10-16 19:01:46.288 [info] 
+2025-10-16 19:01:51.060 [info] Running checks...
+2025-10-16 19:01:51.060 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:01:51.116 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:01:51.116 [info] /home/arshan/Code/omni/cmd/main.go:19:1 syntax error: unexpected }, expected expression (compile)
+2025-10-16 19:01:51.116 [info] 
+2025-10-16 19:01:55.676 [info] Running checks...
+2025-10-16 19:01:55.676 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:01:55.730 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:01:55.730 [info] /home/arshan/Code/omni/cmd/main.go:4:2 "fmt" imported and not used
+2025-10-16 19:01:55.730 [info] /home/arshan/Code/omni/cmd/main.go:17:2 declared and not used: output (compile)
+2025-10-16 19:01:55.730 [info] 
+2025-10-16 19:01:57.944 [info] Running checks...
+2025-10-16 19:01:57.945 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:01:58.000 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:01:58.000 [info] /home/arshan/Code/omni/cmd/main.go:20:2 syntax error: unexpected }, expected name or ( (compile)
+2025-10-16 19:01:58.000 [info] 
+2025-10-16 19:02:02.080 [info] Running checks...
+2025-10-16 19:02:02.080 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:02:02.134 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:02:02.134 [info] /home/arshan/Code/omni/cmd/main.go:17:2 declared and not used: output
+2025-10-16 19:02:02.134 [info] /home/arshan/Code/omni/cmd/main.go:19:7 undefined: fmt.Pa (compile)
+2025-10-16 19:02:02.134 [info] 
+2025-10-16 19:02:07.291 [info] Running checks...
+2025-10-16 19:02:07.291 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:02:07.344 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:02:07.344 [info] /home/arshan/Code/omni/cmd/main.go:20:2 syntax error: unexpected }, expected name or ( (compile)
+2025-10-16 19:02:07.344 [info] 
+2025-10-16 19:02:10.480 [info] Running checks...
+2025-10-16 19:02:10.480 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:02:10.535 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:02:10.535 [info] /home/arshan/Code/omni/cmd/main.go:17:2 declared and not used: output (compile)
+2025-10-16 19:02:10.535 [info] 
+2025-10-16 19:02:14.939 [info] Running checks...
+2025-10-16 19:02:14.939 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:02:14.995 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:02:14.995 [info] /home/arshan/Code/omni/cmd/main.go:17:2 declared and not used: output (compile)
+2025-10-16 19:02:14.995 [info] 
+2025-10-16 19:02:19.965 [info] Running checks...
+2025-10-16 19:02:19.965 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:02:20.023 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:02:20.023 [info] /home/arshan/Code/omni/cmd/main.go:17:2 declared and not used: output (compile)
+2025-10-16 19:02:20.023 [info] 
+2025-10-16 19:02:22.776 [info] Running checks...
+2025-10-16 19:02:22.777 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:02:22.841 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:02:22.841 [info] /home/arshan/Code/omni/cmd/main.go:17:2 declared and not used: output (compile)
+2025-10-16 19:02:22.841 [info] 
+2025-10-16 19:02:25.706 [info] Running checks...
+2025-10-16 19:02:25.706 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:02:25.760 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:02:25.760 [info] /home/arshan/Code/omni/cmd/main.go:17:2 declared and not used: output (compile)
+2025-10-16 19:02:25.760 [info] 
+2025-10-16 19:02:27.067 [info] Running checks...
+2025-10-16 19:02:27.067 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:02:27.135 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:02:27.135 [info] /home/arshan/Code/omni/cmd/main.go:17:2 declared and not used: output (compile)
+2025-10-16 19:02:27.135 [info] 
+2025-10-16 19:02:32.692 [info] Running checks...
+2025-10-16 19:02:32.692 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:02:32.759 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:02:32.759 [info] /home/arshan/Code/omni/cmd/main.go:17:2 declared and not used: output (compile)
+2025-10-16 19:02:32.759 [info] 
+2025-10-16 19:02:38.334 [info] Running checks...
+2025-10-16 19:02:38.334 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:02:38.437 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:02:38.437 [info] /home/arshan/Code/omni/cmd/main.go:15:6 func sysUpd is unused (U1000)
+2025-10-16 19:02:38.437 [info] 
+2025-10-16 19:02:38.573 [info] Running checks...
+2025-10-16 19:02:38.573 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:02:38.646 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:02:38.646 [info] /home/arshan/Code/omni/cmd/main.go:13:6 func sysUpd is unused (U1000)
+2025-10-16 19:02:38.646 [info] 
+2025-10-16 19:03:06.877 [info] Running checks...
+2025-10-16 19:03:06.877 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:03:06.933 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:03:06.933 [info] /home/arshan/Code/omni/cmd/main.go:9:2 sysUpd (value of type func()) is not used (compile)
+2025-10-16 19:03:06.933 [info] 
+2025-10-16 19:03:08.066 [info] Running checks...
+2025-10-16 19:03:08.066 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:03:08.134 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:03:08.134 [info] 
+2025-10-16 19:03:25.693 [info] Running checks...
+2025-10-16 19:03:25.693 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:03:25.765 [info] Running checks...
+2025-10-16 19:03:25.765 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:03:25.770 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:03:25.770 [info] 
+2025-10-16 19:03:25.832 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:03:25.832 [info] 
+2025-10-16 19:03:26.277 [info] Running checks...
+2025-10-16 19:03:26.277 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:03:26.336 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:03:26.336 [info] 
+2025-10-16 19:03:36.454 [info] Running checks...
+2025-10-16 19:03:36.454 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:03:36.519 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:03:36.519 [info] 
+2025-10-16 19:03:40.055 [info] Running checks...
+2025-10-16 19:03:40.055 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:03:40.106 [info] Running checks...
+2025-10-16 19:03:40.106 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:03:40.110 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:03:40.110 [info] /home/arshan/Code/omni/cmd/main.go:14:28 syntax error: unexpected literal "--icons=always" in argument list; possibly missing comma or ) (compile)
+2025-10-16 19:03:40.110 [info] 
+2025-10-16 19:03:40.160 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:03:40.160 [info] /home/arshan/Code/omni/cmd/main.go:14:28 syntax error: unexpected literal "--icons=always" in argument list; possibly missing comma or ) (compile)
+2025-10-16 19:03:40.160 [info] 
+2025-10-16 19:03:43.795 [info] Running checks...
+2025-10-16 19:03:43.795 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:03:43.861 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:03:43.861 [info] 
+2025-10-16 19:04:00.455 [info] Running checks...
+2025-10-16 19:04:00.455 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:04:00.522 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:04:00.522 [info] 
+2025-10-16 19:04:01.234 [info] Running checks...
+2025-10-16 19:04:01.235 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:04:01.289 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:04:01.289 [info] 
+2025-10-16 19:07:08.209 [info] Running checks...
+2025-10-16 19:07:08.209 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:07:08.279 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:07:08.279 [info] 
+2025-10-16 19:07:30.898 [info] Running checks...
+2025-10-16 19:07:30.898 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:07:30.956 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:07:30.956 [info] 
+2025-10-16 19:07:35.674 [info] Running checks...
+2025-10-16 19:07:35.674 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:07:35.729 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:07:35.729 [info] 
+2025-10-16 19:07:43.732 [info] Running checks...
+2025-10-16 19:07:43.732 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:07:43.817 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:07:43.817 [info] 
+2025-10-16 19:07:47.098 [info] Running checks...
+2025-10-16 19:07:47.098 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:07:47.165 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:07:47.165 [info] 
+2025-10-16 19:07:50.773 [info] Running checks...
+2025-10-16 19:07:50.773 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:07:50.826 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:07:50.826 [info] /home/arshan/Code/omni/cmd/main.go:15:17 assignment mismatch: 2 variables but 1 value (compile)
+2025-10-16 19:07:50.826 [info] 
+2025-10-16 19:07:51.865 [info] Running checks...
+2025-10-16 19:07:51.865 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:07:51.919 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:07:51.919 [info] 
+2025-10-16 19:07:53.729 [info] Running checks...
+2025-10-16 19:07:53.729 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:07:53.784 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:07:53.784 [info] 
+2025-10-16 19:07:53.790 [info] Running checks...
+2025-10-16 19:07:53.790 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:07:53.863 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:07:53.863 [info] 
+2025-10-16 19:08:03.021 [info] Running checks...
+2025-10-16 19:08:03.021 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:08:03.080 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:08:03.080 [info] /home/arshan/Code/omni/cmd/main.go:4:2 "fmt" imported and not used
+2025-10-16 19:08:03.080 [info] /home/arshan/Code/omni/cmd/main.go:5:2 "os/exec" imported and not used (compile)
+2025-10-16 19:08:03.080 [info] 
+2025-10-16 19:08:46.232 [info] Running checks...
+2025-10-16 19:08:46.232 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:08:46.280 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:08:46.280 [info] 
+2025-10-16 19:09:01.940 [info] Running checks...
+2025-10-16 19:09:01.940 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:01.990 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:01.990 [info] 
+2025-10-16 19:09:12.267 [info] Running checks...
+2025-10-16 19:09:12.267 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:12.314 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:12.314 [info] 
+2025-10-16 19:09:16.038 [info] Running checks...
+2025-10-16 19:09:16.038 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:16.084 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:16.084 [info] /home/arshan/Code/omni/timetest.go:2:8 package fmtt is not in std (/usr/lib/go/src/fmtt) (compile)
+2025-10-16 19:09:16.084 [info] 
+2025-10-16 19:09:18.964 [info] Running checks...
+2025-10-16 19:09:18.964 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:19.006 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:19.006 [info] /home/arshan/Code/omni/timetest.go:2:13 expected ';', found ',' (compile)
+2025-10-16 19:09:19.006 [info] 
+2025-10-16 19:09:21.431 [info] Running checks...
+2025-10-16 19:09:21.431 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:21.485 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:21.485 [info] /home/arshan/Code/omni/timetest.go:2:8 "fmt" imported and not used
+2025-10-16 19:09:21.485 [info] /home/arshan/Code/omni/timetest.go:3:2 "time" imported and not used (compile)
+2025-10-16 19:09:21.485 [info] 
+2025-10-16 19:09:25.573 [info] Running checks...
+2025-10-16 19:09:25.573 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:25.626 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:25.626 [info] /home/arshan/Code/omni/timetest.go:3:1 "fmt" imported and not used
+2025-10-16 19:09:25.626 [info] /home/arshan/Code/omni/timetest.go:4:2 "time" imported and not used (compile)
+2025-10-16 19:09:25.626 [info] 
+2025-10-16 19:09:27.449 [info] Running checks...
+2025-10-16 19:09:27.449 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:27.508 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:27.508 [info] /home/arshan/Code/omni/timetest.go:3:1 "fmt" imported and not used
+2025-10-16 19:09:27.508 [info] /home/arshan/Code/omni/timetest.go:4:1 "time" imported and not used (compile)
+2025-10-16 19:09:27.508 [info] 
+2025-10-16 19:09:30.614 [info] Running checks...
+2025-10-16 19:09:30.614 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:30.663 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:30.663 [info] /home/arshan/Code/omni/timetest.go:4:1 invalid import path: 	time (compile)
+2025-10-16 19:09:30.663 [info] 
+2025-10-16 19:09:32.116 [info] Running checks...
+2025-10-16 19:09:32.116 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:32.160 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:32.160 [info] /home/arshan/Code/omni/timetest.go:4:2 invalid import path: 	time (compile)
+2025-10-16 19:09:32.160 [info] 
+2025-10-16 19:09:33.421 [info] Running checks...
+2025-10-16 19:09:33.421 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:33.485 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:33.485 [info] /home/arshan/Code/omni/timetest.go:3:2 "fmt" imported and not used
+2025-10-16 19:09:33.485 [info] /home/arshan/Code/omni/timetest.go:4:2 "time" imported and not used (compile)
+2025-10-16 19:09:33.485 [info] 
+2025-10-16 19:09:35.960 [info] Running checks...
+2025-10-16 19:09:35.960 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:36.020 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:36.020 [info] 
+2025-10-16 19:09:36.835 [info] Running checks...
+2025-10-16 19:09:36.835 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:36.880 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:36.880 [info] 
+2025-10-16 19:09:41.242 [info] Running checks...
+2025-10-16 19:09:41.242 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:41.288 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:41.288 [info] /home/arshan/Code/omni/timetest.go:5:1 syntax error: unexpected }, expected name or ( (compile)
+2025-10-16 19:09:41.288 [info] 
+2025-10-16 19:09:49.346 [info] Running checks...
+2025-10-16 19:09:49.347 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:49.395 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:49.395 [info] /home/arshan/Code/omni/timetest.go:4:2 declared and not used: now
+2025-10-16 19:09:49.395 [info] /home/arshan/Code/omni/timetest.go:4:9 undefined: time (compile)
+2025-10-16 19:09:49.395 [info] 
+2025-10-16 19:09:54.749 [info] Running checks...
+2025-10-16 19:09:54.749 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:09:54.799 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:09:54.799 [info] /home/arshan/Code/omni/timetest.go:6:2 declared and not used: now (compile)
+2025-10-16 19:09:54.799 [info] 
+2025-10-16 19:10:04.806 [info] Running checks...
+2025-10-16 19:10:04.806 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:10:04.858 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:10:04.858 [info] /home/arshan/Code/omni/timetest.go:8:1 syntax error: unexpected }, expected expression (compile)
+2025-10-16 19:10:04.858 [info] 
+2025-10-16 19:10:06.451 [info] Running checks...
+2025-10-16 19:10:06.451 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:10:06.503 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:10:06.503 [info] /home/arshan/Code/omni/timetest.go:7:18 syntax error: unexpected newline, expected := or = or comma
+2025-10-16 19:10:06.503 [info] /home/arshan/Code/omni/timetest.go:8:1 syntax error: unexpected }, expected expression (compile)
+2025-10-16 19:10:06.503 [info] 
+2025-10-16 19:10:08.709 [info] Running checks...
+2025-10-16 19:10:08.709 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:10:08.763 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:10:08.763 [info] /home/arshan/Code/omni/timetest.go:8:1 syntax error: unexpected }, expected expression (compile)
+2025-10-16 19:10:08.763 [info] 
+2025-10-16 19:10:15.885 [info] Running checks...
+2025-10-16 19:10:15.885 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:10:15.938 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:10:15.938 [info] /home/arshan/Code/omni/timetest.go:8:1 syntax error: unexpected }, expected expression (compile)
+2025-10-16 19:10:15.938 [info] 
+2025-10-16 19:10:19.030 [info] Running checks...
+2025-10-16 19:10:19.030 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:10:19.082 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:10:19.082 [info] /home/arshan/Code/omni/timetest.go:7:24 syntax error: unexpected ++, expected {
+2025-10-16 19:10:19.083 [info] /home/arshan/Code/omni/timetest.go:8:1 syntax error: unexpected }, expected expression (compile)
+2025-10-16 19:10:19.083 [info] 
+2025-10-16 19:10:24.825 [info] Running checks...
+2025-10-16 19:10:24.825 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:10:24.875 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:10:24.875 [info] /home/arshan/Code/omni/timetest.go:7:9 syntax error: unexpected comma, expected expression
+2025-10-16 19:10:24.875 [info] /home/arshan/Code/omni/timetest.go:8:1 syntax error: unexpected }, expected { (compile)
+2025-10-16 19:10:24.875 [info] 
+2025-10-16 19:10:28.149 [info] Running checks...
+2025-10-16 19:10:28.149 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:10:28.202 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:10:28.202 [info] /home/arshan/Code/omni/timetest.go:7:9 syntax error: unexpected comma, expected expression
+2025-10-16 19:10:28.202 [info] /home/arshan/Code/omni/timetest.go:9:2 syntax error: unexpected }, expected {
+2025-10-16 19:10:28.202 [info] /home/arshan/Code/omni/timetest.go:10:1 syntax error: unexpected }, expected expression (compile)
+2025-10-16 19:10:28.202 [info] 
+2025-10-16 19:10:45.651 [info] Running checks...
+2025-10-16 19:10:45.651 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:10:45.701 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:10:45.702 [info] /home/arshan/Code/omni/timetest.go:7:9 syntax error: unexpected comma, expected expression
+2025-10-16 19:10:45.702 [info] /home/arshan/Code/omni/timetest.go:8:1 syntax error: unexpected }, expected { (compile)
+2025-10-16 19:10:45.702 [info] 
+2025-10-16 19:10:47.175 [info] Running checks...
+2025-10-16 19:10:47.175 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:10:47.225 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:10:47.225 [info] /home/arshan/Code/omni/timetest.go:7:9 syntax error: unexpected comma, expected expression (compile)
+2025-10-16 19:10:47.225 [info] 
+2025-10-16 19:10:50.816 [info] Running checks...
+2025-10-16 19:10:50.816 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:10:50.864 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:10:50.864 [info] /home/arshan/Code/omni/timetest.go:7:9 syntax error: unexpected comma, expected expression
+2025-10-16 19:10:50.864 [info] /home/arshan/Code/omni/timetest.go:8:1 syntax error: unexpected }, expected { (compile)
+2025-10-16 19:10:50.864 [info] 
+2025-10-16 19:11:30.691 [info] Running checks...
+2025-10-16 19:11:30.691 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:11:30.740 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:11:30.740 [info] /home/arshan/Code/omni/timetest.go:7:9 syntax error: unexpected semicolon, expected expression
+2025-10-16 19:11:30.740 [info] /home/arshan/Code/omni/timetest.go:8:1 syntax error: unexpected }, expected { (compile)
+2025-10-16 19:11:30.740 [info] 
+2025-10-16 19:11:32.769 [info] Running checks...
+2025-10-16 19:11:32.769 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:11:32.819 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:11:32.819 [info] /home/arshan/Code/omni/timetest.go:7:9 syntax error: unexpected semicolon, expected expression
+2025-10-16 19:11:32.819 [info] /home/arshan/Code/omni/timetest.go:8:1 syntax error: unexpected }, expected { (compile)
+2025-10-16 19:11:32.819 [info] 
+2025-10-16 19:11:34.325 [info] Running checks...
+2025-10-16 19:11:34.325 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:11:34.375 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:11:34.375 [info] /home/arshan/Code/omni/timetest.go:7:10 syntax error: unexpected semicolon, expected expression
+2025-10-16 19:11:34.375 [info] /home/arshan/Code/omni/timetest.go:8:1 syntax error: unexpected }, expected { (compile)
+2025-10-16 19:11:34.375 [info] 
+2025-10-16 19:11:36.187 [info] Running checks...
+2025-10-16 19:11:36.187 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:11:36.237 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:11:36.237 [info] /home/arshan/Code/omni/timetest.go:7:28 syntax error: unexpected newline, expected { after for clause (compile)
+2025-10-16 19:11:36.237 [info] 
+2025-10-16 19:11:38.303 [info] Running checks...
+2025-10-16 19:11:38.303 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:11:38.377 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:11:38.377 [info] /home/arshan/Code/omni/timetest.go:7:28 syntax error: unexpected newline, expected { after for clause (compile)
+2025-10-16 19:11:38.377 [info] 
+2025-10-16 19:11:50.643 [info] Running checks...
+2025-10-16 19:11:50.643 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:11:50.692 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:11:50.692 [info] /home/arshan/Code/omni/timetest.go:6:2 declared and not used: now
+2025-10-16 19:11:50.692 [info] /home/arshan/Code/omni/timetest.go:8:3 undefined: fmt (compile)
+2025-10-16 19:11:50.692 [info] 
+2025-10-16 19:12:22.540 [info] Running checks...
+2025-10-16 19:12:22.540 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:12:22.594 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:12:22.594 [info] /home/arshan/Code/omni/timetest.go:6:2 declared and not used: now
+2025-10-16 19:12:22.594 [info] /home/arshan/Code/omni/timetest.go:8:3 undefined: fmt (compile)
+2025-10-16 19:12:22.594 [info] 
+2025-10-16 19:13:00.083 [info] Running checks...
+2025-10-16 19:13:00.083 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:13:00.141 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:13:00.141 [info] /home/arshan/Code/omni/timetest.go:6:2 declared and not used: now
+2025-10-16 19:13:00.141 [info] /home/arshan/Code/omni/timetest.go:8:3 undefined: fmt (compile)
+2025-10-16 19:13:00.141 [info] 
+2025-10-16 19:13:04.576 [info] Running checks...
+2025-10-16 19:13:04.576 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:13:04.631 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:13:04.631 [info] /home/arshan/Code/omni/timetest.go:9:2 declared and not used: now (compile)
+2025-10-16 19:13:04.631 [info] 
+2025-10-16 19:13:05.691 [info] Running checks...
+2025-10-16 19:13:05.692 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:13:05.764 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:13:05.764 [info] /home/arshan/Code/omni/timetest.go:9:2 declared and not used: now (compile)
+2025-10-16 19:13:05.764 [info] 
+2025-10-16 19:13:07.055 [info] Running checks...
+2025-10-16 19:13:07.055 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:13:07.111 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:13:07.111 [info] /home/arshan/Code/omni/timetest.go:9:2 declared and not used: now (compile)
+2025-10-16 19:13:07.111 [info] 
+2025-10-16 19:13:13.326 [info] Running checks...
+2025-10-16 19:13:13.326 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:13:13.383 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:13:13.383 [info] /home/arshan/Code/omni/timetest.go:9:2 declared and not used: now (compile)
+2025-10-16 19:13:13.383 [info] 
+2025-10-16 19:13:17.768 [info] Running checks...
+2025-10-16 19:13:17.768 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:13:17.823 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:13:17.823 [info] /home/arshan/Code/omni/timetest.go:9:2 declared and not used: now (compile)
+2025-10-16 19:13:17.823 [info] 
+2025-10-16 19:13:19.202 [info] Running checks...
+2025-10-16 19:13:19.202 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:13:19.258 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:13:19.258 [info] /home/arshan/Code/omni/timetest.go:9:2 declared and not used: now (compile)
+2025-10-16 19:13:19.258 [info] 
+2025-10-16 19:13:24.276 [info] Running checks...
+2025-10-16 19:13:24.276 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:13:24.348 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:13:24.348 [info] 
+2025-10-16 19:14:58.752 [info] Running checks...
+2025-10-16 19:14:58.752 [info] Starting linting the current package at /home/arshan/Code/omni
+2025-10-16 19:14:58.817 [info] /home/arshan/Code/omni>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:14:58.817 [info] 
+2025-10-16 19:24:16.911 [info] Running checks...
+2025-10-16 19:24:16.911 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
+2025-10-16 19:24:16.970 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-16 19:24:16.970 [info] /home/arshan/Code/omni/cmd/main.go:4:2 "fmt" imported and not used
+2025-10-16 19:24:16.970 [info] /home/arshan/Code/omni/cmd/main.go:5:2 "os/exec" imported and not used (compile)
+2025-10-16 19:24:16.970 [info] 
+2025-10-16 19:27:39.874 [info] Fetching latest go developer survey
+2025-10-16 19:27:40.010 [info] Using fetched Go developer survey: v0.1.0
+2025-10-16 19:27:40.010 [info] Survey active from Mon Sep 08 2025 to Tue Sep 30 2025

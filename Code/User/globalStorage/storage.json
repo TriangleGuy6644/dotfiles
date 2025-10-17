@@ -3,15 +3,13 @@
     "telemetry.machineId": "3a323e1f80941bf922e60c0127ff319560d73f2dd0bf4376d1a1380465086a69",
     "telemetry.devDeviceId": "a3056720-bd32-4ae0-abfe-ff8f484873ac",
     "backupWorkspaces": {
-        "workspaces": [
-            {
-                "id": "f908e9fddd723dbee91cbc41bd7d0da9",
-                "configURIPath": "file:///home/arshan/Dendron/dendron.code-workspace"
-            }
-        ],
+        "workspaces": [],
         "folders": [
             {
                 "folderUri": "file:///home/arshan/Code/omni"
+            },
+            {
+                "folderUri": "file:///home/arshan/Code/summarizer.py"
             }
         ],
         "emptyWindows": []
@@ -24,7 +22,8 @@
             "file:///home/arshan/.local/share/color-schemes": "__default__profile__",
             "file:///home/arshan/Code/goapi": "__default__profile__",
             "file:///home/arshan/Code/omni": "__default__profile__",
-            "file:///home/arshan/Dendron/dendron.code-workspace": "__default__profile__"
+            "file:///home/arshan/Dendron/dendron.code-workspace": "__default__profile__",
+            "file:///home/arshan/Code/summarizer.py": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -49,15 +48,15 @@
             "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 300,
-            "auxiliaryBarWidth": 0,
+            "auxiliaryBarWidth": 300,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/arshan/Code/omni",
-            "backupPath": "/home/arshan/.config/Code/Backups/6508ad8e0638ee7b41a490b58a9008c8",
+            "folder": "file:///home/arshan/Code/summarizer.py",
+            "backupPath": "/home/arshan/.config/Code/Backups/3723fc7e792f986212205aedad46e65f",
             "uiState": {
                 "mode": 0,
                 "x": 1920,
@@ -94,6 +93,10 @@
                     "auxiliaryBarVisible": false
                 },
                 "f908e9fddd723dbee91cbc41bd7d0da9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "c1f623177dbeafb0d9989580026badbe": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": true
                 }

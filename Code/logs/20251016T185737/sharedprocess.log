@@ -1,0 +1,25 @@
+2025-10-16 18:57:39.107 [info] dendron.dendron 0.124.0 Running post uninstall script
+2025-10-16 18:57:39.142 [info] Marked extension as removed dendron.dendron-0.124.0
+2025-10-16 18:57:39.198 [error] dendron.dendron 0.124.0 post-uninstall node:internal/modules/cjs/loader:1393
+  throw err;
+  ^
+
+Error: Cannot find module '/home/arshan/.vscode/extensions/dendron.dendron-0.124.0/out/src/scripts/uninstallHook.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1390:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1032:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1037:22)
+    at Module._load (node:internal/modules/cjs/loader:1199:37)
+    at c._load (node:electron/js2c/node_init:2:17993)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:186:5)
+    at node:internal/main/run_main_module:36:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v22.19.0
+
+2025-10-16 18:57:39.199 [error] Failed to run post uninstall script dendron.dendron 0.124.0
+2025-10-16 18:57:39.200 [error] post-uninstall process exited with code 1
+2025-10-16 18:57:39.205 [info] Deleted marked for removal extension from disk dendron.dendron /home/arshan/.vscode/extensions/dendron.dendron-0.124.0

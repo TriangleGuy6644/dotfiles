@@ -14,3 +14,9 @@ rm g.txt
 clear
 eit
 exit
+clear
+ls
+clear
+ls
+clear
+exit

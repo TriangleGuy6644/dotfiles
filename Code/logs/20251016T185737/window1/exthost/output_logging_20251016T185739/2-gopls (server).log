@@ -1,0 +1,477 @@
+[Info  - 18:57:39] 2025/10/16 18:57:39 Created View (#1)
+	directory=/home/arshan/Code/omni
+	view_type="GoMod"
+	root_dir="file:///home/arshan/Code/omni"
+	go_version="go version go1.25.1 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/arshan/.cache/go-build GOMODCACHE:/home/arshan/go/pkg/mod GOPATH:/home/arshan/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.1 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 18:57:40] 2025/10/16 18:57:40 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=2
+	duration=172.810246ms
+
+[Error - 18:57:56] 2025/10/16 18:57:56 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:16:27: missing ',' in argument list
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 18:57:56] 2025/10/16 18:57:56 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:16:26: missing ',' in argument list
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 18:58:10] 2025/10/16 18:58:10 background imports cache refresh starting
+
+[Info  - 18:58:10] 2025/10/16 18:58:10 background refresh finished after 75.913721ms
+
+[Info  - 19:01:57] 2025/10/16 19:01:57 background imports cache refresh starting
+
+[Info  - 19:01:57] 2025/10/16 19:01:57 background refresh finished after 5.369534ms
+
+[Info  - 19:02:31] 2025/10/16 19:02:31 background imports cache refresh starting
+
+[Info  - 19:02:31] 2025/10/16 19:02:31 background refresh finished after 5.191406ms
+
+[Error - 19:02:36] 2025/10/16 19:02:36 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:22:25: expected operand, found ']'
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:03:04] 2025/10/16 19:03:04 background imports cache refresh starting
+
+[Info  - 19:03:04] 2025/10/16 19:03:04 background refresh finished after 4.08323ms
+
+[Info  - 19:03:34] 2025/10/16 19:03:34 background imports cache refresh starting
+
+[Info  - 19:03:34] 2025/10/16 19:03:34 background refresh finished after 4.064558ms
+
+[Error - 19:03:40] 2025/10/16 19:03:40 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:14:28: missing ',' in argument list
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:03:40] Request textDocument/formatting failed.
+  Message: 14:28: missing ',' in argument list
+  Code: 0 
+[Error - 19:03:42] 2025/10/16 19:03:42 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:14:28: missing ',' in argument list
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:04:13] 2025/10/16 19:04:13 background imports cache refresh starting
+
+[Info  - 19:04:13] 2025/10/16 19:04:13 background refresh finished after 4.008876ms
+
+[Info  - 19:07:38] 2025/10/16 19:07:38 background imports cache refresh starting
+
+[Info  - 19:07:38] 2025/10/16 19:07:38 background refresh finished after 4.246287ms
+
+[Info  - 19:08:20] 2025/10/16 19:08:20 background imports cache refresh starting
+
+[Info  - 19:08:20] 2025/10/16 19:08:20 background refresh finished after 4.235246ms
+
+[Info  - 19:08:39] 2025/10/16 19:08:39 go/packages.Load #2
+	view_id="1"
+	snapshot=363
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=6.715349ms
+
+[Info  - 19:08:39] 2025/10/16 19:08:39 go/packages.Load #3
+	view_id="1"
+	snapshot=365
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=7.734822ms
+
+[Info  - 19:08:43] 2025/10/16 19:08:43 go/packages.Load #4
+	view_id="1"
+	snapshot=376
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=7.878286ms
+
+[Info  - 19:08:43] 2025/10/16 19:08:43 go/packages.Load #5
+	view_id="1"
+	snapshot=377
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=7.773102ms
+
+[Info  - 19:08:43] 2025/10/16 19:08:43 go/packages.Load #6
+	view_id="1"
+	snapshot=378
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=9.695914ms
+
+[Info  - 19:08:43] 2025/10/16 19:08:43 go/packages.Load #7
+	view_id="1"
+	snapshot=378
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=9.752198ms
+
+[Info  - 19:08:43] 2025/10/16 19:08:43 go/packages.Load #8
+	view_id="1"
+	snapshot=379
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=9.976443ms
+
+[Info  - 19:08:43] 2025/10/16 19:08:43 go/packages.Load #9
+	view_id="1"
+	snapshot=379
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=9.967768ms
+
+[Info  - 19:08:43] 2025/10/16 19:08:43 go/packages.Load #10
+	view_id="1"
+	snapshot=380
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=28.902295ms
+
+[Info  - 19:08:43] 2025/10/16 19:08:43 go/packages.Load #11
+	view_id="1"
+	snapshot=380
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=29.53976ms
+
+[Info  - 19:09:13] 2025/10/16 19:09:13 go/packages.Load #12
+	view_id="1"
+	snapshot=418
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=25.762614ms
+
+[Info  - 19:09:13] 2025/10/16 19:09:13 go/packages.Load #13
+	view_id="1"
+	snapshot=418
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=24.541398ms
+
+[Info  - 19:09:14] 2025/10/16 19:09:14 go/packages.Load #14
+	view_id="1"
+	snapshot=420
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=23.37288ms
+
+[Info  - 19:09:14] 2025/10/16 19:09:14 go/packages.Load #16
+	view_id="1"
+	snapshot=422
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=22.188173ms
+
+[Info  - 19:09:14] 2025/10/16 19:09:14 go/packages.Load #17
+	view_id="1"
+	snapshot=423
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=22.287845ms
+
+[Info  - 19:09:14] 2025/10/16 19:09:14 go/packages.Load #18
+	view_id="1"
+	snapshot=424
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=23.090518ms
+
+[Info  - 19:09:14] 2025/10/16 19:09:14 go/packages.Load #19
+	view_id="1"
+	snapshot=425
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=23.444052ms
+
+[Info  - 19:09:15] 2025/10/16 19:09:15 go/packages.Load #21
+	view_id="1"
+	snapshot=427
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=23.353606ms
+
+[Info  - 19:09:16] 2025/10/16 19:09:16 go/packages.Load #22
+	view_id="1"
+	snapshot=430
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=33.613244ms
+
+[Info  - 19:09:16] 2025/10/16 19:09:16 go/packages.Load #23
+	view_id="1"
+	snapshot=430
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=31.326185ms
+
+[Info  - 19:09:17] 2025/10/16 19:09:17 go/packages.Load #24
+	view_id="1"
+	snapshot=434
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=21.494145ms
+
+[Info  - 19:09:17] 2025/10/16 19:09:17 go/packages.Load #25
+	view_id="1"
+	snapshot=435
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=23.829211ms
+
+[Info  - 19:09:17] 2025/10/16 19:09:17 go/packages.Load #26
+	view_id="1"
+	snapshot=436
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=22.986987ms
+
+[Info  - 19:09:17] 2025/10/16 19:09:17 go/packages.Load #27
+	view_id="1"
+	snapshot=437
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=22.218625ms
+
+[Error - 19:09:19] 2025/10/16 19:09:19 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:2:13: expected ';', found ','
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Info  - 19:09:20] 2025/10/16 19:09:20 go/packages.Load #28
+	view_id="1"
+	snapshot=440
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=21.081987ms
+
+[Info  - 19:09:20] 2025/10/16 19:09:20 go/packages.Load #29
+	view_id="1"
+	snapshot=441
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=33.079117ms
+
+[Info  - 19:09:20] 2025/10/16 19:09:20 go/packages.Load #30
+	view_id="1"
+	snapshot=441
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=32.451562ms
+
+[Info  - 19:09:27] 2025/10/16 19:09:27 background imports cache refresh starting
+
+[Info  - 19:09:27] 2025/10/16 19:09:27 background refresh finished after 4.228759ms
+
+[Info  - 19:09:29] 2025/10/16 19:09:29 go/packages.Load #31
+	view_id="1"
+	snapshot=452
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=22.275815ms
+
+[Error - 19:09:30] Request textDocument/hover failed.
+  Message: no package data for import "\ttime"
+  Code: 0 
+[Error - 19:09:31] Request textDocument/hover failed.
+  Message: no package data for import "\ttime"
+  Code: 0 
+[Info  - 19:09:32] 2025/10/16 19:09:32 go/packages.Load #33
+	view_id="1"
+	snapshot=458
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=36.645732ms
+
+[Info  - 19:09:32] 2025/10/16 19:09:32 go/packages.Load #34
+	view_id="1"
+	snapshot=458
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=36.640712ms
+
+[Info  - 19:09:35] 2025/10/16 19:09:35 go/packages.Load #35
+	view_id="1"
+	snapshot=463
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=31.126071ms
+
+[Info  - 19:09:35] 2025/10/16 19:09:35 go/packages.Load #36
+	view_id="1"
+	snapshot=463
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=34.666967ms
+
+[Info  - 19:09:35] 2025/10/16 19:09:35 go/packages.Load #39
+	view_id="1"
+	snapshot=466
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=33.598748ms
+
+[Info  - 19:09:35] 2025/10/16 19:09:35 go/packages.Load #40
+	view_id="1"
+	snapshot=466
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=33.943371ms
+
+[Error - 19:09:48] 2025/10/16 19:09:48 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{time Now})
+	position=3:17
+
+[Error - 19:09:50] 2025/10/16 19:09:50 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:4:17: expected statement, found ')' (and 2 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Info  - 19:09:52] 2025/10/16 19:09:52 go/packages.Load #42
+	view_id="1"
+	snapshot=518
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=32.659593ms
+
+[Info  - 19:09:52] 2025/10/16 19:09:52 go/packages.Load #43
+	view_id="1"
+	snapshot=518
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=32.43991ms
+
+[Info  - 19:09:58] 2025/10/16 19:09:58 background imports cache refresh starting
+
+[Info  - 19:09:58] 2025/10/16 19:09:58 background refresh finished after 4.075076ms
+
+[Error - 19:10:10] 2025/10/16 19:10:10 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected 1 expression (and 6 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:10:16] 2025/10/16 19:10:16 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:10:19] 2025/10/16 19:10:19 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 3 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:10:20] 2025/10/16 19:10:20 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 3 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:10:29] 2025/10/16 19:10:29 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:10:29] 2025/10/16 19:10:29 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Info  - 19:10:41] 2025/10/16 19:10:41 background imports cache refresh starting
+
+[Info  - 19:10:41] 2025/10/16 19:10:41 background refresh finished after 3.791719ms
+
+[Error - 19:10:41] 2025/10/16 19:10:41 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:10:42] 2025/10/16 19:10:42 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:10:51] 2025/10/16 19:10:51 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:10:51] 2025/10/16 19:10:51 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:10:52] 2025/10/16 19:10:52 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:11:33] 2025/10/16 19:11:33 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:6: expected boolean or range expression, found assignment (missing parentheses around composite literal?) (and 6 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:11:36] 2025/10/16 19:11:36 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:28: expected '{', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:11:37] 2025/10/16 19:11:37 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:28: expected '{', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:11:38] 2025/10/16 19:11:38 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:28: expected '{', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Error - 19:11:38] 2025/10/16 19:11:38 imports fixes: allImportsFixes: /home/arshan/Code/omni/timetest.go:7:28: expected '{', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/timetest.go"
+
+[Info  - 19:12:17] 2025/10/16 19:12:17 background imports cache refresh starting
+
+[Info  - 19:12:17] 2025/10/16 19:12:17 background refresh finished after 4.301803ms
+
+[Error - 19:12:21] 2025/10/16 19:12:21 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{fmt Println})
+	position=7:14
+
+[Info  - 19:13:03] 2025/10/16 19:13:03 go/packages.Load #45
+	view_id="1"
+	snapshot=658
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=38.791713ms
+
+[Info  - 19:13:03] 2025/10/16 19:13:03 go/packages.Load #46
+	view_id="1"
+	snapshot=658
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=1
+	duration=39.76432ms
+
+[Info  - 19:13:29] 2025/10/16 19:13:29 background imports cache refresh starting
+
+[Info  - 19:13:29] 2025/10/16 19:13:29 background refresh finished after 5.785985ms
+
+[Info  - 19:15:28] 2025/10/16 19:15:28 background imports cache refresh starting
+
+[Info  - 19:15:28] 2025/10/16 19:15:28 background refresh finished after 5.670186ms
+
+[Info  - 19:18:47] 2025/10/16 19:18:47 background imports cache refresh starting
+
+[Info  - 19:18:47] 2025/10/16 19:18:47 background refresh finished after 4.15919ms
+
+[Info  - 19:20:55] 2025/10/16 19:20:55 background imports cache refresh starting
+
+[Info  - 19:20:55] 2025/10/16 19:20:55 background refresh finished after 3.843931ms
+
+[Info  - 19:24:45] 2025/10/16 19:24:45 background imports cache refresh starting
+
+[Info  - 19:24:45] 2025/10/16 19:24:45 background refresh finished after 4.553018ms
+
+[Info  - 19:27:58] 2025/10/16 19:27:58 Shutdown session
+	shutdown_session=1
+
