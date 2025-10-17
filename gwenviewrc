@@ -6,10 +6,14 @@ SideBarPage=operations
 File1[$e]=$HOME/Pictures/2025-10-10_20-48.png
 File2[$e]=$HOME/Pictures/2025-10-11_18-15.png
 File3[$e]=$HOME/Downloads/archlinuxtext.png
+File4[$e]=$HOME/.mnt/TeslaCam/RecentClips/thumb.png
+File5[$e]=$HOME/.mnt/TeslaCam/SentryClips/2025-10-11_19-38-01/thumb.png
 Name1[$e]=2025-10-10_20-48.png
 Name2[$e]=2025-10-11_18-15.png
 Name3[$e]=archlinuxtext.png
+Name4[$e]=thumb.png
+Name5[$e]=thumb.png
 
 [SideBar]
-InformationSplitterSizes=211,244
+InformationSplitterSizes=220,255
 SideBarSplitterSizes=227,1692
