@@ -12,3 +12,6 @@ Seen=true
 
 [DoNotDisturb]
 Until=2025,10,15,20,7,0.427
+WhenFullscreen=false
+WhenScreenSharing=false
+WhenScreensMirrored=false
