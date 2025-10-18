@@ -9,7 +9,7 @@
                 "folderUri": "file:///home/arshan/Code/omni"
             },
             {
-                "folderUri": "file:///home/arshan/Code/summarizer.py"
+                "folderUri": "file:///home/arshan/Code/scripts"
             }
         ],
         "emptyWindows": []
@@ -23,7 +23,8 @@
             "file:///home/arshan/Code/goapi": "__default__profile__",
             "file:///home/arshan/Code/omni": "__default__profile__",
             "file:///home/arshan/Dendron/dendron.code-workspace": "__default__profile__",
-            "file:///home/arshan/Code/summarizer.py": "__default__profile__"
+            "file:///home/arshan/Code/summarizer.py": "__default__profile__",
+            "file:///home/arshan/Code/scripts": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -55,8 +56,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/arshan/Code/summarizer.py",
-            "backupPath": "/home/arshan/.config/Code/Backups/3723fc7e792f986212205aedad46e65f",
+            "folder": "file:///home/arshan/Code/scripts",
+            "backupPath": "/home/arshan/.config/Code/Backups/d6a783d6e2488eabb19acc876bdb5491",
             "uiState": {
                 "mode": 0,
                 "x": 1920,
@@ -97,6 +98,10 @@
                     "auxiliaryBarVisible": true
                 },
                 "c1f623177dbeafb0d9989580026badbe": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "bd306b4bf75c1612df1200c4814549f4": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": true
                 }

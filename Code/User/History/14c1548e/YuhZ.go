@@ -1,0 +1,44 @@
+package main
+
+import (
+	"fmt"
+	"io"
+	"os"
+	"os/exec"
+	"strings"
+
+	"github.com/creack/pty"
+)
+
+func main() {
+	intrunCmd("sudo pacman -Syu")
+}
+
+func runCmd(command string) {
+	parts := strings.Fields(command)
+	if len(parts) == 0 {
+		fmt.Println("no command provided.")
+		return
+	}
+
+	cmd := exec.Command(parts[0], parts[1:]...)
+	cmd.Stdout = os.Stdout
+	cmd.Stderr = os.Stderr
+	if err := cmd.Run(); err != nil {
+		fmt.Println("Error!\n", err)
+	}
+}
+
+func intrunCmd(command string) {
+	cmd := exec.Command("bash", "-c", command)
+	ptmx, err := pty.Start(cmd)
+	if err != nil {
+		fmt.Println("Error!\n", err)
+	}
+	defer ptmx.Close()
+	go func() { _, _ = io.Copy(ptmx, os.Stdin) }()
+	_, _ = io.Copy(os.Stdout, ptmx)
+	if err := cmd.Wait(); err != nil {
+		fmt.Println("Command exited with error!\n", err)
+	}
+}

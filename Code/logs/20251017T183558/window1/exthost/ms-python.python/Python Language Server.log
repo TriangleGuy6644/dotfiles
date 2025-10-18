@@ -1,0 +1,34 @@
+2025-10-17 18:36:13.708 [info] (Client) Pylance client (2025.8.3) started with python extension (2025.16.0)
+2025-10-17 18:36:14.822 [info] (93175) Server root directory: file:///home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-17 18:36:14.824 [info] (93175) Pylance language server 2025.8.3 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-10-17 18:36:14.824 [info] (93175) Starting service instance "scripts" for workspace "/home/arshan/Code/scripts"
+2025-10-17 18:36:14.895 [info] (93175) Starting Mcp server id:3842 ...
+2025-10-17 18:36:14.937 [info] (93175) Setting environmentName for service "scripts": "3.13.7 (scripts venv)"
+2025-10-17 18:36:14.937 [info] (93175) Setting pythonPath for service "scripts": "/home/arshan/Code/scripts/.venv/bin/python"
+2025-10-17 18:36:14.937 [info] (93175) No include entries specified; assuming /home/arshan/Code/scripts
+2025-10-17 18:36:14.939 [info] (93175) Auto-excluding **/node_modules
+2025-10-17 18:36:14.939 [info] (93175) Auto-excluding **/__pycache__
+2025-10-17 18:36:14.939 [info] (93175) Auto-excluding **/.*
+2025-10-17 18:36:14.969 [info] (93175) Assuming Python version 3.13.7.final.0
+2025-10-17 18:36:15.054 [info] (93175) Settings have not changed. Skipping update.
+2025-10-17 18:36:15.058 [info] (93175) Found 2 source files
+2025-10-17 18:36:15.797 [info] (93175) BG: Priority queue background worker(2) root directory: file:///home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-17 18:36:15.798 [info] (93175) BG: Priority queue background worker(2) started
+2025-10-17 18:36:37.845 [info] (93175) Found 3 source files
+2025-10-17 18:36:37.975 [info] (93175) BG: Indexer background runner(3) root directory: file:///home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist (index)
+2025-10-17 18:36:37.975 [info] (93175) BG: Indexing(3) started
+2025-10-17 18:36:38.209 [info] (93175) BG: scanned(3) 589 files over 1 exec env
+2025-10-17 18:36:39.292 [info] (93175) BG: indexed(3) 589 files over 1 exec env
+2025-10-17 18:36:39.358 [info] (93175) BG: Indexing finished(3).
+2025-10-17 18:37:03.277 [info] (93175) Starting service instance "<default>" for workspace ""
+2025-10-17 18:37:03.304 [info] (93175) Setting environmentName for service "<default>": "3.13.7 (scripts venv)"
+2025-10-17 18:37:03.304 [info] (93175) Setting pythonPath for service "<default>": "/home/arshan/Code/scripts/.venv/bin/python"
+2025-10-17 18:37:03.304 [info] (93175) No include entries specified; assuming /<default workspace root>
+2025-10-17 18:37:03.304 [info] (93175) Auto-excluding **/node_modules
+2025-10-17 18:37:03.304 [info] (93175) Auto-excluding **/__pycache__
+2025-10-17 18:37:03.304 [info] (93175) Auto-excluding **/.*
+2025-10-17 18:37:03.329 [info] (93175) Assuming Python version 3.13.7.final.0
+2025-10-17 18:37:03.371 [error] (93175) File or directory "/<default workspace root>" does not exist.
+2025-10-17 18:37:03.371 [info] (93175) No source files found.
+2025-10-17 18:37:03.913 [info] (93175) BG: Priority queue background worker(5) root directory: file:///home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-17 18:37:03.914 [info] (93175) BG: Priority queue background worker(5) started

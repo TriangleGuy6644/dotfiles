@@ -1,0 +1,4 @@
+[Warn  - 18:36:14] 01:36:14.815 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
+[Info  - 18:36:14] 01:36:14.835 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///home/arshan/Code/scripts"...
+[Info  - 18:36:14] 01:36:14.854 INFO BackgroundAnalysis: Glob resolved with 1 files after 0.019 seconds
+[Info  - 18:36:14] 01:36:14.856 INFO BackgroundAnalysis: Completed after 0.021 seconds.

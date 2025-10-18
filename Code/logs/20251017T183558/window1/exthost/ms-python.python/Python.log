@@ -1,0 +1,12 @@
+2025-10-17 18:36:12.436 [info] Native locator: Refresh started
+2025-10-17 18:36:12.492 [info] Native locator: Refresh started
+2025-10-17 18:36:12.492 [info] Native locator: Refresh started
+2025-10-17 18:36:12.705 [info] Native locator: Refresh finished in 567 ms
+2025-10-17 18:36:12.709 [info] > pyenv which python
+2025-10-17 18:36:12.709 [info] cwd: .
+2025-10-17 18:36:12.744 [info] Python interpreter path: ./.venv/bin/python
+2025-10-17 18:36:14.839 [info] Starting Pylance language server.
+2025-10-17 18:36:46.336 [info] Discover tests for workspace name: scripts - uri: /home/arshan/Code/scripts/ilt.py
+2025-10-17 18:37:00.172 [info] Discover tests for workspace name: scripts - uri: /home/arshan/Code/scripts/ilt.py
+2025-10-17 18:37:08.749 [info] Discover tests for workspace name: scripts - uri: /home/arshan/Code/scripts/ilt.py
+2025-10-17 18:37:09.030 [info] Discover tests for workspace name: scripts - uri: /home/arshan/Code/scripts/ilt.py

@@ -43,7 +43,7 @@ SETUVAR fish_pager_color_selected_background:\x2dr
 SETUVAR fish_pager_color_selected_completion:\x1d
 SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
-SETUVAR fish_user_paths:/home/arshan/\x2espicetify\x1e/home/arshan/\x2ecargo/bin\x1e/home/linuxbrew/\x2elinuxbrew/bin
+SETUVAR fish_user_paths:/home/arshan/Downloads/platform\x2dtools\x1e/home/arshan/\x2espicetify\x1e/home/arshan/\x2ecargo/bin\x1e/home/linuxbrew/\x2elinuxbrew/bin
 SETUVAR pure_begin_prompt_with_current_directory:true
 SETUVAR pure_check_for_new_release:false
 SETUVAR pure_color_at_sign:pure_color_mute

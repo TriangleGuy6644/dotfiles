@@ -1,0 +1,19 @@
+2025-10-17 17:43:58.308 [info] Native locator: Refresh started
+2025-10-17 17:43:58.571 [info] Native locator: Refresh started
+2025-10-17 17:43:58.896 [info] > pyenv which python
+2025-10-17 17:43:58.896 [info] cwd: .
+2025-10-17 17:43:58.908 [info] Native locator: Refresh finished in 662 ms
+2025-10-17 17:43:58.910 [info] Python interpreter path: ./.venv/bin/python
+2025-10-17 17:43:59.949 [info] Starting Pylance language server.
+2025-10-17 17:45:29.058 [info] Discover tests for workspace name: summarizer.py - uri: /home/arshan/Code/summarizer.py/bot.py
+2025-10-17 17:45:30.130 [info] Discover tests for workspace name: summarizer.py - uri: /home/arshan/Code/summarizer.py/bot.py
+2025-10-17 17:59:26.476 [info] Native locator: Refresh started
+2025-10-17 17:59:26.528 [info] Native locator: Refresh started
+2025-10-17 17:59:26.645 [info] > pyenv which python
+2025-10-17 17:59:26.645 [info] cwd: .
+2025-10-17 17:59:26.656 [info] Python interpreter path: /bin/python
+2025-10-17 17:59:26.735 [info] Native locator: Refresh finished in 327 ms
+2025-10-17 17:59:27.747 [info] Starting Pylance language server.
+2025-10-17 17:59:43.763 [info] Discover tests for workspace name: omni - uri: /home/arshan/Code/omni/g.py
+2025-10-17 18:00:07.796 [info] Discover tests for workspace name: omni - uri: /home/arshan/Code/omni/g.py
+2025-10-17 18:00:09.681 [info] Discover tests for workspace name: omni - uri: /home/arshan/Code/omni/g.py
