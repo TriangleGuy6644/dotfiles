@@ -1,0 +1,54 @@
+[Info  - 16:27:14] 2025/10/18 16:27:14 Created View (#1)
+	directory=/home/arshan/Code/scripts
+	view_type="AdHoc"
+	root_dir="file:///home/arshan/Code/scripts"
+	go_version="go version go1.25.2 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/arshan/.cache/go-build GOMODCACHE:/home/arshan/go/pkg/mod GOPATH:/home/arshan/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.2 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 16:27:14] 2025/10/18 16:27:14 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/arshan/Code/scripts
+	query=[./ builtin]
+	packages=2
+	duration=39.146826ms
+
+[Info  - 16:27:14] 2025/10/18 16:27:14 Created View (#2)
+	directory=/home/arshan/Code/scripts
+	view_type="AdHoc"
+	root_dir="file:///home/arshan/Code/scripts/ilyt"
+	go_version="go version go1.25.2 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/arshan/.cache/go-build GOMODCACHE:/home/arshan/go/pkg/mod GOPATH:/home/arshan/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.2 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 16:27:14] 2025/10/18 16:27:14 go/packages.Load #2
+	view_id="2"
+	snapshot=0
+	directory=/home/arshan/Code/scripts
+	query=[./ builtin]
+	packages=2
+	duration=112.131657ms
+
+[Info  - 16:27:18] 2025/10/18 16:27:18 Created View (#3)
+	directory=/home/arshan/Code/scripts
+	view_type="AdHoc"
+	root_dir="file:///home/arshan/Code/scripts/ilyt"
+	go_version="go version go1.25.2 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/arshan/.cache/go-build GOMODCACHE:/home/arshan/go/pkg/mod GOPATH:/home/arshan/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.2 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 16:27:18] 2025/10/18 16:27:18 go/packages.Load #3
+	view_id="3"
+	snapshot=0
+	directory=/home/arshan/Code/scripts
+	query=[./ builtin]
+	packages=2
+	duration=52.30747ms
+

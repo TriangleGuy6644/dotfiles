@@ -1,0 +1,403 @@
+2025-10-19 10:53:02.268 [info] Extension host with pid 177013 started
+2025-10-19 10:53:02.268 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/1a559d47fa0d015cf38cef4db9558df6.
+2025-10-19 10:53:02.557 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-19 10:53:02.580 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-19 10:53:02.597 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-19 10:53:02.607 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-19 10:53:02.672 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-19 10:53:02.674 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-19 10:53:03.209 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-19 10:53:03.211 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-19 10:53:03.212 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-19 10:53:03.358 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-19 10:53:03.416 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-19 10:53:03.435 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-10-19 10:53:03.472 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-19 10:53:03.791 [info] Eager extensions activated
+2025-10-19 10:53:03.840 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 10:53:03.842 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 10:53:03.860 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 10:53:03.865 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 10:53:03.886 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 10:53:03.890 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 10:53:10.354 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 10:58:06.320 [error] [golang.go] provider FAILED
+2025-10-19 10:58:06.324 [error] Error: 34:29: expected ':', found newline
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 10:58:06.656 [error] [golang.go] provider FAILED
+2025-10-19 10:58:06.656 [error] Error: 34:29: expected ':', found newline
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 10:58:07.780 [error] [golang.go] provider FAILED
+2025-10-19 10:58:07.780 [error] Error: 34:29: expected ':', found newline
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:01:58.256 [error] [golang.go] provider FAILED
+2025-10-19 11:01:58.256 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:01:59.186 [error] [golang.go] provider FAILED
+2025-10-19 11:01:59.186 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:01:59.394 [error] [golang.go] provider FAILED
+2025-10-19 11:01:59.394 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:01:59.549 [error] [golang.go] provider FAILED
+2025-10-19 11:01:59.549 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:01:59.631 [error] [golang.go] provider FAILED
+2025-10-19 11:01:59.631 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:01:59.882 [error] [golang.go] provider FAILED
+2025-10-19 11:01:59.882 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:01:59.996 [error] [golang.go] provider FAILED
+2025-10-19 11:01:59.996 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:00.104 [error] [golang.go] provider FAILED
+2025-10-19 11:02:00.104 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:00.189 [error] [golang.go] provider FAILED
+2025-10-19 11:02:00.189 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:00.229 [error] [golang.go] provider FAILED
+2025-10-19 11:02:00.229 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:00.304 [error] [golang.go] provider FAILED
+2025-10-19 11:02:00.304 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:00.337 [error] [golang.go] provider FAILED
+2025-10-19 11:02:00.337 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:00.436 [error] [golang.go] provider FAILED
+2025-10-19 11:02:00.436 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:00.464 [error] [golang.go] provider FAILED
+2025-10-19 11:02:00.465 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:00.603 [error] [golang.go] provider FAILED
+2025-10-19 11:02:00.603 [error] Error: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:11.914 [error] [golang.go] provider FAILED
+2025-10-19 11:02:11.914 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:14.405 [error] [golang.go] provider FAILED
+2025-10-19 11:02:14.405 [error] Error: no package data for import "os/Args"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:17.321 [error] [golang.go] provider FAILED
+2025-10-19 11:02:17.321 [error] Error: no package data for import "os/Args"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:17.969 [error] [golang.go] provider FAILED
+2025-10-19 11:02:17.969 [error] Error: no package data for import "os/Args"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:19.122 [error] [golang.go] provider FAILED
+2025-10-19 11:02:19.122 [error] Error: no package data for import "os/args"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:20.466 [error] [golang.go] provider FAILED
+2025-10-19 11:02:20.466 [error] Error: no package data for import "os/args"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:02:21.363 [error] [golang.go] provider FAILED
+2025-10-19 11:02:21.363 [error] Error: no package data for import "os/args"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:05:08.985 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-10-19 11:15:26.771 [error] [golang.go] provider FAILED
+2025-10-19 11:15:26.772 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:15:26.830 [error] [golang.go] provider FAILED
+2025-10-19 11:15:26.830 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:15:29.715 [error] [golang.go] provider FAILED
+2025-10-19 11:15:29.715 [error] Error: no package data for import "main"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:18:58.052 [error] [golang.go] provider FAILED
+2025-10-19 11:18:58.053 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:18:58.361 [error] [golang.go] provider FAILED
+2025-10-19 11:18:58.361 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:18:58.419 [error] [golang.go] provider FAILED
+2025-10-19 11:18:58.419 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:49:22.378 [error] [golang.go] provider FAILED
+2025-10-19 11:49:22.381 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:49:23.787 [error] [golang.go] provider FAILED
+2025-10-19 11:49:23.787 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 11:49:25.012 [error] [golang.go] provider FAILED
+2025-10-19 11:49:25.012 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 12:08:25.614 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-19 12:08:25.631 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-19 12:08:25.698 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-19 12:54:49.527 [error] [golang.go] provider FAILED
+2025-10-19 12:54:49.528 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 12:55:40.208 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2025-10-19 13:06:53.374 [info] ExtensionService#_doActivateExtension nguyenngoclong.terminal-keeper, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 13:12:24.118 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-19 13:12:24.164 [info] Extension host with pid 177013 exiting with code 0
+2025-10-19 13:12:25.371 [info] Extension host with pid 326750 started
+2025-10-19 13:12:25.371 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/151a8c443e8f745bf2c22f011fce5c95.
+2025-10-19 13:12:25.418 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-19 13:12:25.441 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-19 13:12:25.515 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-19 13:12:25.517 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-19 13:12:25.518 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-19 13:12:25.575 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-19 13:12:25.624 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-19 13:12:25.773 [info] Eager extensions activated
+2025-10-19 13:12:25.832 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 13:12:25.834 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 13:12:25.849 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 13:12:25.853 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 13:12:25.867 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 13:12:25.989 [info] ExtensionService#_doActivateExtension nguyenngoclong.terminal-keeper, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 13:12:26.035 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 13:12:26.037 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 13:12:29.424 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2025-10-19 13:21:01.911 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-19 14:07:13.065 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-10-19 19:12:05.570 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-19 19:12:05.617 [info] Extension host with pid 326750 exiting with code 0
+2025-10-19 19:12:06.697 [info] Extension host with pid 472372 started
+2025-10-19 19:12:06.697 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/bd306b4bf75c1612df1200c4814549f4.
+2025-10-19 19:12:06.846 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-19 19:12:06.875 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-19 19:12:06.897 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-19 19:12:07.228 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-19 19:12:07.230 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-19 19:12:07.231 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-19 19:12:07.266 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:.venv'
+2025-10-19 19:12:07.495 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-19 19:12:07.553 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-19 19:12:07.769 [info] Eager extensions activated
+2025-10-19 19:12:07.801 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:12:07.804 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:12:07.826 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:12:07.832 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:12:07.851 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:12:07.979 [info] ExtensionService#_doActivateExtension nguyenngoclong.terminal-keeper, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:12:08.024 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:12:08.026 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:12:08.091 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-19 19:12:08.338 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-10-19 19:12:08.702 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'api', root cause: ms-python.vscode-pylance
+2025-10-19 19:12:10.224 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-19 19:12:10.303 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-19 19:12:10.304 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-19 19:13:29.766 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-10-19 19:13:30.767 [error] Error: spawn git ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+	at onErrorNT (node:internal/child_process:483:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-10-19 19:13:50.543 [error] [golang.go] provider FAILED
+2025-10-19 19:13:50.545 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-19 19:15:22.533 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-19 19:15:22.553 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/arshan/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:668401)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-19 19:15:22.556 [info] Extension host with pid 472372 exiting with code 0
+2025-10-19 19:15:23.524 [info] Extension host with pid 477218 started
+2025-10-19 19:15:23.524 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/151a8c443e8f745bf2c22f011fce5c95.
+2025-10-19 19:15:23.624 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-19 19:15:23.644 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-19 19:15:23.660 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2025-10-19 19:15:24.088 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-19 19:15:24.089 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-19 19:15:24.090 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-19 19:15:24.139 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-19 19:15:24.182 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-19 19:15:24.395 [info] Eager extensions activated
+2025-10-19 19:15:24.417 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:15:24.422 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:15:24.439 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:15:24.445 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:15:24.458 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:15:24.580 [info] ExtensionService#_doActivateExtension nguyenngoclong.terminal-keeper, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:15:24.627 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:15:24.630 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:18:57.898 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-19 19:18:57.913 [info] Extension host with pid 477218 exiting with code 0
+2025-10-19 19:18:59.009 [info] Extension host with pid 480013 started
+2025-10-19 19:18:59.009 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/1a559d47fa0d015cf38cef4db9558df6.
+2025-10-19 19:18:59.355 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-19 19:18:59.378 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-19 19:18:59.392 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-19 19:18:59.405 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-19 19:18:59.486 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-19 19:18:59.489 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-19 19:18:59.720 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-19 19:19:00.009 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-19 19:19:00.011 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-19 19:19:00.012 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-19 19:19:00.074 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-10-19 19:19:00.168 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-19 19:19:00.231 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-19 19:19:00.381 [info] Eager extensions activated
+2025-10-19 19:19:00.481 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:19:00.482 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:19:00.502 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:19:00.509 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:19:00.522 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:19:00.663 [info] ExtensionService#_doActivateExtension nguyenngoclong.terminal-keeper, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:19:00.715 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:19:00.718 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-19 19:21:52.475 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-10-19 19:54:16.332 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+2025-10-20 15:52:30.995 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-20 15:52:31.071 [info] Extension host with pid 480013 exiting with code 0

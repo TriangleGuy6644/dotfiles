@@ -1,0 +1,23 @@
+2025-10-18 16:45:32.228 [info] Revived process, old id bd306b4bf75c1612df1200c4814549f4-2 -> new id 1
+2025-10-18 16:48:30.763 [info] Revived process, old id 1a559d47fa0d015cf38cef4db9558df6-1 -> new id 3
+2025-10-18 16:48:30.763 [info] Revived process, old id 1a559d47fa0d015cf38cef4db9558df6-2 -> new id 4
+2025-10-18 16:48:30.876 [info] Expanding terminal instance, old id 1a559d47fa0d015cf38cef4db9558df6-1 -> new id 3
+2025-10-18 16:48:30.876 [info] Expanding terminal instance, old id 1a559d47fa0d015cf38cef4db9558df6-2 -> new id 4
+2025-10-18 16:48:31.437 [warning] Persistent process "4": Process had no disconnect runners but was an orphan
+2025-10-18 16:48:31.437 [info] Persistent process reconnection "4"
+2025-10-18 16:48:31.438 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2025-10-18 16:48:31.438 [info] Persistent process reconnection "3"
+2025-10-18 16:48:31.472 [info] Persistent process "4": Replaying 4988 chars and 1 size events
+2025-10-18 16:48:31.495 [info] Persistent process "3": Replaying 226 chars and 1 size events
+2025-10-18 19:48:53.256 [info] Revived process, old id bd306b4bf75c1612df1200c4814549f4-2 -> new id 6
+2025-10-18 19:51:01.923 [info] Revived process, old id 1a559d47fa0d015cf38cef4db9558df6-3 -> new id 11
+2025-10-18 19:51:01.923 [info] Revived process, old id 1a559d47fa0d015cf38cef4db9558df6-4 -> new id 12
+2025-10-18 19:51:01.923 [info] Revived process, old id 1a559d47fa0d015cf38cef4db9558df6-5 -> new id 13
+2025-10-18 19:51:02.031 [info] Expanding terminal instance, old id 1a559d47fa0d015cf38cef4db9558df6-3 -> new id 11
+2025-10-18 19:51:02.031 [info] Expanding terminal instance, old id 1a559d47fa0d015cf38cef4db9558df6-4 -> new id 12
+2025-10-18 19:51:02.993 [warning] Persistent process "12": Process had no disconnect runners but was an orphan
+2025-10-18 19:51:02.993 [info] Persistent process reconnection "12"
+2025-10-18 19:51:02.993 [warning] Persistent process "11": Process had no disconnect runners but was an orphan
+2025-10-18 19:51:02.993 [info] Persistent process reconnection "11"
+2025-10-18 19:51:03.092 [info] Persistent process "12": Replaying 2385 chars and 1 size events
+2025-10-18 19:51:03.128 [info] Persistent process "11": Replaying 299 chars and 1 size events

@@ -20,3 +20,10 @@ clear
 ls
 clear
 exit
+ls
+clear
+ls
+clear
+ls
+clear
+exit

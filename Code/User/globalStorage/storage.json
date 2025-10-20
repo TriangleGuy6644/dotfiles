@@ -9,6 +9,9 @@
                 "folderUri": "file:///home/arshan/Code/omni"
             },
             {
+                "folderUri": "file:///home/arshan/Code/magOSpostinstall"
+            },
+            {
                 "folderUri": "file:///home/arshan/Code/scripts"
             }
         ],
@@ -24,7 +27,8 @@
             "file:///home/arshan/Code/omni": "__default__profile__",
             "file:///home/arshan/Dendron/dendron.code-workspace": "__default__profile__",
             "file:///home/arshan/Code/summarizer.py": "__default__profile__",
-            "file:///home/arshan/Code/scripts": "__default__profile__"
+            "file:///home/arshan/Code/scripts": "__default__profile__",
+            "file:///home/arshan/Code/magOSpostinstall": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -48,16 +52,16 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 300,
-            "auxiliaryBarWidth": 300,
+            "sideBarWidth": 336,
+            "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/arshan/Code/scripts",
-            "backupPath": "/home/arshan/.config/Code/Backups/d6a783d6e2488eabb19acc876bdb5491",
+            "folder": "file:///home/arshan/Code/omni",
+            "backupPath": "/home/arshan/.config/Code/Backups/6508ad8e0638ee7b41a490b58a9008c8",
             "uiState": {
                 "mode": 0,
                 "x": 1920,
@@ -70,7 +74,7 @@
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 300,
+            "sideBarWidth": 336,
             "auxiliaryBarWidth": 300,
             "workspaces": {
                 "595b7012d7e3d2da20288f2d5a52a3bf": {
@@ -103,7 +107,11 @@
                 },
                 "bd306b4bf75c1612df1200c4814549f4": {
                     "sideBarVisible": true,
-                    "auxiliaryBarVisible": true
+                    "auxiliaryBarVisible": false
+                },
+                "151a8c443e8f745bf2c22f011fce5c95": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
                 }
             }
         }

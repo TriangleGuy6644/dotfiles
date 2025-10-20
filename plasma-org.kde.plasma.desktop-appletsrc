@@ -139,7 +139,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][44][Applets][48][Applets][54][Configuration]
-PreloadWeight=80
+PreloadWeight=85
 
 [Containments][44][Applets][48][Applets][55]
 immutability=1
@@ -208,7 +208,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][44][Applets][65][Configuration]
-PreloadWeight=85
+PreloadWeight=90
 popupHeight=400
 popupWidth=560
 

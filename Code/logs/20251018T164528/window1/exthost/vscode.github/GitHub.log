@@ -1,0 +1,7 @@
+2025-10-18 16:45:33.157 [info] Log level: Info
+2025-10-18 16:45:33.857 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-10-18 16:45:39.491 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for TriangleGuy6644/scripts: Error: No GitHub authentication session available.
+2025-10-18 16:48:33.289 [info] Log level: Info
+2025-10-18 19:48:54.149 [info] Log level: Info
+2025-10-18 19:48:54.364 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-10-18 19:51:04.216 [info] Log level: Info

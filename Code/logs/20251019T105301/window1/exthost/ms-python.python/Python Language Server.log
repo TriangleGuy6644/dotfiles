@@ -1,0 +1,16 @@
+2025-10-19 19:12:09.300 [info] (Client) Pylance client (2025.8.3) started with python extension (2025.16.0)
+2025-10-19 19:12:10.162 [info] (472797) Server root directory: file:///home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-19 19:12:10.163 [info] (472797) Pylance language server 2025.8.3 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-10-19 19:12:10.166 [info] (472797) Starting service instance "scripts" for workspace "/home/arshan/Code/scripts"
+2025-10-19 19:12:10.215 [info] (472797) Starting Mcp server id:3074 ...
+2025-10-19 19:12:10.235 [info] (472797) Setting environmentName for service "scripts": "3.13.7 (scripts venv)"
+2025-10-19 19:12:10.235 [info] (472797) Setting pythonPath for service "scripts": "/home/arshan/Code/scripts/.venv/bin/python"
+2025-10-19 19:12:10.235 [info] (472797) No include entries specified; assuming /home/arshan/Code/scripts
+2025-10-19 19:12:10.235 [info] (472797) Auto-excluding **/node_modules
+2025-10-19 19:12:10.236 [info] (472797) Auto-excluding **/__pycache__
+2025-10-19 19:12:10.236 [info] (472797) Auto-excluding **/.*
+2025-10-19 19:12:10.255 [info] (472797) Assuming Python version 3.13.7.final.0
+2025-10-19 19:12:10.303 [info] (472797) Settings have not changed. Skipping update.
+2025-10-19 19:12:10.309 [info] (472797) No source files found.
+2025-10-19 19:12:10.796 [info] (472797) BG: Priority queue background worker(2) root directory: file:///home/arshan/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-19 19:12:10.796 [info] (472797) BG: Priority queue background worker(2) started

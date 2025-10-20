@@ -1,8 +1,7 @@
 alias ls 'eza --icons'
 zoxide init fish | source
-
+source ~/.config/fish/aliases.fish
 thefuck --alias | source
-
 fish_add_path /home/arshan/.spicetify
 alias venv "python3 -m venv venv"
 
@@ -29,3 +28,15 @@ function __auto_source_venv --on-variable PWD --description "Activate/Deactivate
         deactivate
     end
 end
+alias cp "cpg -g"
+alias mv "mvg -g"
+function gapc
+    if test (count $argv) -eq 0
+        echo "Usage: gapc <commit message>"
+        return 1
+    end
+    git add .
+    git commit -m "$argv"
+    git push
+end
+fastfetch --config examples/8.jsonc --logo arch_small

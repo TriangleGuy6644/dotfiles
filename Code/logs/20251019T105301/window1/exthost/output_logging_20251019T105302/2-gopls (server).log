@@ -1,0 +1,2938 @@
+[Info  - 10:53:03] 2025/10/19 10:53:03 Created View (#1)
+	directory=/home/arshan/Code/omni
+	view_type="GoMod"
+	root_dir="file:///home/arshan/Code/omni"
+	go_version="go version go1.25.2 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/arshan/.cache/go-build GOMODCACHE:/home/arshan/go/pkg/mod GOPATH:/home/arshan/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.2 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 10:53:03] 2025/10/19 10:53:03 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=115.878871ms
+
+[Info  - 10:53:33] 2025/10/19 10:53:33 background imports cache refresh starting
+
+[Info  - 10:53:33] 2025/10/19 10:53:33 background refresh finished after 82.042171ms
+
+[Error - 10:58:00] 2025/10/19 10:58:00 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:36:2: expected '}', found 'case' (and 2 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 10:58:03] 2025/10/19 10:58:03 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:36:2: expected '}', found 'case' (and 2 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 10:58:05] 2025/10/19 10:58:05 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:34:29: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 10:58:06] 2025/10/19 10:58:06 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:34:29: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 10:58:06] Request textDocument/formatting failed.
+  Message: 34:29: expected ':', found newline
+  Code: 0 
+[Error - 10:58:06] 2025/10/19 10:58:06 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:34:29: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 10:58:06] Request textDocument/formatting failed.
+  Message: 34:29: expected ':', found newline
+  Code: 0 
+[Error - 10:58:07] 2025/10/19 10:58:07 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:34:29: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 10:58:07] Request textDocument/formatting failed.
+  Message: 34:29: expected ':', found newline
+  Code: 0 
+[Info  - 10:58:08] 2025/10/19 10:58:08 background imports cache refresh starting
+
+[Info  - 10:58:08] 2025/10/19 10:58:08 background refresh finished after 4.700998ms
+
+[Error - 10:58:10] 2025/10/19 10:58:10 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:34:29: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 10:58:13] 2025/10/19 10:58:13 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:34:32: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 10:58:16] 2025/10/19 10:58:16 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:34:39: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 10:58:37] 2025/10/19 10:58:37 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=34:9
+
+[Info  - 10:59:00] 2025/10/19 10:59:00 background imports cache refresh starting
+
+[Info  - 10:59:00] 2025/10/19 10:59:00 background refresh finished after 5.145393ms
+
+[Info  - 10:59:31] 2025/10/19 10:59:31 background imports cache refresh starting
+
+[Info  - 10:59:32] 2025/10/19 10:59:32 background refresh finished after 4.259582ms
+
+[Info  - 11:00:16] 2025/10/19 11:00:16 background imports cache refresh starting
+
+[Info  - 11:00:16] 2025/10/19 11:00:16 background refresh finished after 4.163459ms
+
+[Error - 11:00:41] 2025/10/19 11:00:41 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:54: expected operand, found ')' (and 45 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 11:00:49] 2025/10/19 11:00:49 signature help failed: call operand is not a func or type: *ast.SelectorExpr (&{os Args})
+	position=35:23
+
+[Error - 11:00:52] 2025/10/19 11:00:52 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:36:24: expected operand, found ']'
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 11:01:09] 2025/10/19 11:01:09 background imports cache refresh starting
+
+[Info  - 11:01:09] 2025/10/19 11:01:09 background refresh finished after 4.159698ms
+
+[Info  - 11:01:58] 2025/10/19 11:01:58 go/packages.Load #2
+	view_id="1"
+	snapshot=358
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=37.628712ms
+
+[Error - 11:01:58] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:01:59] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:01:59] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:01:59] 2025/10/19 11:01:59 no completions found: getting file file:///home/arshan/Code/omni/test.go for Completion: no package metadata for file file:///home/arshan/Code/omni/test.go (package completions: invalid position for package completion: cursor in non-matching ident)
+	position=0:1
+
+[Error - 11:01:59] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:01:59] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:01:59] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:01:59] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:02:00] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:02:00] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:02:00] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:02:00] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:02:00] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:02:00] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:02:00] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Error - 11:02:00] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: no package metadata for file file:///home/arshan/Code/omni/test.go
+  Code: 0 
+[Info  - 11:02:00] 2025/10/19 11:02:00 go/packages.Load #3
+	view_id="1"
+	snapshot=375
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=39.613552ms
+
+[Info  - 11:02:00] 2025/10/19 11:02:00 go/packages.Load #4
+	view_id="1"
+	snapshot=375
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=35.064727ms
+
+[Info  - 11:02:00] 2025/10/19 11:02:00 go/packages.Load #5
+	view_id="1"
+	snapshot=376
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=43.895418ms
+
+[Info  - 11:02:00] 2025/10/19 11:02:00 go/packages.Load #6
+	view_id="1"
+	snapshot=376
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=42.88913ms
+
+[Info  - 11:02:00] 2025/10/19 11:02:00 go/packages.Load #7
+	view_id="1"
+	snapshot=377
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=42.529873ms
+
+[Info  - 11:02:00] 2025/10/19 11:02:00 go/packages.Load #8
+	view_id="1"
+	snapshot=377
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=42.631621ms
+
+[Info  - 11:02:01] 2025/10/19 11:02:01 go/packages.Load #10
+	view_id="1"
+	snapshot=378
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=43.7348ms
+
+[Info  - 11:02:01] 2025/10/19 11:02:01 go/packages.Load #9
+	view_id="1"
+	snapshot=378
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=46.033221ms
+
+[Info  - 11:02:01] 2025/10/19 11:02:01 go/packages.Load #11
+	view_id="1"
+	snapshot=379
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=41.838369ms
+
+[Info  - 11:02:01] 2025/10/19 11:02:01 go/packages.Load #12
+	view_id="1"
+	snapshot=379
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=41.886322ms
+
+[Info  - 11:02:01] 2025/10/19 11:02:01 go/packages.Load #14
+	view_id="1"
+	snapshot=380
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=39.538884ms
+
+[Info  - 11:02:01] 2025/10/19 11:02:01 go/packages.Load #13
+	view_id="1"
+	snapshot=380
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=42.17109ms
+
+[Info  - 11:02:02] 2025/10/19 11:02:02 go/packages.Load #15
+	view_id="1"
+	snapshot=381
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=42.897951ms
+
+[Info  - 11:02:02] 2025/10/19 11:02:02 go/packages.Load #16
+	view_id="1"
+	snapshot=381
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=43.158417ms
+
+[Info  - 11:02:02] 2025/10/19 11:02:02 go/packages.Load #18
+	view_id="1"
+	snapshot=382
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=41.853816ms
+
+[Info  - 11:02:02] 2025/10/19 11:02:02 go/packages.Load #17
+	view_id="1"
+	snapshot=382
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=46.072454ms
+
+[Info  - 11:02:02] 2025/10/19 11:02:02 go/packages.Load #19
+	view_id="1"
+	snapshot=383
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=40.569452ms
+
+[Info  - 11:02:02] 2025/10/19 11:02:02 go/packages.Load #20
+	view_id="1"
+	snapshot=383
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=34.361643ms
+
+[Info  - 11:02:02] 2025/10/19 11:02:02 go/packages.Load #21
+	view_id="1"
+	snapshot=384
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=36.430561ms
+
+[Info  - 11:02:02] 2025/10/19 11:02:02 go/packages.Load #22
+	view_id="1"
+	snapshot=384
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=35.354365ms
+
+[Info  - 11:02:05] 2025/10/19 11:02:05 go/packages.Load #23
+	view_id="1"
+	snapshot=397
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=39.406122ms
+
+[Info  - 11:02:05] 2025/10/19 11:02:05 go/packages.Load #24
+	view_id="1"
+	snapshot=397
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=35.312236ms
+
+[Error - 11:02:05] 2025/10/19 11:02:05 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:3:11: missing import path
+	file="/home/arshan/Code/omni/test.go"
+
+[Error - 11:02:06] 2025/10/19 11:02:06 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:3:11: missing import path
+	file="/home/arshan/Code/omni/test.go"
+
+[Info  - 11:02:07] 2025/10/19 11:02:07 go/packages.Load #25
+	view_id="1"
+	snapshot=405
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=38.200512ms
+
+[Info  - 11:02:07] 2025/10/19 11:02:07 go/packages.Load #26
+	view_id="1"
+	snapshot=405
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=36.963844ms
+
+[Info  - 11:02:09] 2025/10/19 11:02:09 go/packages.Load #27
+	view_id="1"
+	snapshot=412
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=34.378087ms
+
+[Info  - 11:02:09] 2025/10/19 11:02:09 go/packages.Load #28
+	view_id="1"
+	snapshot=412
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=33.860746ms
+
+[Info  - 11:02:09] 2025/10/19 11:02:09 go/packages.Load #29
+	view_id="1"
+	snapshot=413
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=36.115437ms
+
+[Info  - 11:02:09] 2025/10/19 11:02:09 go/packages.Load #30
+	view_id="1"
+	snapshot=413
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=37.217093ms
+
+[Info  - 11:02:09] 2025/10/19 11:02:09 go/packages.Load #31
+	view_id="1"
+	snapshot=414
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=40.782368ms
+
+[Info  - 11:02:09] 2025/10/19 11:02:09 go/packages.Load #32
+	view_id="1"
+	snapshot=414
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=39.757517ms
+
+[Info  - 11:02:10] 2025/10/19 11:02:10 go/packages.Load #34
+	view_id="1"
+	snapshot=418
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=35.310727ms
+
+[Info  - 11:02:10] 2025/10/19 11:02:10 go/packages.Load #35
+	view_id="1"
+	snapshot=418
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=31.394665ms
+
+[Info  - 11:02:10] 2025/10/19 11:02:10 go/packages.Load #36
+	view_id="1"
+	snapshot=419
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=34.633116ms
+
+[Info  - 11:02:10] 2025/10/19 11:02:10 go/packages.Load #37
+	view_id="1"
+	snapshot=419
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=35.774344ms
+
+[Info  - 11:02:10] 2025/10/19 11:02:10 go/packages.Load #38
+	view_id="1"
+	snapshot=420
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=33.094536ms
+
+[Info  - 11:02:10] 2025/10/19 11:02:10 go/packages.Load #39
+	view_id="1"
+	snapshot=420
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=34.166983ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #40
+	view_id="1"
+	snapshot=421
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=29.905029ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #41
+	view_id="1"
+	snapshot=421
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=30.642229ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #42
+	view_id="1"
+	snapshot=422
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=33.865235ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #43
+	view_id="1"
+	snapshot=422
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=34.946258ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #44
+	view_id="1"
+	snapshot=423
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=30.079716ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #45
+	view_id="1"
+	snapshot=423
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=29.571326ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #46
+	view_id="1"
+	snapshot=424
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=33.545823ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #47
+	view_id="1"
+	snapshot=424
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=32.463069ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #48
+	view_id="1"
+	snapshot=425
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=34.800265ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 background imports cache refresh starting
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 background refresh finished after 4.755458ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #49
+	view_id="1"
+	snapshot=426
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=34.664373ms
+
+[Error - 11:02:11] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #51
+	view_id="1"
+	snapshot=427
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=31.601669ms
+
+[Info  - 11:02:11] 2025/10/19 11:02:11 go/packages.Load #52
+	view_id="1"
+	snapshot=427
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=32.045655ms
+
+[Error - 11:02:14] Request textDocument/hover failed.
+  Message: no package data for import "os/Args"
+  Code: 0 
+[Error - 11:02:17] Request textDocument/hover failed.
+  Message: no package data for import "os/Args"
+  Code: 0 
+[Error - 11:02:17] Request textDocument/hover failed.
+  Message: no package data for import "os/Args"
+  Code: 0 
+[Info  - 11:02:18] 2025/10/19 11:02:18 go/packages.Load #53
+	view_id="1"
+	snapshot=430
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=38.156444ms
+
+[Info  - 11:02:18] 2025/10/19 11:02:18 go/packages.Load #54
+	view_id="1"
+	snapshot=430
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=34.85157ms
+
+[Info  - 11:02:18] 2025/10/19 11:02:18 go/packages.Load #55
+	view_id="1"
+	snapshot=431
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=36.29531ms
+
+[Info  - 11:02:18] 2025/10/19 11:02:18 go/packages.Load #56
+	view_id="1"
+	snapshot=431
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=35.801129ms
+
+[Error - 11:02:19] Request textDocument/hover failed.
+  Message: no package data for import "os/args"
+  Code: 0 
+[Error - 11:02:20] Request textDocument/hover failed.
+  Message: no package data for import "os/args"
+  Code: 0 
+[Error - 11:02:21] Request textDocument/hover failed.
+  Message: no package data for import "os/args"
+  Code: 0 
+[Info  - 11:02:21] 2025/10/19 11:02:21 go/packages.Load #57
+	view_id="1"
+	snapshot=434
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=36.356501ms
+
+[Info  - 11:02:21] 2025/10/19 11:02:21 go/packages.Load #58
+	view_id="1"
+	snapshot=434
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=36.473338ms
+
+[Info  - 11:02:22] 2025/10/19 11:02:22 go/packages.Load #59
+	view_id="1"
+	snapshot=435
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=34.770198ms
+
+[Info  - 11:02:22] 2025/10/19 11:02:22 go/packages.Load #60
+	view_id="1"
+	snapshot=435
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=33.948652ms
+
+[Info  - 11:02:22] 2025/10/19 11:02:22 go/packages.Load #61
+	view_id="1"
+	snapshot=436
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=37.627244ms
+
+[Info  - 11:02:22] 2025/10/19 11:02:22 go/packages.Load #62
+	view_id="1"
+	snapshot=436
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=33.093216ms
+
+[Info  - 11:02:22] 2025/10/19 11:02:22 go/packages.Load #63
+	view_id="1"
+	snapshot=437
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=33.648323ms
+
+[Info  - 11:02:22] 2025/10/19 11:02:22 go/packages.Load #64
+	view_id="1"
+	snapshot=437
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=32.378782ms
+
+[Info  - 11:02:22] 2025/10/19 11:02:22 go/packages.Load #65
+	view_id="1"
+	snapshot=438
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=39.555141ms
+
+[Info  - 11:02:22] 2025/10/19 11:02:22 go/packages.Load #66
+	view_id="1"
+	snapshot=438
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=35.349064ms
+
+[Error - 11:02:28] 2025/10/19 11:02:28 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:8:5: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arshan/Code/omni/test.go"
+
+[Error - 11:02:30] 2025/10/19 11:02:30 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:8:7: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arshan/Code/omni/test.go"
+
+[Info  - 11:02:42] 2025/10/19 11:02:42 background imports cache refresh starting
+
+[Info  - 11:02:42] 2025/10/19 11:02:42 background refresh finished after 4.243252ms
+
+[Error - 11:03:16] 2025/10/19 11:03:16 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:9:18: expected operand, found ']'
+	file="/home/arshan/Code/omni/test.go"
+
+[Info  - 11:03:26] 2025/10/19 11:03:26 background imports cache refresh starting
+
+[Info  - 11:03:26] 2025/10/19 11:03:26 background refresh finished after 4.058357ms
+
+[Error - 11:04:22] 2025/10/19 11:04:22 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:10:66: expected operand, found ']'
+	file="/home/arshan/Code/omni/test.go"
+
+[Error - 11:04:23] 2025/10/19 11:04:23 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:10:68: expected ']', found ')' (and 9 more errors)
+	file="/home/arshan/Code/omni/test.go"
+
+[Error - 11:04:24] 2025/10/19 11:04:24 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:10:67: expected ']', found ')' (and 8 more errors)
+	file="/home/arshan/Code/omni/test.go"
+
+[Error - 11:04:27] 2025/10/19 11:04:27 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:10:75: expected operand, found ']'
+	file="/home/arshan/Code/omni/test.go"
+
+[Info  - 11:04:29] 2025/10/19 11:04:29 background imports cache refresh starting
+
+[Info  - 11:04:29] 2025/10/19 11:04:29 background refresh finished after 4.907306ms
+
+[Info  - 11:05:00] 2025/10/19 11:05:00 background imports cache refresh starting
+
+[Info  - 11:05:00] 2025/10/19 11:05:00 background refresh finished after 4.210536ms
+
+[Error - 11:05:30] 2025/10/19 11:05:30 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=10:8
+
+[Info  - 11:05:45] 2025/10/19 11:05:45 background imports cache refresh starting
+
+[Info  - 11:05:45] 2025/10/19 11:05:45 background refresh finished after 4.557592ms
+
+[Info  - 11:06:16] 2025/10/19 11:06:16 background imports cache refresh starting
+
+[Info  - 11:06:16] 2025/10/19 11:06:16 background refresh finished after 5.019725ms
+
+[Error - 11:06:25] 2025/10/19 11:06:25 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:15:24: unknown escape sequence
+	file="/home/arshan/Code/omni/test.go"
+
+[Error - 11:06:27] 2025/10/19 11:06:27 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:15:24: unknown escape sequence
+	file="/home/arshan/Code/omni/test.go"
+
+[Error - 11:06:34] 2025/10/19 11:06:34 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:15:68: expected operand, found ']'
+	file="/home/arshan/Code/omni/test.go"
+
+[Error - 11:06:48] 2025/10/19 11:06:48 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:15:68: expected operand, found ']'
+	file="/home/arshan/Code/omni/test.go"
+
+[Error - 11:06:48] 2025/10/19 11:06:48 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:15:68: expected operand, found ']'
+	file="/home/arshan/Code/omni/test.go"
+
+[Info  - 11:06:58] 2025/10/19 11:06:58 background imports cache refresh starting
+
+[Info  - 11:06:58] 2025/10/19 11:06:58 background refresh finished after 4.362574ms
+
+[Info  - 11:08:26] 2025/10/19 11:08:26 background imports cache refresh starting
+
+[Info  - 11:08:26] 2025/10/19 11:08:26 background refresh finished after 4.130728ms
+
+[Info  - 11:10:03] 2025/10/19 11:10:03 background imports cache refresh starting
+
+[Info  - 11:10:03] 2025/10/19 11:10:03 background refresh finished after 5.309545ms
+
+[Error - 11:10:34] 2025/10/19 11:10:34 signature help failed: cannot get type for Fun *ast.Ident (intRunCmd)
+	position=41:13
+
+[Error - 11:10:41] 2025/10/19 11:10:41 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:42:16: missing ',' in argument list (and 45 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 11:10:42] 2025/10/19 11:10:42 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:42:14: string literal not terminated (and 45 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 11:10:47] 2025/10/19 11:10:47 background imports cache refresh starting
+
+[Info  - 11:10:47] 2025/10/19 11:10:47 background refresh finished after 7.073122ms
+
+[Info  - 11:11:23] 2025/10/19 11:11:23 background imports cache refresh starting
+
+[Info  - 11:11:23] 2025/10/19 11:11:23 background refresh finished after 4.403716ms
+
+[Error - 11:11:35] 2025/10/19 11:11:35 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:43:13: expected ';', found ") (and 9 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 11:11:36] 2025/10/19 11:11:36 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:43:1: string literal not terminated
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 11:12:52] 2025/10/19 11:12:52 background imports cache refresh starting
+
+[Info  - 11:12:52] 2025/10/19 11:12:52 background refresh finished after 4.590137ms
+
+[Error - 11:14:13] 2025/10/19 11:14:13 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:48:1: expected declaration, found main
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 11:14:14] 2025/10/19 11:14:14 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:48:1: expected declaration, found main
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 11:14:34] 2025/10/19 11:14:34 go/packages.Load #67
+	view_id="1"
+	snapshot=1316
+	directory=/home/arshan/Code/omni
+	query=[omni]
+	packages=1
+	duration=32.645454ms
+
+[Info  - 11:14:45] 2025/10/19 11:14:45 go/packages.Load #68
+	view_id="1"
+	snapshot=1318
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=50.204359ms
+
+[Info  - 11:14:45] 2025/10/19 11:14:45 go/packages.Load #69
+	view_id="1"
+	snapshot=1318
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=43.067673ms
+
+[Info  - 11:14:46] 2025/10/19 11:14:46 go/packages.Load #70
+	view_id="1"
+	snapshot=1319
+	directory=/home/arshan/Code/omni
+	query=[omni/cmd]
+	packages=1
+	duration=5.361371ms
+
+[Info  - 11:14:57] 2025/10/19 11:14:57 go/packages.Load #71
+	view_id="1"
+	snapshot=1319
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=8.665292ms
+
+[Info  - 11:14:57] 2025/10/19 11:14:57 go/packages.Load #72
+	view_id="1"
+	snapshot=1321
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=8.821429ms
+
+[Info  - 11:15:15] 2025/10/19 11:15:15 go/packages.Load #73
+	view_id="1"
+	snapshot=1328
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=7.732519ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #75
+	view_id="1"
+	snapshot=1329
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=9.588164ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #74
+	view_id="1"
+	snapshot=1329
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=9.631221ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #76
+	view_id="1"
+	snapshot=1330
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=11.218951ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #77
+	view_id="1"
+	snapshot=1330
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=12.362275ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #78
+	view_id="1"
+	snapshot=1331
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=9.39353ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #79
+	view_id="1"
+	snapshot=1331
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=9.370074ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #80
+	view_id="1"
+	snapshot=1332
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=9.793361ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #81
+	view_id="1"
+	snapshot=1332
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=9.901187ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #83
+	view_id="1"
+	snapshot=1333
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=10.174318ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #82
+	view_id="1"
+	snapshot=1333
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=10.189925ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #85
+	view_id="1"
+	snapshot=1334
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=8.723667ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #84
+	view_id="1"
+	snapshot=1334
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=8.685876ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #86
+	view_id="1"
+	snapshot=1335
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=35.532264ms
+
+[Info  - 11:15:16] 2025/10/19 11:15:16 go/packages.Load #87
+	view_id="1"
+	snapshot=1335
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=36.262709ms
+
+[Info  - 11:15:20] 2025/10/19 11:15:20 go/packages.Load #89
+	view_id="1"
+	snapshot=1349
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=28.458295ms
+
+[Info  - 11:15:20] 2025/10/19 11:15:20 go/packages.Load #88
+	view_id="1"
+	snapshot=1349
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=28.808198ms
+
+[Info  - 11:15:20] 2025/10/19 11:15:20 go/packages.Load #90
+	view_id="1"
+	snapshot=1351
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=26.161772ms
+
+[Info  - 11:15:20] 2025/10/19 11:15:20 go/packages.Load #91
+	view_id="1"
+	snapshot=1351
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=26.403137ms
+
+[Error - 11:15:21] 2025/10/19 11:15:21 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:4:4: missing import path
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Info  - 11:15:22] 2025/10/19 11:15:22 go/packages.Load #92
+	view_id="1"
+	snapshot=1356
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=25.939665ms
+
+[Info  - 11:15:22] 2025/10/19 11:15:22 go/packages.Load #93
+	view_id="1"
+	snapshot=1356
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=26.17546ms
+
+[Info  - 11:15:22] 2025/10/19 11:15:22 go/packages.Load #94
+	view_id="1"
+	snapshot=1358
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=24.293087ms
+
+[Info  - 11:15:23] 2025/10/19 11:15:23 go/packages.Load #95
+	view_id="1"
+	snapshot=1359
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=34.894316ms
+
+[Info  - 11:15:23] 2025/10/19 11:15:23 go/packages.Load #96
+	view_id="1"
+	snapshot=1359
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=34.132579ms
+
+[Info  - 11:15:26] 2025/10/19 11:15:26 go/packages.Load #97
+	view_id="1"
+	snapshot=1364
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=25.310039ms
+
+[Info  - 11:15:26] 2025/10/19 11:15:26 go/packages.Load #98
+	view_id="1"
+	snapshot=1364
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=23.638571ms
+
+[Info  - 11:15:26] 2025/10/19 11:15:26 go/packages.Load #99
+	view_id="1"
+	snapshot=1365
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=22.872272ms
+
+[Info  - 11:15:26] 2025/10/19 11:15:26 go/packages.Load #100
+	view_id="1"
+	snapshot=1366
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=32.610638ms
+
+[Info  - 11:15:26] 2025/10/19 11:15:26 go/packages.Load #101
+	view_id="1"
+	snapshot=1366
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=31.168343ms
+
+[Info  - 11:15:26] 2025/10/19 11:15:26 go/packages.Load #102
+	view_id="1"
+	snapshot=1367
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=32.690248ms
+
+[Error - 11:15:26] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:15:26] 2025/10/19 11:15:26 go/packages.Load #104
+	view_id="1"
+	snapshot=1368
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=35.163827ms
+
+[Error - 11:15:26] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:15:26] 2025/10/19 11:15:26 go/packages.Load #106
+	view_id="1"
+	snapshot=1369
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=34.920829ms
+
+[Info  - 11:15:26] 2025/10/19 11:15:26 go/packages.Load #107
+	view_id="1"
+	snapshot=1369
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=37.206758ms
+
+[Info  - 11:15:27] 2025/10/19 11:15:27 go/packages.Load #111
+	view_id="1"
+	snapshot=1372
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=31.432053ms
+
+[Info  - 11:15:27] 2025/10/19 11:15:27 go/packages.Load #110
+	view_id="1"
+	snapshot=1372
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=34.347293ms
+
+[Info  - 11:15:28] 2025/10/19 11:15:28 go/packages.Load #112
+	view_id="1"
+	snapshot=1375
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=31.82004ms
+
+[Info  - 11:15:28] 2025/10/19 11:15:28 go/packages.Load #113
+	view_id="1"
+	snapshot=1375
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=33.357864ms
+
+[Error - 11:15:29] Request textDocument/hover failed.
+  Message: no package data for import "main"
+  Code: 0 
+[Info  - 11:15:30] 2025/10/19 11:15:30 go/packages.Load #114
+	view_id="1"
+	snapshot=1377
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=35.740659ms
+
+[Info  - 11:15:30] 2025/10/19 11:15:30 go/packages.Load #115
+	view_id="1"
+	snapshot=1377
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=33.741229ms
+
+[Info  - 11:15:30] 2025/10/19 11:15:30 go/packages.Load #116
+	view_id="1"
+	snapshot=1379
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=37.424046ms
+
+[Info  - 11:15:30] 2025/10/19 11:15:30 go/packages.Load #117
+	view_id="1"
+	snapshot=1379
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=33.798849ms
+
+[Info  - 11:15:30] 2025/10/19 11:15:30 go/packages.Load #118
+	view_id="1"
+	snapshot=1380
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=40.735241ms
+
+[Info  - 11:15:30] 2025/10/19 11:15:30 go/packages.Load #119
+	view_id="1"
+	snapshot=1380
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=37.396305ms
+
+[Error - 11:15:37] 2025/10/19 11:15:37 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:8:7: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Error - 11:15:38] 2025/10/19 11:15:38 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:8:7: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Error - 11:15:38] 2025/10/19 11:15:38 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:8:7: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Error - 11:15:42] 2025/10/19 11:15:42 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:8:10: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Error - 11:15:42] 2025/10/19 11:15:42 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:8:12: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Error - 11:15:43] 2025/10/19 11:15:43 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:8:12: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Error - 11:15:44] 2025/10/19 11:15:44 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:8:12: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Error - 11:15:44] 2025/10/19 11:15:44 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:8:13: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Error - 11:15:44] 2025/10/19 11:15:44 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:8:14: expected '(', found newline (and 2 more errors)
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Info  - 11:15:49] 2025/10/19 11:15:49 background imports cache refresh starting
+
+[Info  - 11:15:49] 2025/10/19 11:15:49 background refresh finished after 3.779494ms
+
+[Error - 11:16:05] 2025/10/19 11:16:05 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:9:11: expected type, found newline
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Info  - 11:16:19] 2025/10/19 11:16:19 background imports cache refresh starting
+
+[Info  - 11:16:20] 2025/10/19 11:16:20 background refresh finished after 4.221289ms
+
+[Info  - 11:17:40] 2025/10/19 11:17:40 go/packages.Load #122
+	view_id="1"
+	snapshot=1592
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=55.838995ms
+
+[Info  - 11:17:40] 2025/10/19 11:17:40 go/packages.Load #123
+	view_id="1"
+	snapshot=1592
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=55.603952ms
+
+[Error - 11:17:53] 2025/10/19 11:17:53 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{fmt Println})
+	position=15:13
+
+[Info  - 11:17:53] 2025/10/19 11:17:53 background imports cache refresh starting
+
+[Info  - 11:17:53] 2025/10/19 11:17:53 background refresh finished after 4.008678ms
+
+[Info  - 11:17:56] 2025/10/19 11:17:56 go/packages.Load #125
+	view_id="1"
+	snapshot=1650
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=41.059817ms
+
+[Info  - 11:17:56] 2025/10/19 11:17:56 go/packages.Load #126
+	view_id="1"
+	snapshot=1650
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=43.672629ms
+
+[Info  - 11:18:29] 2025/10/19 11:18:29 background imports cache refresh starting
+
+[Info  - 11:18:29] 2025/10/19 11:18:29 background refresh finished after 6.587748ms
+
+[Info  - 11:18:57] 2025/10/19 11:18:57 go/packages.Load #127
+	view_id="1"
+	snapshot=1688
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=35.23452ms
+
+[Info  - 11:18:57] 2025/10/19 11:18:57 go/packages.Load #128
+	view_id="1"
+	snapshot=1688
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=36.73361ms
+
+[Info  - 11:18:58] 2025/10/19 11:18:58 go/packages.Load #129
+	view_id="1"
+	snapshot=1689
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=34.777205ms
+
+[Error - 11:18:58] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:18:58] 2025/10/19 11:18:58 go/packages.Load #131
+	view_id="1"
+	snapshot=1690
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=36.0908ms
+
+[Info  - 11:18:58] 2025/10/19 11:18:58 go/packages.Load #132
+	view_id="1"
+	snapshot=1690
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=35.045532ms
+
+[Info  - 11:18:58] 2025/10/19 11:18:58 go/packages.Load #133
+	view_id="1"
+	snapshot=1691
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=32.074412ms
+
+[Info  - 11:18:58] 2025/10/19 11:18:58 go/packages.Load #134
+	view_id="1"
+	snapshot=1691
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=33.782448ms
+
+[Info  - 11:18:58] 2025/10/19 11:18:58 go/packages.Load #135
+	view_id="1"
+	snapshot=1692
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=33.642374ms
+
+[Error - 11:18:58] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:18:58] 2025/10/19 11:18:58 go/packages.Load #137
+	view_id="1"
+	snapshot=1693
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=37.000712ms
+
+[Error - 11:18:58] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:18:58] 2025/10/19 11:18:58 go/packages.Load #139
+	view_id="1"
+	snapshot=1694
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=35.579868ms
+
+[Info  - 11:18:58] 2025/10/19 11:18:58 go/packages.Load #140
+	view_id="1"
+	snapshot=1694
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=34.961553ms
+
+[Error - 11:19:09] 2025/10/19 11:19:09 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:51:4: expected operand, found ']' (and 2 more errors)
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Error - 11:19:26] 2025/10/19 11:19:26 imports fixes: allImportsFixes: /home/arshan/Code/omni/version2/main.go:53:24: missing ',' in argument list
+	file="/home/arshan/Code/omni/version2/main.go"
+
+[Info  - 11:19:28] 2025/10/19 11:19:28 background imports cache refresh starting
+
+[Info  - 11:19:28] 2025/10/19 11:19:28 background refresh finished after 4.236467ms
+
+[Info  - 11:20:01] 2025/10/19 11:20:01 background imports cache refresh starting
+
+[Info  - 11:20:01] 2025/10/19 11:20:01 background refresh finished after 4.92492ms
+
+[Info  - 11:21:05] 2025/10/19 11:21:05 go/packages.Load #141
+	view_id="1"
+	snapshot=1798
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=36.959993ms
+
+[Info  - 11:21:05] 2025/10/19 11:21:05 go/packages.Load #142
+	view_id="1"
+	snapshot=1798
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/version2/main.go]
+	packages=1
+	duration=36.430407ms
+
+[Info  - 11:21:08] 2025/10/19 11:21:08 background imports cache refresh starting
+
+[Info  - 11:21:08] 2025/10/19 11:21:08 background refresh finished after 4.101795ms
+
+[Info  - 11:21:48] 2025/10/19 11:21:48 background imports cache refresh starting
+
+[Info  - 11:21:48] 2025/10/19 11:21:48 background refresh finished after 6.042758ms
+
+[Info  - 11:22:23] 2025/10/19 11:22:23 background imports cache refresh starting
+
+[Info  - 11:22:23] 2025/10/19 11:22:23 background refresh finished after 5.680027ms
+
+[Error - 11:24:37] 2025/10/19 11:24:37 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:78:12: expected '(', found newline (and 10 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:24:38] 2025/10/19 11:24:38 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:78:20: expected '(', found newline (and 10 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:24:41] 2025/10/19 11:24:41 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:78:11: expected '(', found newline (and 10 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:24:41] 2025/10/19 11:24:41 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:78:10: expected '(', found newline (and 10 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:24:42] 2025/10/19 11:24:42 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:78:19: expected '(', found newline (and 10 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:24:42] 2025/10/19 11:24:42 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:78:18: expected '(', found newline (and 10 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:24:44] 2025/10/19 11:24:44 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:78:16: expected '(', found newline (and 10 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:24:45] 2025/10/19 11:24:45 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:78:16: expected '(', found newline (and 10 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:24:55] 2025/10/19 11:24:55 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:78:28: expected type, found ')'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 11:25:06] 2025/10/19 11:25:06 background imports cache refresh starting
+
+[Info  - 11:25:06] 2025/10/19 11:25:06 background refresh finished after 4.4902ms
+
+[Error - 11:25:08] 2025/10/19 11:25:08 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=78:8
+
+[Info  - 11:25:36] 2025/10/19 11:25:36 background imports cache refresh starting
+
+[Info  - 11:25:36] 2025/10/19 11:25:36 background refresh finished after 4.479298ms
+
+[Info  - 11:26:42] 2025/10/19 11:26:42 background imports cache refresh starting
+
+[Info  - 11:26:42] 2025/10/19 11:26:42 background refresh finished after 4.345838ms
+
+[Info  - 11:27:13] 2025/10/19 11:27:13 background imports cache refresh starting
+
+[Info  - 11:27:13] 2025/10/19 11:27:13 background refresh finished after 4.208012ms
+
+[Error - 11:27:55] 2025/10/19 11:27:55 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:86:44: missing ',' before newline in argument list (and 10 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:27:56] 2025/10/19 11:27:56 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:86:45: missing ',' before newline in argument list (and 10 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 11:27:59] 2025/10/19 11:27:59 background imports cache refresh starting
+
+[Info  - 11:27:59] 2025/10/19 11:27:59 background refresh finished after 4.102203ms
+
+[Error - 11:28:28] 2025/10/19 11:28:28 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:91:7: expected ';', found "successfully installed." (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:28:29] 2025/10/19 11:28:29 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:91:8: expected ';', found "successfully installed." (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:28:30] 2025/10/19 11:28:30 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:91:15: expected ';', found "successfully installed." (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:28:32] 2025/10/19 11:28:32 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:91:40: missing ',' before newline in argument list (and 12 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:28:33] 2025/10/19 11:28:33 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:91:40: missing ',' before newline in argument list (and 12 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:28:33] 2025/10/19 11:28:33 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:91:40: missing ',' before newline in argument list (and 12 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 11:28:35] 2025/10/19 11:28:35 background imports cache refresh starting
+
+[Info  - 11:28:35] 2025/10/19 11:28:35 background refresh finished after 4.669087ms
+
+[Info  - 11:29:08] 2025/10/19 11:29:08 background imports cache refresh starting
+
+[Info  - 11:29:08] 2025/10/19 11:29:08 background refresh finished after 6.390886ms
+
+[Info  - 11:29:49] 2025/10/19 11:29:49 background imports cache refresh starting
+
+[Info  - 11:29:49] 2025/10/19 11:29:49 background refresh finished after 4.643491ms
+
+[Info  - 11:30:20] 2025/10/19 11:30:20 background imports cache refresh starting
+
+[Info  - 11:30:20] 2025/10/19 11:30:20 background refresh finished after 6.525471ms
+
+[Error - 11:30:30] 2025/10/19 11:30:30 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:100:8: expected ';', found "installed with yay" (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:30:30] 2025/10/19 11:30:30 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:100:8: expected ';', found "installed with yay" (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:30:30] 2025/10/19 11:30:30 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:100:10: expected ';', found "installed with yay" (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:30:31] 2025/10/19 11:30:31 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:100:14: expected ';', found "installed with yay" (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:30:35] 2025/10/19 11:30:35 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:100:35: missing ',' before newline in argument list (and 12 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 11:30:51] 2025/10/19 11:30:51 background imports cache refresh starting
+
+[Info  - 11:30:51] 2025/10/19 11:30:51 background refresh finished after 5.530491ms
+
+[Error - 11:30:53] 2025/10/19 11:30:53 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:102:16: unknown escape sequence
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:31:20] 2025/10/19 11:31:20 signature help failed: cannot get type for Fun *ast.Ident (packagelist)
+	position=82:13
+
+[Info  - 11:31:30] 2025/10/19 11:31:30 background imports cache refresh starting
+
+[Info  - 11:31:30] 2025/10/19 11:31:30 background refresh finished after 5.709773ms
+
+[Info  - 11:32:00] 2025/10/19 11:32:00 background imports cache refresh starting
+
+[Info  - 11:32:00] 2025/10/19 11:32:00 background refresh finished after 4.617849ms
+
+[Info  - 11:32:48] 2025/10/19 11:32:48 background imports cache refresh starting
+
+[Info  - 11:32:48] 2025/10/19 11:32:48 background refresh finished after 4.758898ms
+
+[Error - 11:33:36] 2025/10/19 11:33:36 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=103:9
+
+[Info  - 11:33:46] 2025/10/19 11:33:46 background imports cache refresh starting
+
+[Info  - 11:33:46] 2025/10/19 11:33:46 background refresh finished after 5.642966ms
+
+[Info  - 11:34:17] 2025/10/19 11:34:17 background imports cache refresh starting
+
+[Info  - 11:34:17] 2025/10/19 11:34:17 background refresh finished after 2.550906ms
+
+[Info  - 11:34:48] 2025/10/19 11:34:48 background imports cache refresh starting
+
+[Info  - 11:34:48] 2025/10/19 11:34:48 background refresh finished after 5.082957ms
+
+[Info  - 11:35:18] 2025/10/19 11:35:18 background imports cache refresh starting
+
+[Info  - 11:35:18] 2025/10/19 11:35:18 background refresh finished after 4.228454ms
+
+[Info  - 11:39:21] 2025/10/19 11:39:21 background imports cache refresh starting
+
+[Info  - 11:39:21] 2025/10/19 11:39:21 background refresh finished after 5.419721ms
+
+[Info  - 11:40:11] 2025/10/19 11:40:11 background imports cache refresh starting
+
+[Info  - 11:40:11] 2025/10/19 11:40:11 background refresh finished after 5.934769ms
+
+[Error - 11:41:52] 2025/10/19 11:41:52 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:46:10: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:42:08] 2025/10/19 11:42:08 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:46:36: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 11:42:39] 2025/10/19 11:42:39 background imports cache refresh starting
+
+[Info  - 11:42:40] 2025/10/19 11:42:40 background refresh finished after 4.56301ms
+
+[Info  - 11:43:29] 2025/10/19 11:43:29 background imports cache refresh starting
+
+[Info  - 11:43:29] 2025/10/19 11:43:29 background refresh finished after 4.575187ms
+
+[Info  - 11:44:15] 2025/10/19 11:44:15 background imports cache refresh starting
+
+[Info  - 11:44:15] 2025/10/19 11:44:15 background refresh finished after 6.657071ms
+
+[Info  - 11:45:16] 2025/10/19 11:45:16 background imports cache refresh starting
+
+[Info  - 11:45:16] 2025/10/19 11:45:16 background refresh finished after 8.148913ms
+
+[Error - 11:45:37] 2025/10/19 11:45:37 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:13:1: expected declaration, found g
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:45:39] 2025/10/19 11:45:39 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:13:1: expected declaration, found g
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:45:39] 2025/10/19 11:45:39 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:13:1: expected declaration, found g
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:45:39] 2025/10/19 11:45:39 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:13:1: expected declaration, found g
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:45:45] 2025/10/19 11:45:45 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:15:6: expression in go must be function call (and 1 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:45:46] 2025/10/19 11:45:46 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:15:6: expression in go must be function call (and 1 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 11:45:48] 2025/10/19 11:45:48 background imports cache refresh starting
+
+[Info  - 11:45:48] 2025/10/19 11:45:48 background refresh finished after 4.302248ms
+
+[Error - 11:45:49] 2025/10/19 11:45:49 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:14:6: expression in go must be function call
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:45:50] 2025/10/19 11:45:50 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:14:7: expression in go must be function call
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:45:51] 2025/10/19 11:45:51 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:14:15: expected statement, found ')' (and 1 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:45:51] 2025/10/19 11:45:51 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:14:14: expected statement, found ')' (and 1 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:45:51] 2025/10/19 11:45:51 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:14:5: expected operand, found ')' (and 1 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 11:46:19] 2025/10/19 11:46:19 background imports cache refresh starting
+
+[Info  - 11:46:19] 2025/10/19 11:46:19 background refresh finished after 5.579409ms
+
+[Info  - 11:48:09] 2025/10/19 11:48:09 background imports cache refresh starting
+
+[Info  - 11:48:09] 2025/10/19 11:48:09 background refresh finished after 7.855022ms
+
+[Info  - 11:48:45] 2025/10/19 11:48:45 background imports cache refresh starting
+
+[Info  - 11:48:45] 2025/10/19 11:48:45 background refresh finished after 4.204305ms
+
+[Info  - 11:49:21] 2025/10/19 11:49:21 go/packages.Load #143
+	view_id="1"
+	snapshot=3809
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=36.089328ms
+
+[Info  - 11:49:21] 2025/10/19 11:49:21 go/packages.Load #144
+	view_id="1"
+	snapshot=3809
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=37.626697ms
+
+[Info  - 11:49:21] 2025/10/19 11:49:21 go/packages.Load #145
+	view_id="1"
+	snapshot=3810
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=36.567379ms
+
+[Info  - 11:49:21] 2025/10/19 11:49:21 go/packages.Load #146
+	view_id="1"
+	snapshot=3810
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=37.951877ms
+
+[Info  - 11:49:22] 2025/10/19 11:49:22 go/packages.Load #147
+	view_id="1"
+	snapshot=3811
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=41.354783ms
+
+[Info  - 11:49:22] 2025/10/19 11:49:22 go/packages.Load #148
+	view_id="1"
+	snapshot=3811
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=40.81793ms
+
+[Info  - 11:49:22] 2025/10/19 11:49:22 go/packages.Load #149
+	view_id="1"
+	snapshot=3812
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=27.140977ms
+
+[Info  - 11:49:22] 2025/10/19 11:49:22 go/packages.Load #150
+	view_id="1"
+	snapshot=3812
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=25.500213ms
+
+[Info  - 11:49:22] 2025/10/19 11:49:22 go/packages.Load #151
+	view_id="1"
+	snapshot=3813
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=35.995009ms
+
+[Error - 11:49:22] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:49:22] 2025/10/19 11:49:22 go/packages.Load #153
+	view_id="1"
+	snapshot=3814
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=41.330257ms
+
+[Info  - 11:49:22] 2025/10/19 11:49:22 go/packages.Load #154
+	view_id="1"
+	snapshot=3814
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=47.439731ms
+
+[Info  - 11:49:22] 2025/10/19 11:49:22 go/packages.Load #156
+	view_id="1"
+	snapshot=3816
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=38.530708ms
+
+[Info  - 11:49:22] 2025/10/19 11:49:22 go/packages.Load #157
+	view_id="1"
+	snapshot=3816
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=37.100952ms
+
+[Info  - 11:49:23] 2025/10/19 11:49:23 go/packages.Load #158
+	view_id="1"
+	snapshot=3817
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=35.803922ms
+
+[Info  - 11:49:23] 2025/10/19 11:49:23 go/packages.Load #159
+	view_id="1"
+	snapshot=3817
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=37.845034ms
+
+[Info  - 11:49:23] 2025/10/19 11:49:23 go/packages.Load #160
+	view_id="1"
+	snapshot=3818
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=37.394469ms
+
+[Error - 11:49:23] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:49:23] 2025/10/19 11:49:23 go/packages.Load #162
+	view_id="1"
+	snapshot=3819
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=45.084428ms
+
+[Info  - 11:49:23] 2025/10/19 11:49:23 go/packages.Load #163
+	view_id="1"
+	snapshot=3819
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=40.677372ms
+
+[Info  - 11:49:24] 2025/10/19 11:49:24 go/packages.Load #164
+	view_id="1"
+	snapshot=3820
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=35.587397ms
+
+[Info  - 11:49:24] 2025/10/19 11:49:24 go/packages.Load #165
+	view_id="1"
+	snapshot=3820
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=36.744481ms
+
+[Info  - 11:49:24] 2025/10/19 11:49:24 go/packages.Load #166
+	view_id="1"
+	snapshot=3821
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=34.427129ms
+
+[Info  - 11:49:24] 2025/10/19 11:49:24 go/packages.Load #167
+	view_id="1"
+	snapshot=3822
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=45.117118ms
+
+[Error - 11:49:25] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 11:49:25] 2025/10/19 11:49:25 go/packages.Load #169
+	view_id="1"
+	snapshot=3823
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=40.606255ms
+
+[Info  - 11:49:25] 2025/10/19 11:49:25 go/packages.Load #170
+	view_id="1"
+	snapshot=3823
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=38.182935ms
+
+[Info  - 11:49:25] 2025/10/19 11:49:25 go/packages.Load #171
+	view_id="1"
+	snapshot=3824
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=36.028854ms
+
+[Info  - 11:49:25] 2025/10/19 11:49:25 go/packages.Load #172
+	view_id="1"
+	snapshot=3824
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=37.04878ms
+
+[Info  - 11:49:25] 2025/10/19 11:49:25 go/packages.Load #173
+	view_id="1"
+	snapshot=3825
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=32.778877ms
+
+[Info  - 11:49:25] 2025/10/19 11:49:25 go/packages.Load #174
+	view_id="1"
+	snapshot=3826
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=39.614562ms
+
+[Info  - 11:49:25] 2025/10/19 11:49:25 go/packages.Load #175
+	view_id="1"
+	snapshot=3826
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=37.023644ms
+
+[Info  - 11:49:25] 2025/10/19 11:49:25 go/packages.Load #176
+	view_id="1"
+	snapshot=3827
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=40.938605ms
+
+[Info  - 11:49:25] 2025/10/19 11:49:25 go/packages.Load #177
+	view_id="1"
+	snapshot=3827
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=40.214377ms
+
+[Info  - 11:49:50] 2025/10/19 11:49:50 background imports cache refresh starting
+
+[Info  - 11:49:50] 2025/10/19 11:49:50 background refresh finished after 6.472051ms
+
+[Info  - 11:51:39] 2025/10/19 11:51:39 go/packages.Load #180
+	view_id="1"
+	snapshot=3866
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=59.830872ms
+
+[Info  - 11:51:39] 2025/10/19 11:51:39 go/packages.Load #181
+	view_id="1"
+	snapshot=3866
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=59.841191ms
+
+[Info  - 11:51:55] 2025/10/19 11:51:55 go/packages.Load #183
+	view_id="1"
+	snapshot=3904
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=44.39003ms
+
+[Info  - 11:51:55] 2025/10/19 11:51:55 go/packages.Load #184
+	view_id="1"
+	snapshot=3904
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=40.057835ms
+
+[Info  - 11:52:09] 2025/10/19 11:52:09 background imports cache refresh starting
+
+[Info  - 11:52:09] 2025/10/19 11:52:09 background refresh finished after 4.352085ms
+
+[Error - 11:52:13] 2025/10/19 11:52:13 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:18:19: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 11:52:39] 2025/10/19 11:52:39 background imports cache refresh starting
+
+[Info  - 11:52:39] 2025/10/19 11:52:39 background refresh finished after 4.431005ms
+
+[Error - 11:53:33] 2025/10/19 11:53:33 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:22:16: unknown escape sequence
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 11:56:38] 2025/10/19 11:56:38 background imports cache refresh starting
+
+[Info  - 11:56:38] 2025/10/19 11:56:38 background refresh finished after 4.38387ms
+
+[Error - 11:56:43] 2025/10/19 11:56:43 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:55:7: expected operand, found ':' (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:56:44] 2025/10/19 11:56:44 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:55:15: expected operand, found ':' (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 11:57:20] 2025/10/19 11:57:20 background imports cache refresh starting
+
+[Info  - 11:57:20] 2025/10/19 11:57:20 background refresh finished after 4.879651ms
+
+[Error - 11:59:44] 2025/10/19 11:59:44 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:54:15: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 11:59:46] 2025/10/19 11:59:46 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:54:15: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:00:11] 2025/10/19 12:00:11 background imports cache refresh starting
+
+[Info  - 12:00:11] 2025/10/19 12:00:11 background refresh finished after 5.40394ms
+
+[Error - 12:00:13] 2025/10/19 12:00:13 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=54:9
+
+[Info  - 12:00:42] 2025/10/19 12:00:42 background imports cache refresh starting
+
+[Info  - 12:00:42] 2025/10/19 12:00:42 background refresh finished after 5.204196ms
+
+[Info  - 12:01:40] 2025/10/19 12:01:40 background imports cache refresh starting
+
+[Info  - 12:01:40] 2025/10/19 12:01:40 background refresh finished after 4.91643ms
+
+[Info  - 12:02:23] 2025/10/19 12:02:23 go/packages.Load #185
+	view_id="1"
+	snapshot=4848
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=25.135476ms
+
+[Info  - 12:02:23] 2025/10/19 12:02:23 go/packages.Load #186
+	view_id="1"
+	snapshot=4848
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=25.123903ms
+
+[Info  - 12:02:24] 2025/10/19 12:02:24 go/packages.Load #187
+	view_id="1"
+	snapshot=4853
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=40.207372ms
+
+[Info  - 12:02:24] 2025/10/19 12:02:24 go/packages.Load #188
+	view_id="1"
+	snapshot=4853
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=38.254976ms
+
+[Info  - 12:02:24] 2025/10/19 12:02:24 go/packages.Load #189
+	view_id="1"
+	snapshot=4855
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=41.047674ms
+
+[Info  - 12:02:24] 2025/10/19 12:02:24 go/packages.Load #190
+	view_id="1"
+	snapshot=4855
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=41.127929ms
+
+[Info  - 12:02:24] 2025/10/19 12:02:24 go/packages.Load #191
+	view_id="1"
+	snapshot=4856
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=40.63964ms
+
+[Info  - 12:02:24] 2025/10/19 12:02:24 go/packages.Load #192
+	view_id="1"
+	snapshot=4856
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=41.167441ms
+
+[Info  - 12:02:24] 2025/10/19 12:02:24 go/packages.Load #193
+	view_id="1"
+	snapshot=4857
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=37.17934ms
+
+[Info  - 12:02:24] 2025/10/19 12:02:24 go/packages.Load #194
+	view_id="1"
+	snapshot=4857
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=38.13768ms
+
+[Info  - 12:02:24] 2025/10/19 12:02:24 go/packages.Load #195
+	view_id="1"
+	snapshot=4858
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=42.974504ms
+
+[Info  - 12:02:25] 2025/10/19 12:02:25 go/packages.Load #196
+	view_id="1"
+	snapshot=4858
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=42.104147ms
+
+[Info  - 12:02:25] 2025/10/19 12:02:25 go/packages.Load #197
+	view_id="1"
+	snapshot=4859
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=35.517626ms
+
+[Info  - 12:02:25] 2025/10/19 12:02:25 go/packages.Load #198
+	view_id="1"
+	snapshot=4859
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=37.09978ms
+
+[Info  - 12:02:35] 2025/10/19 12:02:35 background imports cache refresh starting
+
+[Info  - 12:02:35] 2025/10/19 12:02:35 background refresh finished after 4.420181ms
+
+[Info  - 12:03:51] 2025/10/19 12:03:51 go/packages.Load #200
+	view_id="1"
+	snapshot=4890
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=45.354369ms
+
+[Info  - 12:03:51] 2025/10/19 12:03:51 go/packages.Load #201
+	view_id="1"
+	snapshot=4890
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=43.636491ms
+
+[Info  - 12:04:15] 2025/10/19 12:04:15 background imports cache refresh starting
+
+[Info  - 12:04:15] 2025/10/19 12:04:15 background refresh finished after 4.379635ms
+
+[Info  - 12:04:49] 2025/10/19 12:04:49 background imports cache refresh starting
+
+[Info  - 12:04:49] 2025/10/19 12:04:49 background refresh finished after 4.218281ms
+
+[Error - 12:05:19] 2025/10/19 12:05:19 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:62:28: expected statement, found ')' (and 9 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:05:19] 2025/10/19 12:05:19 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:62:25: expected statement, found ')' (and 9 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:05:43] 2025/10/19 12:05:43 background imports cache refresh starting
+
+[Info  - 12:05:43] 2025/10/19 12:05:43 background refresh finished after 4.82107ms
+
+[Info  - 12:06:13] 2025/10/19 12:06:13 background imports cache refresh starting
+
+[Info  - 12:06:13] 2025/10/19 12:06:13 background refresh finished after 5.093085ms
+
+[Info  - 12:06:46] 2025/10/19 12:06:46 background imports cache refresh starting
+
+[Info  - 12:06:46] 2025/10/19 12:06:46 background refresh finished after 4.870405ms
+
+[Error - 12:06:58] 2025/10/19 12:06:58 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:64:26: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:07:14] 2025/10/19 12:07:14 go/packages.Load #202
+	view_id="1"
+	snapshot=5243
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=45.344793ms
+
+[Info  - 12:07:14] 2025/10/19 12:07:14 go/packages.Load #203
+	view_id="1"
+	snapshot=5243
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=44.105042ms
+
+[Info  - 12:07:16] 2025/10/19 12:07:16 background imports cache refresh starting
+
+[Info  - 12:07:16] 2025/10/19 12:07:16 background refresh finished after 4.725015ms
+
+[Info  - 12:09:05] 2025/10/19 12:09:05 go/packages.Load #205
+	view_id="1"
+	snapshot=5382
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=38.933048ms
+
+[Info  - 12:09:05] 2025/10/19 12:09:05 go/packages.Load #206
+	view_id="1"
+	snapshot=5382
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=37.790146ms
+
+[Info  - 12:09:08] 2025/10/19 12:09:08 go/packages.Load #207
+	view_id="1"
+	snapshot=5385
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=36.293213ms
+
+[Info  - 12:09:09] 2025/10/19 12:09:09 background imports cache refresh starting
+
+[Info  - 12:09:09] 2025/10/19 12:09:09 background refresh finished after 5.76137ms
+
+[Info  - 12:09:09] 2025/10/19 12:09:09 go/packages.Load #208
+	view_id="1"
+	snapshot=5387
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=40.567882ms
+
+[Info  - 12:09:09] 2025/10/19 12:09:09 go/packages.Load #209
+	view_id="1"
+	snapshot=5387
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=42.426125ms
+
+[Info  - 12:09:42] 2025/10/19 12:09:42 background imports cache refresh starting
+
+[Info  - 12:09:42] 2025/10/19 12:09:42 background refresh finished after 4.426347ms
+
+[Error - 12:10:23] 2025/10/19 12:10:23 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:60:20: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:10:25] 2025/10/19 12:10:25 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:60:20: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:10:26] 2025/10/19 12:10:26 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:60:20: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:10:27] 2025/10/19 12:10:27 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:60:20: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:10:31] 2025/10/19 12:10:31 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:61:17: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:10:45] 2025/10/19 12:10:45 background imports cache refresh starting
+
+[Info  - 12:10:45] 2025/10/19 12:10:45 background refresh finished after 4.363709ms
+
+[Error - 12:10:49] 2025/10/19 12:10:49 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:62:8: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:11:17] 2025/10/19 12:11:17 background imports cache refresh starting
+
+[Info  - 12:11:17] 2025/10/19 12:11:17 background refresh finished after 6.264052ms
+
+[Info  - 12:11:55] 2025/10/19 12:11:55 background imports cache refresh starting
+
+[Info  - 12:11:55] 2025/10/19 12:11:55 background refresh finished after 4.799808ms
+
+[Info  - 12:13:05] 2025/10/19 12:13:05 background imports cache refresh starting
+
+[Info  - 12:13:05] 2025/10/19 12:13:05 background refresh finished after 4.372953ms
+
+[Error - 12:13:24] 2025/10/19 12:13:24 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:61:15: expected ';', found "sudo useradd -m -G wheel -s %s %s" (and 9 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:13:24] 2025/10/19 12:13:24 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:61:15: expected ';', found "sudo useradd -m -G wheel -s %s %s" (and 9 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:13:25] 2025/10/19 12:13:25 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:61:21: expected ';', found "sudo useradd -m -G wheel -s %s %s" (and 9 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:13:53] 2025/10/19 12:13:53 background imports cache refresh starting
+
+[Info  - 12:13:53] 2025/10/19 12:13:53 background refresh finished after 5.540303ms
+
+[Info  - 12:14:34] 2025/10/19 12:14:34 background imports cache refresh starting
+
+[Info  - 12:14:34] 2025/10/19 12:14:34 background refresh finished after 4.633426ms
+
+[Info  - 12:15:48] 2025/10/19 12:15:48 background imports cache refresh starting
+
+[Info  - 12:15:48] 2025/10/19 12:15:48 background refresh finished after 4.437091ms
+
+[Info  - 12:16:19] 2025/10/19 12:16:19 background imports cache refresh starting
+
+[Info  - 12:16:19] 2025/10/19 12:16:19 background refresh finished after 4.444577ms
+
+[Error - 12:19:02] 2025/10/19 12:19:02 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:65:17: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:19:28] 2025/10/19 12:19:28 background imports cache refresh starting
+
+[Info  - 12:19:28] 2025/10/19 12:19:28 background refresh finished after 5.078311ms
+
+[Info  - 12:20:32] 2025/10/19 12:20:32 background imports cache refresh starting
+
+[Info  - 12:20:32] 2025/10/19 12:20:32 background refresh finished after 5.142103ms
+
+[Error - 12:22:11] 2025/10/19 12:22:11 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:67:57: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:12] 2025/10/19 12:22:12 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:67:57: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:13] 2025/10/19 12:22:13 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:67:57: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:14] 2025/10/19 12:22:14 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:67:57: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:14] 2025/10/19 12:22:14 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:67:57: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:32] 2025/10/19 12:22:32 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:67:73: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:33] 2025/10/19 12:22:33 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:67:73: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:34] 2025/10/19 12:22:34 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:67:73: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:35] 2025/10/19 12:22:35 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:67:73: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:41] 2025/10/19 12:22:41 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:68:8: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:42] 2025/10/19 12:22:42 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:68:9: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:45] 2025/10/19 12:22:45 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:69:8: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:55] 2025/10/19 12:22:55 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:71:8: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:56] 2025/10/19 12:22:56 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:71:8: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:56] 2025/10/19 12:22:56 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:71:8: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:22:59] 2025/10/19 12:22:59 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:71:8: missing ',' before newline in argument list
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:23:11] 2025/10/19 12:23:11 background imports cache refresh starting
+
+[Info  - 12:23:11] 2025/10/19 12:23:11 background refresh finished after 4.179886ms
+
+[Info  - 12:23:52] 2025/10/19 12:23:52 background imports cache refresh starting
+
+[Info  - 12:23:52] 2025/10/19 12:23:52 background refresh finished after 4.607951ms
+
+[Info  - 12:24:24] 2025/10/19 12:24:24 background imports cache refresh starting
+
+[Info  - 12:24:24] 2025/10/19 12:24:24 background refresh finished after 6.418089ms
+
+[Error - 12:25:11] 2025/10/19 12:25:11 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:228:1: expected declaration, found commands
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:25:12] 2025/10/19 12:25:12 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:228:1: expected declaration, found commands
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:26:05] 2025/10/19 12:26:05 background imports cache refresh starting
+
+[Info  - 12:26:05] 2025/10/19 12:26:05 background refresh finished after 4.465097ms
+
+[Info  - 12:26:46] 2025/10/19 12:26:46 background imports cache refresh starting
+
+[Info  - 12:26:46] 2025/10/19 12:26:46 background refresh finished after 4.618702ms
+
+[Info  - 12:27:16] 2025/10/19 12:27:16 background imports cache refresh starting
+
+[Info  - 12:27:16] 2025/10/19 12:27:16 background refresh finished after 4.538543ms
+
+[Info  - 12:28:18] 2025/10/19 12:28:18 background imports cache refresh starting
+
+[Info  - 12:28:18] 2025/10/19 12:28:18 background refresh finished after 4.312434ms
+
+[Info  - 12:29:34] 2025/10/19 12:29:34 background imports cache refresh starting
+
+[Info  - 12:29:34] 2025/10/19 12:29:34 background refresh finished after 4.574128ms
+
+[Info  - 12:30:34] 2025/10/19 12:30:34 background imports cache refresh starting
+
+[Info  - 12:30:34] 2025/10/19 12:30:34 background refresh finished after 4.125995ms
+
+[Error - 12:32:50] 2025/10/19 12:32:50 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:11: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:32:51] 2025/10/19 12:32:51 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:10: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:32:51] 2025/10/19 12:32:51 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:14: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:32:52] 2025/10/19 12:32:52 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:14: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:32:52] 2025/10/19 12:32:52 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:14: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:32:53] 2025/10/19 12:32:53 signature help failed: cannot get type for Fun *ast.Ident (deluser)
+	position=74:14
+
+[Error - 12:32:54] 2025/10/19 12:32:54 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:16: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:32:54] 2025/10/19 12:32:54 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:16: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:32:54] 2025/10/19 12:32:54 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:16: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:32:56] 2025/10/19 12:32:56 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:16: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:32:57] 2025/10/19 12:32:57 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:14: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:32:59] 2025/10/19 12:32:59 background imports cache refresh starting
+
+[Info  - 12:32:59] 2025/10/19 12:32:59 background refresh finished after 5.172497ms
+
+[Error - 12:33:00] 2025/10/19 12:33:00 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:16: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:33:01] 2025/10/19 12:33:01 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:16: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:33:01] 2025/10/19 12:33:01 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:75:16: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:33:18] 2025/10/19 12:33:18 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=75:9
+
+[Info  - 12:33:35] 2025/10/19 12:33:35 background imports cache refresh starting
+
+[Info  - 12:33:35] 2025/10/19 12:33:35 background refresh finished after 7.165775ms
+
+[Error - 12:34:47] 2025/10/19 12:34:47 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:80:15: expected ';', found "sudo userdel %s" (and 11 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:34:48] 2025/10/19 12:34:48 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:80:21: expected ';', found "sudo userdel %s" (and 11 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:34:49] 2025/10/19 12:34:49 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:80:21: expected ';', found "sudo userdel %s" (and 11 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:34:52] 2025/10/19 12:34:52 background imports cache refresh starting
+
+[Info  - 12:34:52] 2025/10/19 12:34:52 background refresh finished after 4.529515ms
+
+[Error - 12:34:54] 2025/10/19 12:34:54 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:80:23: expected ';', found "sudo userdel %s" (and 11 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:34:55] 2025/10/19 12:34:55 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:80:39: missing ',' before newline in argument list (and 59 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:34:55] 2025/10/19 12:34:55 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:80:39: missing ',' before newline in argument list (and 59 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:35:31] 2025/10/19 12:35:31 background imports cache refresh starting
+
+[Info  - 12:35:31] 2025/10/19 12:35:31 background refresh finished after 4.493865ms
+
+[Error - 12:35:36] 2025/10/19 12:35:36 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:80:20: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:35:46] 2025/10/19 12:35:46 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:80:20: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:35:57] 2025/10/19 12:35:57 signature help failed: cannot get type for Fun *ast.Ident (intRunCmd)
+	position=81:12
+
+[Info  - 12:36:03] 2025/10/19 12:36:03 background imports cache refresh starting
+
+[Info  - 12:36:03] 2025/10/19 12:36:03 background refresh finished after 4.550903ms
+
+[Info  - 12:36:33] 2025/10/19 12:36:33 background imports cache refresh starting
+
+[Info  - 12:36:33] 2025/10/19 12:36:33 background refresh finished after 4.373369ms
+
+[Info  - 12:37:48] 2025/10/19 12:37:48 background imports cache refresh starting
+
+[Info  - 12:37:48] 2025/10/19 12:37:48 background refresh finished after 5.1388ms
+
+[Info  - 12:39:10] 2025/10/19 12:39:10 background imports cache refresh starting
+
+[Info  - 12:39:10] 2025/10/19 12:39:10 background refresh finished after 5.56602ms
+
+[Info  - 12:40:17] 2025/10/19 12:40:17 background imports cache refresh starting
+
+[Info  - 12:40:17] 2025/10/19 12:40:17 background refresh finished after 5.556593ms
+
+[Info  - 12:41:40] 2025/10/19 12:41:40 background imports cache refresh starting
+
+[Info  - 12:41:40] 2025/10/19 12:41:40 background refresh finished after 5.17314ms
+
+[Error - 12:42:21] 2025/10/19 12:42:21 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:74:16: expected type, found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:42:40] 2025/10/19 12:42:40 background imports cache refresh starting
+
+[Info  - 12:42:40] 2025/10/19 12:42:40 background refresh finished after 5.348988ms
+
+[Info  - 12:43:22] 2025/10/19 12:43:22 background imports cache refresh starting
+
+[Info  - 12:43:22] 2025/10/19 12:43:22 background refresh finished after 4.405237ms
+
+[Info  - 12:44:03] 2025/10/19 12:44:03 background imports cache refresh starting
+
+[Info  - 12:44:03] 2025/10/19 12:44:03 background refresh finished after 5.063826ms
+
+[Info  - 12:44:34] 2025/10/19 12:44:34 background imports cache refresh starting
+
+[Info  - 12:44:34] 2025/10/19 12:44:34 background refresh finished after 4.505047ms
+
+[Info  - 12:45:46] 2025/10/19 12:45:46 background imports cache refresh starting
+
+[Info  - 12:45:46] 2025/10/19 12:45:46 background refresh finished after 4.460446ms
+
+[Error - 12:46:08] 2025/10/19 12:46:08 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:87:14: expected statement, found ')' (and 11 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:46:22] 2025/10/19 12:46:22 background imports cache refresh starting
+
+[Info  - 12:46:22] 2025/10/19 12:46:22 background refresh finished after 4.339913ms
+
+[Error - 12:47:12] 2025/10/19 12:47:12 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:58:17: expected operand, found ':' (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:47:14] 2025/10/19 12:47:14 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:58:29: expected operand, found ':' (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:47:26] 2025/10/19 12:47:26 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:79:32: expected operand, found ':' (and 13 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:47:41] 2025/10/19 12:47:41 background imports cache refresh starting
+
+[Info  - 12:47:41] 2025/10/19 12:47:41 background refresh finished after 4.767828ms
+
+[Info  - 12:48:38] 2025/10/19 12:48:38 background imports cache refresh starting
+
+[Info  - 12:48:38] 2025/10/19 12:48:38 background refresh finished after 5.513143ms
+
+[Info  - 12:53:31] 2025/10/19 12:53:31 background imports cache refresh starting
+
+[Info  - 12:53:31] 2025/10/19 12:53:31 background refresh finished after 5.312545ms
+
+[Info  - 12:54:01] 2025/10/19 12:54:01 background imports cache refresh starting
+
+[Info  - 12:54:01] 2025/10/19 12:54:01 background refresh finished after 4.733194ms
+
+[Error - 12:54:17] 2025/10/19 12:54:17 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:194:16: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:54:29] 2025/10/19 12:54:29 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:193:44: missing ',' before newline in argument list (and 12 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 12:54:39] 2025/10/19 12:54:39 background imports cache refresh starting
+
+[Info  - 12:54:39] 2025/10/19 12:54:39 background refresh finished after 4.455624ms
+
+[Info  - 12:54:45] 2025/10/19 12:54:45 go/packages.Load #210
+	view_id="1"
+	snapshot=8096
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=26.400079ms
+
+[Info  - 12:54:45] 2025/10/19 12:54:45 go/packages.Load #211
+	view_id="1"
+	snapshot=8096
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=23.949692ms
+
+[Info  - 12:54:45] 2025/10/19 12:54:45 go/packages.Load #212
+	view_id="1"
+	snapshot=8098
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=37.461887ms
+
+[Info  - 12:54:45] 2025/10/19 12:54:45 go/packages.Load #213
+	view_id="1"
+	snapshot=8098
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=34.841308ms
+
+[Info  - 12:54:46] 2025/10/19 12:54:46 go/packages.Load #214
+	view_id="1"
+	snapshot=8101
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=24.834621ms
+
+[Info  - 12:54:47] 2025/10/19 12:54:47 go/packages.Load #215
+	view_id="1"
+	snapshot=8103
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=26.861766ms
+
+[Info  - 12:54:47] 2025/10/19 12:54:47 go/packages.Load #216
+	view_id="1"
+	snapshot=8103
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=27.12246ms
+
+[Info  - 12:54:47] 2025/10/19 12:54:47 go/packages.Load #217
+	view_id="1"
+	snapshot=8105
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=25.721708ms
+
+[Info  - 12:54:47] 2025/10/19 12:54:47 go/packages.Load #218
+	view_id="1"
+	snapshot=8105
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=25.936578ms
+
+[Info  - 12:54:47] 2025/10/19 12:54:47 go/packages.Load #219
+	view_id="1"
+	snapshot=8106
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=24.693032ms
+
+[Info  - 12:54:48] 2025/10/19 12:54:48 go/packages.Load #220
+	view_id="1"
+	snapshot=8107
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=27.547234ms
+
+[Info  - 12:54:48] 2025/10/19 12:54:48 go/packages.Load #221
+	view_id="1"
+	snapshot=8107
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=25.855931ms
+
+[Info  - 12:54:48] 2025/10/19 12:54:48 go/packages.Load #222
+	view_id="1"
+	snapshot=8108
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=24.909318ms
+
+[Info  - 12:54:48] 2025/10/19 12:54:48 go/packages.Load #223
+	view_id="1"
+	snapshot=8108
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=25.824116ms
+
+[Info  - 12:54:48] 2025/10/19 12:54:48 go/packages.Load #224
+	view_id="1"
+	snapshot=8109
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=24.787345ms
+
+[Info  - 12:54:48] 2025/10/19 12:54:48 go/packages.Load #225
+	view_id="1"
+	snapshot=8110
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=25.011561ms
+
+[Info  - 12:54:48] 2025/10/19 12:54:48 go/packages.Load #226
+	view_id="1"
+	snapshot=8110
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=25.982514ms
+
+[Info  - 12:54:48] 2025/10/19 12:54:48 go/packages.Load #228
+	view_id="1"
+	snapshot=8112
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=28.151749ms
+
+[Info  - 12:54:48] 2025/10/19 12:54:48 go/packages.Load #229
+	view_id="1"
+	snapshot=8112
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=26.857247ms
+
+[Info  - 12:54:48] 2025/10/19 12:54:48 go/packages.Load #230
+	view_id="1"
+	snapshot=8113
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=40.522951ms
+
+[Info  - 12:54:48] 2025/10/19 12:54:48 go/packages.Load #231
+	view_id="1"
+	snapshot=8113
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=35.890376ms
+
+[Info  - 12:54:49] 2025/10/19 12:54:49 go/packages.Load #232
+	view_id="1"
+	snapshot=8114
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=25.243871ms
+
+[Info  - 12:54:49] 2025/10/19 12:54:49 go/packages.Load #233
+	view_id="1"
+	snapshot=8115
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=24.748488ms
+
+[Info  - 12:54:49] 2025/10/19 12:54:49 go/packages.Load #234
+	view_id="1"
+	snapshot=8115
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=25.875696ms
+
+[Info  - 12:54:49] 2025/10/19 12:54:49 go/packages.Load #235
+	view_id="1"
+	snapshot=8116
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=25.078065ms
+
+[Error - 12:54:49] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 12:54:49] 2025/10/19 12:54:49 go/packages.Load #237
+	view_id="1"
+	snapshot=8117
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=24.360783ms
+
+[Info  - 12:54:49] 2025/10/19 12:54:49 go/packages.Load #238
+	view_id="1"
+	snapshot=8117
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=23.892334ms
+
+[Info  - 12:54:49] 2025/10/19 12:54:49 go/packages.Load #239
+	view_id="1"
+	snapshot=8118
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=26.658706ms
+
+[Info  - 12:54:49] 2025/10/19 12:54:49 go/packages.Load #240
+	view_id="1"
+	snapshot=8118
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=25.775539ms
+
+[Info  - 12:54:50] 2025/10/19 12:54:50 go/packages.Load #241
+	view_id="1"
+	snapshot=8121
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=28.559118ms
+
+[Info  - 12:54:50] 2025/10/19 12:54:50 go/packages.Load #242
+	view_id="1"
+	snapshot=8121
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=28.918658ms
+
+[Info  - 12:54:56] 2025/10/19 12:54:56 go/packages.Load #244
+	view_id="1"
+	snapshot=8141
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=45.38336ms
+
+[Info  - 12:54:56] 2025/10/19 12:54:56 go/packages.Load #245
+	view_id="1"
+	snapshot=8141
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/test.go]
+	packages=1
+	duration=41.98628ms
+
+[Info  - 12:55:11] 2025/10/19 12:55:11 background imports cache refresh starting
+
+[Info  - 12:55:11] 2025/10/19 12:55:11 background refresh finished after 4.364458ms
+
+[Info  - 12:55:51] 2025/10/19 12:55:51 background imports cache refresh starting
+
+[Info  - 12:55:51] 2025/10/19 12:55:51 background refresh finished after 4.614925ms
+
+[Error - 12:55:57] 2025/10/19 12:55:57 imports fixes: allImportsFixes: /home/arshan/Code/omni/test.go:6:24: missing ',' in argument list
+	file="/home/arshan/Code/omni/test.go"
+
+[Info  - 12:56:24] 2025/10/19 12:56:24 background imports cache refresh starting
+
+[Info  - 12:56:24] 2025/10/19 12:56:24 background refresh finished after 4.342445ms
+
+[Info  - 12:57:40] 2025/10/19 12:57:40 background imports cache refresh starting
+
+[Info  - 12:57:40] 2025/10/19 12:57:40 background refresh finished after 4.130384ms
+
+[Info  - 12:58:27] 2025/10/19 12:58:27 background imports cache refresh starting
+
+[Info  - 12:58:27] 2025/10/19 12:58:27 background refresh finished after 4.936028ms
+
+[Info  - 12:58:31] 2025/10/19 12:58:31 go/packages.Load #247
+	view_id="1"
+	snapshot=8385
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=43.829192ms
+
+[Info  - 12:58:31] 2025/10/19 12:58:31 go/packages.Load #248
+	view_id="1"
+	snapshot=8385
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=42.637442ms
+
+[Error - 12:58:33] 2025/10/19 12:58:33 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:198:16: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:58:40] 2025/10/19 12:58:40 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:199:15: expected statement, found ')' (and 2 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:58:48] 2025/10/19 12:58:48 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{purple banner})
+	position=198:16
+
+[Info  - 12:58:57] 2025/10/19 12:58:57 background imports cache refresh starting
+
+[Info  - 12:58:57] 2025/10/19 12:58:57 background refresh finished after 5.323945ms
+
+[Info  - 12:59:06] 2025/10/19 12:59:06 go/packages.Load #250
+	view_id="1"
+	snapshot=8491
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=50.247944ms
+
+[Info  - 12:59:06] 2025/10/19 12:59:06 go/packages.Load #251
+	view_id="1"
+	snapshot=8491
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/main/main.go]
+	packages=1
+	duration=58.877466ms
+
+[Info  - 12:59:28] 2025/10/19 12:59:28 background imports cache refresh starting
+
+[Info  - 12:59:28] 2025/10/19 12:59:28 background refresh finished after 4.351622ms
+
+[Error - 12:59:41] 2025/10/19 12:59:41 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:95:9: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 12:59:46] 2025/10/19 12:59:46 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=95:9
+
+[Info  - 13:00:08] 2025/10/19 13:00:08 background imports cache refresh starting
+
+[Info  - 13:00:08] 2025/10/19 13:00:08 background refresh finished after 5.222985ms
+
+[Info  - 13:00:41] 2025/10/19 13:00:41 background imports cache refresh starting
+
+[Info  - 13:00:41] 2025/10/19 13:00:41 background refresh finished after 5.343798ms
+
+[Error - 13:01:23] 2025/10/19 13:01:23 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:100:15: expected operand, found ']' (and 4 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 13:01:33] 2025/10/19 13:01:33 background imports cache refresh starting
+
+[Info  - 13:01:33] 2025/10/19 13:01:33 background refresh finished after 4.467167ms
+
+[Error - 13:01:50] 2025/10/19 13:01:50 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:101:21: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 13:02:21] 2025/10/19 13:02:21 background imports cache refresh starting
+
+[Info  - 13:02:21] 2025/10/19 13:02:21 background refresh finished after 5.064126ms
+
+[Info  - 13:03:21] 2025/10/19 13:03:21 background imports cache refresh starting
+
+[Info  - 13:03:21] 2025/10/19 13:03:21 background refresh finished after 4.727055ms
+
+[Error - 13:03:28] 2025/10/19 13:03:28 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:103:16: expected ':', found newline
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 13:03:44] 2025/10/19 13:03:44 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:104:18: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 13:03:45] 2025/10/19 13:03:45 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:104:18: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 13:03:46] 2025/10/19 13:03:46 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:104:18: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Error - 13:03:49] 2025/10/19 13:03:49 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:104:18: expected operand, found ']'
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 13:04:01] 2025/10/19 13:04:01 background imports cache refresh starting
+
+[Info  - 13:04:01] 2025/10/19 13:04:01 background refresh finished after 4.292881ms
+
+[Error - 13:04:16] 2025/10/19 13:04:16 imports fixes: allImportsFixes: /home/arshan/Code/omni/main/main.go:105:8: expected ';', found printBanner (and 13 more errors)
+	file="/home/arshan/Code/omni/main/main.go"
+
+[Info  - 13:04:34] 2025/10/19 13:04:34 background imports cache refresh starting
+
+[Info  - 13:04:34] 2025/10/19 13:04:34 background refresh finished after 4.89625ms
+
+[Info  - 13:12:24] 2025/10/19 13:12:24 Shutdown session
+	shutdown_session=1
+

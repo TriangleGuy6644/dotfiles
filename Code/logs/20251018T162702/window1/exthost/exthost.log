@@ -1,0 +1,42 @@
+2025-10-18 16:27:04.166 [info] Extension host with pid 36147 started
+2025-10-18 16:27:04.166 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/bd306b4bf75c1612df1200c4814549f4.
+2025-10-18 16:27:04.213 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-18 16:27:04.236 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-18 16:27:04.294 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-18 16:27:04.296 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-18 16:27:04.297 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-18 16:27:04.336 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:.venv'
+2025-10-18 16:27:04.558 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-18 16:27:04.602 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-18 16:27:04.964 [info] Eager extensions activated
+2025-10-18 16:27:05.009 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:27:05.011 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:27:05.038 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:27:05.046 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:27:05.061 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:27:05.063 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:27:05.140 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-10-18 16:27:05.482 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-18 16:27:05.533 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'api', root cause: ms-python.vscode-pylance
+2025-10-18 16:27:07.130 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 16:27:07.216 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 16:27:07.233 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 16:27:12.240 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:c'
+2025-10-18 16:27:13.845 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2025-10-18 16:27:14.480 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-18 16:27:20.655 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-10-18 16:27:21.525 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-10-18 16:27:27.078 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-18 16:27:27.116 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/arshan/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:668401)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-18 16:27:27.124 [info] Extension host with pid 36147 exiting with code 0

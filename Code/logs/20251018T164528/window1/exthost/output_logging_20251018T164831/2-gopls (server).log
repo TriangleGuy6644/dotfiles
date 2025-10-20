@@ -1,0 +1,1512 @@
+[Info  - 16:48:32] 2025/10/18 16:48:32 Created View (#1)
+	directory=/home/arshan/Code/omni
+	view_type="GoMod"
+	root_dir="file:///home/arshan/Code/omni"
+	go_version="go version go1.25.2 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/arshan/.cache/go-build GOMODCACHE:/home/arshan/go/pkg/mod GOPATH:/home/arshan/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.2 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 16:48:33] 2025/10/18 16:48:33 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=209.193052ms
+
+[Info  - 16:49:02] 2025/10/18 16:49:02 background imports cache refresh starting
+
+[Info  - 16:49:02] 2025/10/18 16:49:02 background refresh finished after 79.074916ms
+
+[Info  - 17:48:47] 2025/10/18 17:48:47 background imports cache refresh starting
+
+[Info  - 17:48:47] 2025/10/18 17:48:47 background refresh finished after 4.54774ms
+
+[Info  - 17:49:20] 2025/10/18 17:49:20 background imports cache refresh starting
+
+[Info  - 17:49:20] 2025/10/18 17:49:20 background refresh finished after 6.070793ms
+
+[Error - 17:54:58] 2025/10/18 17:54:58 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:15:19: expected operand, found ')' (and 36 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 17:55:02] 2025/10/18 17:55:02 background imports cache refresh starting
+
+[Info  - 17:55:02] 2025/10/18 17:55:02 background refresh finished after 5.655305ms
+
+[Info  - 17:55:35] 2025/10/18 17:55:35 background imports cache refresh starting
+
+[Info  - 17:55:35] 2025/10/18 17:55:35 background refresh finished after 5.787867ms
+
+[Error - 17:56:23] 2025/10/18 17:56:23 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:15:6: expected ';', found fmt
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 17:56:51] 2025/10/18 17:56:51 background imports cache refresh starting
+
+[Info  - 17:56:51] 2025/10/18 17:56:51 background refresh finished after 4.266816ms
+
+[Error - 18:01:04] 2025/10/18 18:01:04 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=13:8
+
+[Info  - 18:01:34] 2025/10/18 18:01:34 background imports cache refresh starting
+
+[Info  - 18:01:34] 2025/10/18 18:01:34 background refresh finished after 5.575421ms
+
+[Error - 18:02:11] 2025/10/18 18:02:11 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=15:8
+
+[Info  - 18:02:40] 2025/10/18 18:02:40 background imports cache refresh starting
+
+[Info  - 18:02:40] 2025/10/18 18:02:40 background refresh finished after 4.285191ms
+
+[Info  - 18:03:07] 2025/10/18 18:03:07 go/packages.Load #3
+	view_id="1"
+	snapshot=423
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=39.067573ms
+
+[Info  - 18:03:07] 2025/10/18 18:03:07 go/packages.Load #4
+	view_id="1"
+	snapshot=423
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=38.248506ms
+
+[Info  - 18:03:12] 2025/10/18 18:03:12 go/packages.Load #5
+	view_id="1"
+	snapshot=432
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=40.46603ms
+
+[Info  - 18:03:12] 2025/10/18 18:03:12 go/packages.Load #6
+	view_id="1"
+	snapshot=432
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=35.499815ms
+
+[Info  - 18:03:16] 2025/10/18 18:03:16 go/packages.Load #8
+	view_id="1"
+	snapshot=444
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=39.294989ms
+
+[Info  - 18:03:16] 2025/10/18 18:03:16 go/packages.Load #9
+	view_id="1"
+	snapshot=444
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=42.228969ms
+
+[Info  - 18:03:22] 2025/10/18 18:03:22 background imports cache refresh starting
+
+[Info  - 18:03:22] 2025/10/18 18:03:22 background refresh finished after 5.361413ms
+
+[Info  - 18:03:25] 2025/10/18 18:03:25 go/packages.Load #10
+	view_id="1"
+	snapshot=462
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=39.707919ms
+
+[Info  - 18:03:25] 2025/10/18 18:03:25 go/packages.Load #11
+	view_id="1"
+	snapshot=462
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=38.12269ms
+
+[Info  - 18:03:53] 2025/10/18 18:03:53 background imports cache refresh starting
+
+[Info  - 18:03:53] 2025/10/18 18:03:53 background refresh finished after 4.155657ms
+
+[Info  - 18:04:51] 2025/10/18 18:04:51 background imports cache refresh starting
+
+[Info  - 18:04:51] 2025/10/18 18:04:51 background refresh finished after 5.436894ms
+
+[Info  - 18:08:42] 2025/10/18 18:08:42 background imports cache refresh starting
+
+[Info  - 18:08:42] 2025/10/18 18:08:42 background refresh finished after 9.744714ms
+
+[Info  - 18:16:47] 2025/10/18 18:16:47 background imports cache refresh starting
+
+[Info  - 18:16:47] 2025/10/18 18:16:47 background refresh finished after 4.989244ms
+
+[Info  - 18:17:34] 2025/10/18 18:17:34 background imports cache refresh starting
+
+[Info  - 18:17:34] 2025/10/18 18:17:34 background refresh finished after 6.086974ms
+
+[Error - 18:22:56] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 18:22:56] 2025/10/18 18:22:56 go/packages.Load #16
+	view_id="1"
+	snapshot=558
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=79.833218ms
+
+[Info  - 18:22:56] 2025/10/18 18:22:56 go/packages.Load #15
+	view_id="1"
+	snapshot=558
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=85.74308ms
+
+[Info  - 18:23:26] 2025/10/18 18:23:26 background imports cache refresh starting
+
+[Info  - 18:23:26] 2025/10/18 18:23:26 background refresh finished after 6.449318ms
+
+[Error - 18:47:07] Request textDocument/hover failed.
+  Message: no package data for import "github.com/labstack/gommon/color"
+  Code: 0 
+[Error - 18:47:08] Request textDocument/hover failed.
+  Message: no package data for import "github.com/labstack/gommon/color"
+  Code: 0 
+[Info  - 18:47:20] 2025/10/18 18:47:20 go/packages.Load #17
+	view_id="1"
+	snapshot=595
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=131.617976ms
+
+[Info  - 18:47:21] 2025/10/18 18:47:21 go/packages.Load #18
+	view_id="1"
+	snapshot=595
+	directory=/home/arshan/Code/omni
+	query=[encoding flag]
+	packages=5
+	duration=870.001084ms
+
+[Info  - 19:03:02] 2025/10/18 19:03:02 background imports cache refresh starting
+
+[Info  - 19:03:02] 2025/10/18 19:03:02 background refresh finished after 9.526456ms
+
+[Error - 19:09:40] 2025/10/18 19:09:40 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:22:27: expected ']', found newline (and 39 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:10:11] 2025/10/18 19:10:11 background imports cache refresh starting
+
+[Info  - 19:10:11] 2025/10/18 19:10:11 background refresh finished after 4.636432ms
+
+[Info  - 19:11:09] 2025/10/18 19:11:09 background imports cache refresh starting
+
+[Info  - 19:11:09] 2025/10/18 19:11:09 background refresh finished after 4.67403ms
+
+[Error - 19:16:51] 2025/10/18 19:16:51 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:14: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:16:51] 2025/10/18 19:16:51 background imports cache refresh starting
+
+[Info  - 19:16:51] 2025/10/18 19:16:51 background refresh finished after 4.749524ms
+
+[Error - 19:16:53] 2025/10/18 19:16:53 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:11: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:16:55] 2025/10/18 19:16:55 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:14: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:16:56] 2025/10/18 19:16:56 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:15: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:16:56] 2025/10/18 19:16:56 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:14: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:17:00] 2025/10/18 19:17:00 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:15: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:17:02] 2025/10/18 19:17:02 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:18: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:17:22] 2025/10/18 19:17:22 background imports cache refresh starting
+
+[Info  - 19:17:22] 2025/10/18 19:17:22 background refresh finished after 5.247746ms
+
+[Error - 19:19:03] 2025/10/18 19:19:03 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:14: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:19:06] 2025/10/18 19:19:06 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:17: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:19:09] 2025/10/18 19:19:09 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:24: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:19:14] 2025/10/18 19:19:14 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:24: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:19:14] 2025/10/18 19:19:14 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:23:24: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:19:26] 2025/10/18 19:19:26 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=23:9
+
+[Error - 19:19:26] 2025/10/18 19:19:26 signature help failed: call operand is not a func or type: *ast.Ident (len)
+	position=23:9
+
+[Error - 19:19:29] 2025/10/18 19:19:29 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:24:15: expected operand, found ')' (and 41 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:19:36] 2025/10/18 19:19:36 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:24:19: illegal label declaration (and 11 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:19:48] 2025/10/18 19:19:48 background imports cache refresh starting
+
+[Info  - 19:19:48] 2025/10/18 19:19:48 background refresh finished after 6.799853ms
+
+[Info  - 19:20:32] 2025/10/18 19:20:32 background imports cache refresh starting
+
+[Info  - 19:20:32] 2025/10/18 19:20:32 background refresh finished after 4.678291ms
+
+[Error - 19:20:55] 2025/10/18 19:20:55 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:28:24: expected operand, found ']'
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:21:04] 2025/10/18 19:21:04 background imports cache refresh starting
+
+[Info  - 19:21:04] 2025/10/18 19:21:04 background refresh finished after 5.435386ms
+
+[Error - 19:22:01] Request textDocument/formatting failed.
+  Message: 28:27: expected selector or type assertion, found '.'
+  Code: 0 
+[Info  - 19:22:22] 2025/10/18 19:22:22 background imports cache refresh starting
+
+[Info  - 19:22:22] 2025/10/18 19:22:22 background refresh finished after 5.290037ms
+
+[Error - 19:22:35] 2025/10/18 19:22:35 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:21:19: expected operand, found ']'
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:22:52] 2025/10/18 19:22:52 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:21:19: expected operand, found ']'
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:22:53] 2025/10/18 19:22:53 background imports cache refresh starting
+
+[Info  - 19:22:53] 2025/10/18 19:22:53 background refresh finished after 6.166198ms
+
+[Info  - 19:23:23] 2025/10/18 19:23:23 background imports cache refresh starting
+
+[Info  - 19:23:23] 2025/10/18 19:23:23 background refresh finished after 6.059301ms
+
+[Error - 19:23:55] 2025/10/18 19:23:55 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{fmt Prinn})
+	position=20:11
+
+[Info  - 19:23:56] 2025/10/18 19:23:56 background imports cache refresh starting
+
+[Info  - 19:23:56] 2025/10/18 19:23:56 background refresh finished after 5.745957ms
+
+[Error - 19:24:13] 2025/10/18 19:24:13 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:21:17: expected operand, found ']'
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:24:26] 2025/10/18 19:24:26 background imports cache refresh starting
+
+[Info  - 19:24:26] 2025/10/18 19:24:26 background refresh finished after 4.597827ms
+
+[Error - 19:24:58] 2025/10/18 19:24:58 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:29:14: expected statement, found ')' (and 9 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:25:01] 2025/10/18 19:25:01 background imports cache refresh starting
+
+[Info  - 19:25:01] 2025/10/18 19:25:01 background refresh finished after 8.024249ms
+
+[Info  - 19:25:48] 2025/10/18 19:25:48 background imports cache refresh starting
+
+[Info  - 19:25:48] 2025/10/18 19:25:48 background refresh finished after 6.12011ms
+
+[Info  - 19:26:19] 2025/10/18 19:26:19 background imports cache refresh starting
+
+[Info  - 19:26:19] 2025/10/18 19:26:19 background refresh finished after 11.079392ms
+
+[Error - 19:28:01] 2025/10/18 19:28:01 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:30:33: expected operand, found ')' (and 39 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:28:29] 2025/10/18 19:28:29 background imports cache refresh starting
+
+[Info  - 19:28:29] 2025/10/18 19:28:29 background refresh finished after 4.243986ms
+
+[Info  - 19:29:05] 2025/10/18 19:29:05 background imports cache refresh starting
+
+[Info  - 19:29:05] 2025/10/18 19:29:05 background refresh finished after 5.713625ms
+
+[Info  - 19:29:54] 2025/10/18 19:29:54 background imports cache refresh starting
+
+[Info  - 19:29:54] 2025/10/18 19:29:54 background refresh finished after 5.663644ms
+
+[Error - 19:30:32] 2025/10/18 19:30:32 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:25] 2025/10/18 19:32:25 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:25] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:28] 2025/10/18 19:32:28 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:28] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:29] 2025/10/18 19:32:29 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:29] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:29] 2025/10/18 19:32:29 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:29] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:29] 2025/10/18 19:32:29 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:29] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:29] 2025/10/18 19:32:29 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:29] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:29] 2025/10/18 19:32:29 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:29] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:31] 2025/10/18 19:32:31 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:31] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:31] 2025/10/18 19:32:31 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:31] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:32] 2025/10/18 19:32:32 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:32] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:32] 2025/10/18 19:32:32 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:32] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:32] 2025/10/18 19:32:32 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:32] Request textDocument/formatting failed.
+  Message: 37:6: expected '(', found runCmd (and 3 more errors)
+  Code: 0 
+[Error - 19:32:37] 2025/10/18 19:32:37 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:41:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:38] 2025/10/18 19:32:38 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:41:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:44] 2025/10/18 19:32:44 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:46] 2025/10/18 19:32:46 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:56] 2025/10/18 19:32:56 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:32:58] 2025/10/18 19:32:58 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:33:02] 2025/10/18 19:33:02 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:42:6: expected '(', found intrunCmd (and 6 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:33:21] 2025/10/18 19:33:21 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:33:21] 2025/10/18 19:33:21 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:37:6: expected '(', found runCmd (and 8 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:33:31] 2025/10/18 19:33:31 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:35:1: expected statement, found ')'
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:33:31] Request textDocument/formatting failed.
+  Message: 35:1: expected statement, found ')'
+  Code: 0 
+[Info  - 19:34:10] 2025/10/18 19:34:10 background imports cache refresh starting
+
+[Info  - 19:34:10] 2025/10/18 19:34:10 background refresh finished after 6.275324ms
+
+[Error - 19:34:39] 2025/10/18 19:34:39 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:69:12: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:34:44] 2025/10/18 19:34:44 background imports cache refresh starting
+
+[Info  - 19:34:44] 2025/10/18 19:34:44 background refresh finished after 6.833656ms
+
+[Error - 19:34:51] 2025/10/18 19:34:51 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:69:7: expected operand, found ':' (and 5 more errors)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:35:18] 2025/10/18 19:35:18 background imports cache refresh starting
+
+[Info  - 19:35:18] 2025/10/18 19:35:18 background refresh finished after 5.605919ms
+
+[Error - 19:35:34] Request textDocument/hover failed.
+  Message: context canceled
+  Code: 0 
+[Error - 19:35:44] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:35:44] 2025/10/18 19:35:44 code lens upgrade_dependency failed: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+
+[Error - 19:35:44] 2025/10/18 19:35:44 code lens tidy failed: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+
+[Error - 19:35:44] 2025/10/18 19:35:44 code lens vendor failed: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+
+[Error - 19:35:44] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:35:45] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:35:45] 2025/10/18 19:35:45 failed to compute document links: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+	URI=file:///home/arshan/Code/omni/go.mod
+
+[Error - 19:35:46] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:35:46] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:35:46] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:35:46] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:35:47] Request textDocument/inlayHint failed.
+  Message: context canceled
+  Code: 0 
+[Error - 19:35:47] Request textDocument/inlayHint failed.
+  Message: context canceled
+  Code: 0 
+[Info  - 19:35:50] 2025/10/18 19:35:50 go/packages.Load #23
+	view_id="1"
+	snapshot=1849
+	directory=/home/arshan/Code/omni
+	query=[bufio bytes cmp context encoding encoding/binary errors flag flag_test fmt github.com/creack/pty github.com/labstack/gommon/color github.com/mattn/go-colorable github.com/mattn/go-isatty golang.org/x/sys/unix internal/abi internal/asan internal/bisect internal/bytealg internal/byteorder internal/cfg internal/chacha8rand internal/coverage/rtcov internal/cpu internal/filepathlite internal/fmtsort internal/goarch internal/godebug internal/godebugs internal/goexperiment internal/goos internal/itoa internal/msan internal/nettrace internal/oserror internal/platform internal/poll internal/profilerecord internal/race internal/reflectlite internal/runtime/atomic internal/runtime/cgroup internal/runtime/exithook internal/runtime/gc internal/runtime/maps internal/runtime/math internal/runtime/strconv internal/runtime/sys internal/runtime/syscall internal/singleflight internal/stringslite internal/sync internal/synctest internal/syscall/execenv internal/syscall/unix internal/sysinfo internal/testenv internal/testlog internal/trace/tracev2 internal/unsafeheader io io/fs iter maps math math/bits math/rand net net/netip net/url omni omni/cmd os os/exec path path/filepath reflect regexp regexp/syntax runtime runtime/cgo runtime/debug runtime/trace slices sort strconv strings sync sync/atomic syscall testing time unicode unicode/utf8 unique unsafe vendor/golang.org/x/net/dns/dnsmessage weak]
+	packages=279
+	duration=2.493041979s
+
+[Info  - 19:35:50] 2025/10/18 19:35:50 go/packages.Load #24
+	view_id="1"
+	snapshot=1849
+	directory=/home/arshan/Code/omni
+	query=[bufio bytes cmp context encoding encoding/binary errors flag flag_test fmt github.com/creack/pty github.com/labstack/gommon/color github.com/mattn/go-colorable github.com/mattn/go-isatty golang.org/x/sys/unix internal/abi internal/asan internal/bisect internal/bytealg internal/byteorder internal/cfg internal/chacha8rand internal/coverage/rtcov internal/cpu internal/filepathlite internal/fmtsort internal/goarch internal/godebug internal/godebugs internal/goexperiment internal/goos internal/itoa internal/msan internal/nettrace internal/oserror internal/platform internal/poll internal/profilerecord internal/race internal/reflectlite internal/runtime/atomic internal/runtime/cgroup internal/runtime/exithook internal/runtime/gc internal/runtime/maps internal/runtime/math internal/runtime/strconv internal/runtime/sys internal/runtime/syscall internal/singleflight internal/stringslite internal/sync internal/synctest internal/syscall/execenv internal/syscall/unix internal/sysinfo internal/testenv internal/testlog internal/trace/tracev2 internal/unsafeheader io io/fs iter maps math math/bits math/rand net net/netip net/url omni omni/cmd os os/exec path path/filepath reflect regexp regexp/syntax runtime runtime/cgo runtime/debug runtime/trace slices sort strconv strings sync sync/atomic syscall testing time unicode unicode/utf8 unique unsafe vendor/golang.org/x/net/dns/dnsmessage weak]
+	packages=279
+	duration=1.544039594s
+
+[Error - 19:35:50] 2025/10/18 19:35:50 errors loading workspace: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+	view_id="1"
+	snapshot=1849
+	directory=/home/arshan/Code/omni
+
+[Error - 19:35:50] Request textDocument/definition failed.
+  Message: can't find definitions for file type go.mod
+  Code: 0 
+[Info  - 19:35:50] 2025/10/18 19:35:50 go/packages.Load #25
+	view_id="1"
+	snapshot=1850
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=39.121127ms
+
+[Info  - 19:35:50] 2025/10/18 19:35:50 go/packages.Load #26
+	view_id="1"
+	snapshot=1852
+	directory=/home/arshan/Code/omni
+	query=[bufio bufio_test bytes bytes_test cmp cmp_test compress/bzip2 compress/flate compress/gzip compress/zlib container/heap container/list context context_test crypto crypto/aes crypto/cipher crypto/des crypto/dsa crypto/ecdh crypto/ecdsa crypto/ed25519 crypto/elliptic crypto/fips140 crypto/hkdf crypto/hmac crypto/internal/boring crypto/internal/boring/bbig crypto/internal/boring/sig crypto/internal/entropy crypto/internal/fips140 crypto/internal/fips140/aes crypto/internal/fips140/aes/gcm crypto/internal/fips140/alias crypto/internal/fips140/bigmod crypto/internal/fips140/check crypto/internal/fips140/drbg crypto/internal/fips140/ecdh crypto/internal/fips140/ecdsa crypto/internal/fips140/ed25519 crypto/internal/fips140/edwards25519 crypto/internal/fips140/edwards25519/field crypto/internal/fips140/hkdf crypto/internal/fips140/hmac crypto/internal/fips140/mlkem crypto/internal/fips140/nistec crypto/internal/fips140/nistec/fiat crypto/internal/fips140/rsa crypto/internal/fips140/sha256 crypto/internal/fips140/sha3 crypto/internal/fips140/sha512 crypto/internal/fips140/subtle crypto/internal/fips140/tls12 crypto/internal/fips140/tls13 crypto/internal/fips140cache crypto/internal/fips140deps/byteorder crypto/internal/fips140deps/cpu crypto/internal/fips140deps/godebug crypto/internal/fips140hash crypto/internal/fips140only crypto/internal/hpke crypto/internal/impl crypto/internal/randutil crypto/internal/sysrand crypto/md5 crypto/rand crypto/rc4 crypto/rsa crypto/sha1 crypto/sha256 crypto/sha3 crypto/sha512 crypto/subtle crypto/tls crypto/tls/internal/fips140tls crypto/x509 crypto/x509/pkix debug/dwarf debug/elf encoding encoding/asn1 encoding/base64 encoding/binary encoding/binary_test encoding/gob encoding/hex encoding/json encoding/pem errors errors_test flag flag_test fmt fmt_test github.com/creack/pty github.com/mattn/go-colorable github.com/mattn/go-isatty github.com/mattn/go-isatty_test go/ast go/build go/build/constraint go/constant go/doc go/doc/comment go/importer go/internal/gccgoimporter go/internal/gcimporter go/internal/srcimporter go/parser go/printer go/scanner go/token go/types go/version golang.org/x/sys/unix golang.org/x/sys/unix_test hash hash/adler32 hash/crc32 internal/abi internal/abi_test internal/bisect internal/buildcfg internal/bytealg internal/cfg internal/cgrouptest internal/chacha8rand internal/chacha8rand_test internal/cpu internal/cpu_test internal/diff internal/exportdata internal/filepathlite internal/fmtsort internal/fmtsort_test internal/godebug internal/godebug_test internal/godebugs internal/godebugs_test internal/goroot internal/gover internal/goversion internal/itoa internal/itoa_test internal/lazyregexp internal/nettrace internal/oserror internal/pkgbits internal/platform internal/platform_test internal/poll internal/poll_test internal/profile internal/race internal/reflectlite internal/reflectlite_test internal/runtime/atomic internal/runtime/atomic_test internal/runtime/cgroup internal/runtime/cgroup_test internal/runtime/maps internal/runtime/maps_test internal/runtime/math internal/runtime/math_test internal/runtime/startlinetest internal/runtime/strconv internal/runtime/strconv_test internal/runtime/sys internal/runtime/sys_test internal/runtime/syscall internal/runtime/syscall_test internal/saferio internal/singleflight internal/stringslite internal/sync internal/sync_test internal/synctest internal/synctest_test internal/syscall/execenv internal/syscall/unix internal/syscall/unix_test internal/sysinfo internal/sysinfo_test internal/syslist internal/testenv internal/testenv_test internal/testlog internal/testpty internal/trace internal/trace/internal/tracev1 internal/trace/raw internal/trace/testtrace internal/trace/tracev2 internal/trace/tracev2_test internal/trace/version internal/txtar internal/types/errors internal/unsafeheader internal/unsafeheader_test internal/xcoff internal/zstd io io/fs io/fs_test io_test iter iter_test log log/internal maps maps_test math math/big math/bits math/bits_test math/cmplx math/rand math/rand/v2 math/rand_test math_test mime mime/multipart mime/quotedprintable net net/http net/http/httptest net/http/httptrace net/http/internal net/http/internal/ascii net/http/internal/httpcommon net/http/internal/testcert net/internal/socktest net/netip net/netip_test net/textproto net/url net/url_test net_test os os/exec os/exec/internal/fdtest os/exec_test os/signal os/user os_test path path/filepath path/filepath_test path_test reflect reflect/internal/example1 reflect/internal/example2 reflect_test regexp regexp/syntax regexp_test runtime runtime/cgo runtime/debug runtime/debug_test runtime/metrics runtime/pprof runtime/trace runtime/trace_test runtime_test slices slices_test sort sort_test strconv strconv_test strings strings_test sync sync/atomic sync/atomic_test sync_test syscall syscall_test testing testing/fstest testing/iotest testing/quick testing_test text/scanner text/tabwriter text/template text/template/parse time time/tzdata time_test unicode unicode/utf16 unicode/utf8 unicode/utf8_test unicode_test unique vendor/golang.org/x/crypto/chacha20 vendor/golang.org/x/crypto/chacha20poly1305 vendor/golang.org/x/crypto/cryptobyte vendor/golang.org/x/crypto/cryptobyte/asn1 vendor/golang.org/x/crypto/internal/alias vendor/golang.org/x/crypto/internal/poly1305 vendor/golang.org/x/net/dns/dnsmessage vendor/golang.org/x/net/http/httpguts vendor/golang.org/x/net/http/httpproxy vendor/golang.org/x/net/http2/hpack vendor/golang.org/x/net/idna vendor/golang.org/x/net/nettest vendor/golang.org/x/sys/cpu vendor/golang.org/x/text/secure/bidirule vendor/golang.org/x/text/transform vendor/golang.org/x/text/unicode/bidi vendor/golang.org/x/text/unicode/norm weak weak_test]
+	packages=772
+	duration=558.860862ms
+
+[Info  - 19:35:51] 2025/10/18 19:35:51 go/packages.Load #27
+	view_id="1"
+	snapshot=1853
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=35.589833ms
+
+[Info  - 19:35:51] 2025/10/18 19:35:51 go/packages.Load #28
+	view_id="1"
+	snapshot=1853
+	directory=/home/arshan/Code/omni
+	query=[bufio bufio_test bytes bytes_test cmp cmp_test compress/bzip2 compress/flate compress/flate_test compress/gzip compress/gzip_test compress/zlib compress/zlib_test container/heap container/heap_test container/list container/list_test context context_test crypto crypto/aes crypto/cipher crypto/cipher_test crypto/des crypto/des_test crypto/dsa crypto/ecdh crypto/ecdh_test crypto/ecdsa crypto/ecdsa_test crypto/ed25519 crypto/ed25519_test crypto/elliptic crypto/fips140 crypto/hkdf crypto/hkdf_test crypto/hmac crypto/internal/boring crypto/internal/boring/bbig crypto/internal/boring/sig crypto/internal/cryptotest crypto/internal/entropy crypto/internal/fips140 crypto/internal/fips140/aes crypto/internal/fips140/aes/gcm crypto/internal/fips140/aes/gcm_test crypto/internal/fips140/aes_test crypto/internal/fips140/alias crypto/internal/fips140/bigmod crypto/internal/fips140/check crypto/internal/fips140/drbg crypto/internal/fips140/ecdh crypto/internal/fips140/ecdsa crypto/internal/fips140/ed25519 crypto/internal/fips140/edwards25519 crypto/internal/fips140/edwards25519/field crypto/internal/fips140/hkdf crypto/internal/fips140/hmac crypto/internal/fips140/mlkem crypto/internal/fips140/nistec crypto/internal/fips140/nistec/fiat crypto/internal/fips140/nistec/fiat_test crypto/internal/fips140/nistec_test crypto/internal/fips140/rsa crypto/internal/fips140/sha256 crypto/internal/fips140/sha3 crypto/internal/fips140/sha512 crypto/internal/fips140/subtle crypto/internal/fips140/tls12 crypto/internal/fips140/tls13 crypto/internal/fips140cache crypto/internal/fips140deps/byteorder crypto/internal/fips140deps/cpu crypto/internal/fips140deps/godebug crypto/internal/fips140hash crypto/internal/fips140only crypto/internal/hpke crypto/internal/impl crypto/internal/randutil crypto/internal/sysrand crypto/internal/sysrand/internal/seccomp crypto/internal/sysrand_test crypto/md5 crypto/md5_test crypto/rand crypto/rand_test crypto/rc4 crypto/rsa crypto/rsa_test crypto/sha1 crypto/sha1_test crypto/sha256 crypto/sha256_test crypto/sha3 crypto/sha3_test crypto/sha512 crypto/subtle crypto/subtle_test crypto/tls crypto/tls/internal/fips140tls crypto/tls_test crypto/x509 crypto/x509/pkix crypto/x509_test crypto_test debug/dwarf debug/dwarf_test debug/elf debug/macho debug/pe encoding encoding/asn1 encoding/base64 encoding/base64_test encoding/binary encoding/binary_test encoding/gob encoding/gob_test encoding/hex encoding/hex_test encoding/json encoding/json_test encoding/pem encoding/pem_test encoding/xml errors errors_test flag flag_test fmt fmt_test github.com/creack/pty github.com/mattn/go-colorable github.com/mattn/go-isatty github.com/mattn/go-isatty_test go/ast go/ast_test go/build go/build/constraint go/constant go/constant_test go/doc go/doc/comment go/doc_test go/format go/importer go/internal/gccgoimporter go/internal/gcimporter go/internal/gcimporter_test go/internal/srcimporter go/parser go/parser_test go/printer go/printer_test go/scanner go/scanner_test go/token go/token_test go/types go/types_test go/version golang.org/x/sys/unix golang.org/x/sys/unix_test hash hash/adler32 hash/crc32 hash/crc32_test hash/crc64 hash/fnv hash_test image image/color internal/abi internal/abi_test internal/bisect internal/buildcfg internal/bytealg internal/cfg internal/cgrouptest internal/chacha8rand internal/chacha8rand_test internal/cpu internal/cpu_test internal/dag internal/diff internal/exportdata internal/filepathlite internal/fmtsort internal/fmtsort_test internal/godebug internal/godebug_test internal/godebugs internal/godebugs_test internal/goroot internal/gover internal/goversion internal/itoa internal/itoa_test internal/lazyregexp internal/nettrace internal/obscuretestdata internal/oserror internal/pkgbits internal/pkgbits_test internal/platform internal/platform_test internal/poll internal/poll_test internal/profile internal/race internal/reflectlite internal/reflectlite_test internal/runtime/atomic internal/runtime/atomic_test internal/runtime/cgroup internal/runtime/cgroup_test internal/runtime/maps internal/runtime/maps_test internal/runtime/math internal/runtime/math_test internal/runtime/startlinetest internal/runtime/strconv internal/runtime/strconv_test internal/runtime/sys internal/runtime/sys_test internal/runtime/syscall internal/runtime/syscall_test internal/saferio internal/singleflight internal/stringslite internal/sync internal/sync_test internal/synctest internal/synctest_test internal/syscall/execenv internal/syscall/unix internal/syscall/unix_test internal/sysinfo internal/sysinfo_test internal/syslist internal/testenv internal/testenv_test internal/testhash internal/testlog internal/testpty internal/trace internal/trace/internal/tracev1 internal/trace/raw internal/trace/testtrace internal/trace/tracev2 internal/trace/tracev2_test internal/trace/version internal/trace_test internal/txtar internal/types/errors internal/types/errors_test internal/unsafeheader internal/unsafeheader_test internal/xcoff internal/zstd io io/fs io/fs_test io_test iter iter_test log log/internal log_test maps maps_test math math/big math/big_test math/bits math/bits_test math/cmplx math/cmplx_test math/rand math/rand/v2 math/rand/v2_test math/rand_test math_test mime mime/multipart mime/multipart_test mime/quotedprintable mime/quotedprintable_test mime_test net net/http net/http/cookiejar net/http/httptest net/http/httptest_test net/http/httptrace net/http/httptrace_test net/http/httputil net/http/internal net/http/internal/ascii net/http/internal/httpcommon net/http/internal/testcert net/http_test net/internal/socktest net/internal/socktest_test net/mail net/netip net/netip_test net/textproto net/url net/url_test net_test os os/exec os/exec/internal/fdtest os/exec_test os/signal os/signal_test os/user os_test path path/filepath path/filepath_test path_test reflect reflect/internal/example1 reflect/internal/example2 reflect_test regexp regexp/syntax regexp_test runtime runtime/cgo runtime/debug runtime/debug_test runtime/metrics runtime/metrics_test runtime/pprof runtime/trace runtime/trace_test runtime_test slices slices_test sort sort_test strconv strconv_test strings strings_test sync sync/atomic sync/atomic_test sync_test syscall syscall_test testing testing/fstest testing/iotest testing/iotest_test testing/quick testing/synctest testing_test text/scanner text/scanner_test text/tabwriter text/tabwriter_test text/template text/template/parse text/template_test time time/tzdata time_test unicode unicode/utf16 unicode/utf16_test unicode/utf8 unicode/utf8_test unicode_test unique vendor/golang.org/x/crypto/chacha20 vendor/golang.org/x/crypto/chacha20poly1305 vendor/golang.org/x/crypto/cryptobyte vendor/golang.org/x/crypto/cryptobyte/asn1 vendor/golang.org/x/crypto/internal/alias vendor/golang.org/x/crypto/internal/poly1305 vendor/golang.org/x/net/dns/dnsmessage vendor/golang.org/x/net/http/httpguts vendor/golang.org/x/net/http/httpproxy vendor/golang.org/x/net/http2/hpack vendor/golang.org/x/net/idna vendor/golang.org/x/net/nettest vendor/golang.org/x/sys/cpu vendor/golang.org/x/text/secure/bidirule vendor/golang.org/x/text/transform vendor/golang.org/x/text/unicode/bidi vendor/golang.org/x/text/unicode/norm weak weak_test]
+	packages=885
+	duration=295.835946ms
+
+[Info  - 19:35:52] 2025/10/18 19:35:52 go/packages.Load #29
+	view_id="1"
+	snapshot=1857
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=33.474438ms
+
+[Error - 19:35:52] Request textDocument/inlayHint failed.
+  Message: context canceled
+  Code: 0 
+[Info  - 19:35:53] 2025/10/18 19:35:53 go/packages.Load #31
+	view_id="1"
+	snapshot=1858
+	directory=/home/arshan/Code/omni
+	query=[bufio bufio_test bytes bytes_test cmp cmp_test compress/bzip2 compress/flate compress/flate_test compress/gzip compress/gzip_test compress/lzw compress/zlib compress/zlib_test container/heap container/heap_test container/list container/list_test context context_test crypto crypto/aes crypto/cipher crypto/cipher_test crypto/des crypto/des_test crypto/dsa crypto/ecdh crypto/ecdh_test crypto/ecdsa crypto/ecdsa_test crypto/ed25519 crypto/ed25519_test crypto/elliptic crypto/fips140 crypto/hkdf crypto/hkdf_test crypto/hmac crypto/internal/boring crypto/internal/boring/bbig crypto/internal/boring/sig crypto/internal/cryptotest crypto/internal/entropy crypto/internal/fips140 crypto/internal/fips140/aes crypto/internal/fips140/aes/gcm crypto/internal/fips140/aes/gcm_test crypto/internal/fips140/aes_test crypto/internal/fips140/alias crypto/internal/fips140/bigmod crypto/internal/fips140/check crypto/internal/fips140/drbg crypto/internal/fips140/ecdh crypto/internal/fips140/ecdsa crypto/internal/fips140/ed25519 crypto/internal/fips140/edwards25519 crypto/internal/fips140/edwards25519/field crypto/internal/fips140/hkdf crypto/internal/fips140/hmac crypto/internal/fips140/mlkem crypto/internal/fips140/nistec crypto/internal/fips140/nistec/fiat crypto/internal/fips140/nistec/fiat_test crypto/internal/fips140/nistec_test crypto/internal/fips140/rsa crypto/internal/fips140/sha256 crypto/internal/fips140/sha3 crypto/internal/fips140/sha512 crypto/internal/fips140/subtle crypto/internal/fips140/tls12 crypto/internal/fips140/tls13 crypto/internal/fips140cache crypto/internal/fips140deps/byteorder crypto/internal/fips140deps/cpu crypto/internal/fips140deps/godebug crypto/internal/fips140hash crypto/internal/fips140only crypto/internal/hpke crypto/internal/impl crypto/internal/randutil crypto/internal/sysrand crypto/internal/sysrand/internal/seccomp crypto/internal/sysrand_test crypto/md5 crypto/md5_test crypto/rand crypto/rand_test crypto/rc4 crypto/rsa crypto/rsa_test crypto/sha1 crypto/sha1_test crypto/sha256 crypto/sha256_test crypto/sha3 crypto/sha3_test crypto/sha512 crypto/subtle crypto/subtle_test crypto/tls crypto/tls/internal/fips140tls crypto/tls_test crypto/x509 crypto/x509/pkix crypto/x509_test crypto_test debug/dwarf debug/dwarf_test debug/elf debug/macho debug/pe encoding encoding/asn1 encoding/base64 encoding/base64_test encoding/binary encoding/binary_test encoding/gob encoding/gob_test encoding/hex encoding/hex_test encoding/json encoding/json_test encoding/pem encoding/pem_test encoding/xml encoding/xml_test errors errors_test flag flag_test fmt fmt_test github.com/creack/pty github.com/mattn/go-colorable github.com/mattn/go-isatty github.com/mattn/go-isatty_test go/ast go/ast_test go/build go/build/constraint go/constant go/constant_test go/doc go/doc/comment go/doc_test go/format go/format_test go/importer go/internal/gccgoimporter go/internal/gcimporter go/internal/gcimporter_test go/internal/srcimporter go/parser go/parser_test go/printer go/printer_test go/scanner go/scanner_test go/token go/token_test go/types go/types_test go/version golang.org/x/sys/unix golang.org/x/sys/unix_test hash hash/adler32 hash/crc32 hash/crc32_test hash/crc64 hash/fnv hash_test image image/color image/color/palette image/draw image/gif image/internal/imageutil image/jpeg image/png image_test internal/abi internal/abi_test internal/bisect internal/buildcfg internal/bytealg internal/cfg internal/cgrouptest internal/chacha8rand internal/chacha8rand_test internal/cpu internal/cpu_test internal/dag internal/diff internal/exportdata internal/filepathlite internal/fmtsort internal/fmtsort_test internal/godebug internal/godebug_test internal/godebugs internal/godebugs_test internal/goroot internal/gover internal/goversion internal/itoa internal/itoa_test internal/lazyregexp internal/nettrace internal/obscuretestdata internal/oserror internal/pkgbits internal/pkgbits_test internal/platform internal/platform_test internal/poll internal/poll_test internal/profile internal/race internal/reflectlite internal/reflectlite_test internal/runtime/atomic internal/runtime/atomic_test internal/runtime/cgroup internal/runtime/cgroup_test internal/runtime/maps internal/runtime/maps_test internal/runtime/math internal/runtime/math_test internal/runtime/startlinetest internal/runtime/strconv internal/runtime/strconv_test internal/runtime/sys internal/runtime/sys_test internal/runtime/syscall internal/runtime/syscall_test internal/saferio internal/singleflight internal/stringslite internal/sync internal/sync_test internal/synctest internal/synctest_test internal/syscall/execenv internal/syscall/unix internal/syscall/unix_test internal/sysinfo internal/sysinfo_test internal/syslist internal/testenv internal/testenv_test internal/testhash internal/testlog internal/testpty internal/trace internal/trace/internal/tracev1 internal/trace/raw internal/trace/testtrace internal/trace/tracev2 internal/trace/tracev2_test internal/trace/version internal/trace_test internal/txtar internal/types/errors internal/types/errors_test internal/unsafeheader internal/unsafeheader_test internal/xcoff internal/zstd io io/fs io/fs_test io_test iter iter_test log log/internal log_test maps maps_test math math/big math/big_test math/bits math/bits_test math/cmplx math/cmplx_test math/rand math/rand/v2 math/rand/v2_test math/rand_test math_test mime mime/multipart mime/multipart_test mime/quotedprintable mime/quotedprintable_test mime_test net net/http net/http/cookiejar net/http/cookiejar_test net/http/httptest net/http/httptest_test net/http/httptrace net/http/httptrace_test net/http/httputil net/http/httputil_test net/http/internal net/http/internal/ascii net/http/internal/httpcommon net/http/internal/testcert net/http_test net/internal/socktest net/internal/socktest_test net/mail net/mail_test net/netip net/netip_test net/textproto net/url net/url_test net_test os os/exec os/exec/internal/fdtest os/exec_test os/signal os/signal_test os/user os_test path path/filepath path/filepath_test path_test reflect reflect/internal/example1 reflect/internal/example2 reflect_test regexp regexp/syntax regexp_test runtime runtime/cgo runtime/debug runtime/debug_test runtime/metrics runtime/metrics_test runtime/pprof runtime/trace runtime/trace_test runtime_test slices slices_test sort sort_test strconv strconv_test strings strings_test sync sync/atomic sync/atomic_test sync_test syscall syscall_test testing testing/fstest testing/iotest testing/iotest_test testing/quick testing/synctest testing/synctest_test testing_test text/scanner text/scanner_test text/tabwriter text/tabwriter_test text/template text/template/parse text/template_test time time/tzdata time_test unicode unicode/utf16 unicode/utf16_test unicode/utf8 unicode/utf8_test unicode_test unique vendor/golang.org/x/crypto/chacha20 vendor/golang.org/x/crypto/chacha20poly1305 vendor/golang.org/x/crypto/cryptobyte vendor/golang.org/x/crypto/cryptobyte/asn1 vendor/golang.org/x/crypto/internal/alias vendor/golang.org/x/crypto/internal/poly1305 vendor/golang.org/x/net/dns/dnsmessage vendor/golang.org/x/net/http/httpguts vendor/golang.org/x/net/http/httpproxy vendor/golang.org/x/net/http2/hpack vendor/golang.org/x/net/idna vendor/golang.org/x/net/nettest vendor/golang.org/x/sys/cpu vendor/golang.org/x/text/secure/bidirule vendor/golang.org/x/text/transform vendor/golang.org/x/text/unicode/bidi vendor/golang.org/x/text/unicode/norm weak weak_test]
+	packages=911
+	duration=278.629671ms
+
+[Info  - 19:35:54] 2025/10/18 19:35:54 go/packages.Load #32
+	view_id="1"
+	snapshot=1859
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=35.579606ms
+
+[Info  - 19:35:56] 2025/10/18 19:35:56 go/packages.Load #33
+	view_id="1"
+	snapshot=1867
+	directory=/home/arshan/Code/omni
+	query=[bufio bufio_test bytes bytes_test cmp cmp_test compress/bzip2 compress/flate compress/flate_test compress/gzip compress/gzip_test compress/lzw compress/zlib compress/zlib_test container/heap container/heap_test container/list container/list_test context context_test crypto crypto/aes crypto/cipher crypto/cipher_test crypto/des crypto/des_test crypto/dsa crypto/ecdh crypto/ecdh_test crypto/ecdsa crypto/ecdsa_test crypto/ed25519 crypto/ed25519_test crypto/elliptic crypto/fips140 crypto/hkdf crypto/hkdf_test crypto/hmac crypto/internal/boring crypto/internal/boring/bbig crypto/internal/boring/sig crypto/internal/cryptotest crypto/internal/entropy crypto/internal/fips140 crypto/internal/fips140/aes crypto/internal/fips140/aes/gcm crypto/internal/fips140/aes/gcm_test crypto/internal/fips140/aes_test crypto/internal/fips140/alias crypto/internal/fips140/bigmod crypto/internal/fips140/check crypto/internal/fips140/drbg crypto/internal/fips140/ecdh crypto/internal/fips140/ecdsa crypto/internal/fips140/ed25519 crypto/internal/fips140/edwards25519 crypto/internal/fips140/edwards25519/field crypto/internal/fips140/hkdf crypto/internal/fips140/hmac crypto/internal/fips140/mlkem crypto/internal/fips140/nistec crypto/internal/fips140/nistec/fiat crypto/internal/fips140/nistec/fiat_test crypto/internal/fips140/nistec_test crypto/internal/fips140/rsa crypto/internal/fips140/sha256 crypto/internal/fips140/sha3 crypto/internal/fips140/sha512 crypto/internal/fips140/subtle crypto/internal/fips140/tls12 crypto/internal/fips140/tls13 crypto/internal/fips140cache crypto/internal/fips140deps/byteorder crypto/internal/fips140deps/cpu crypto/internal/fips140deps/godebug crypto/internal/fips140hash crypto/internal/fips140only crypto/internal/hpke crypto/internal/impl crypto/internal/randutil crypto/internal/sysrand crypto/internal/sysrand/internal/seccomp crypto/internal/sysrand_test crypto/md5 crypto/md5_test crypto/rand crypto/rand_test crypto/rc4 crypto/rsa crypto/rsa_test crypto/sha1 crypto/sha1_test crypto/sha256 crypto/sha256_test crypto/sha3 crypto/sha3_test crypto/sha512 crypto/subtle crypto/subtle_test crypto/tls crypto/tls/internal/fips140tls crypto/tls_test crypto/x509 crypto/x509/pkix crypto/x509_test crypto_test debug/dwarf debug/dwarf_test debug/elf debug/macho debug/pe encoding encoding/asn1 encoding/base64 encoding/base64_test encoding/binary encoding/binary_test encoding/gob encoding/gob_test encoding/hex encoding/hex_test encoding/json encoding/json_test encoding/pem encoding/pem_test encoding/xml encoding/xml_test errors errors_test flag flag_test fmt fmt_test github.com/creack/pty github.com/mattn/go-colorable github.com/mattn/go-isatty github.com/mattn/go-isatty_test go/ast go/ast_test go/build go/build/constraint go/constant go/constant_test go/doc go/doc/comment go/doc_test go/format go/format_test go/importer go/internal/gccgoimporter go/internal/gcimporter go/internal/gcimporter_test go/internal/srcimporter go/parser go/parser_test go/printer go/printer_test go/scanner go/scanner_test go/token go/token_test go/types go/types_test go/version golang.org/x/sys/unix golang.org/x/sys/unix_test hash hash/adler32 hash/crc32 hash/crc32_test hash/crc64 hash/fnv hash_test image image/color image/color/palette image/draw image/draw_test image/gif image/internal/imageutil image/jpeg image/png image/png_test image_test internal/abi internal/abi_test internal/bisect internal/buildcfg internal/bytealg internal/cfg internal/cgrouptest internal/chacha8rand internal/chacha8rand_test internal/cpu internal/cpu_test internal/dag internal/diff internal/exportdata internal/filepathlite internal/fmtsort internal/fmtsort_test internal/godebug internal/godebug_test internal/godebugs internal/godebugs_test internal/goroot internal/gover internal/goversion internal/itoa internal/itoa_test internal/lazyregexp internal/nettrace internal/obscuretestdata internal/oserror internal/pkgbits internal/pkgbits_test internal/platform internal/platform_test internal/poll internal/poll_test internal/profile internal/race internal/reflectlite internal/reflectlite_test internal/runtime/atomic internal/runtime/atomic_test internal/runtime/cgroup internal/runtime/cgroup_test internal/runtime/maps internal/runtime/maps_test internal/runtime/math internal/runtime/math_test internal/runtime/startlinetest internal/runtime/strconv internal/runtime/strconv_test internal/runtime/sys internal/runtime/sys_test internal/runtime/syscall internal/runtime/syscall_test internal/saferio internal/singleflight internal/stringslite internal/sync internal/sync_test internal/synctest internal/synctest_test internal/syscall/execenv internal/syscall/unix internal/syscall/unix_test internal/sysinfo internal/sysinfo_test internal/syslist internal/testenv internal/testenv_test internal/testhash internal/testlog internal/testpty internal/trace internal/trace/internal/tracev1 internal/trace/raw internal/trace/testtrace internal/trace/tracev2 internal/trace/tracev2_test internal/trace/version internal/trace_test internal/txtar internal/types/errors internal/types/errors_test internal/unsafeheader internal/unsafeheader_test internal/xcoff internal/zstd io io/fs io/fs_test io_test iter iter_test log log/internal log_test maps maps_test math math/big math/big_test math/bits math/bits_test math/cmplx math/cmplx_test math/rand math/rand/v2 math/rand/v2_test math/rand_test math_test mime mime/multipart mime/multipart_test mime/quotedprintable mime/quotedprintable_test mime_test net net/http net/http/cookiejar net/http/cookiejar_test net/http/httptest net/http/httptest_test net/http/httptrace net/http/httptrace_test net/http/httputil net/http/httputil_test net/http/internal net/http/internal/ascii net/http/internal/httpcommon net/http/internal/testcert net/http_test net/internal/socktest net/internal/socktest_test net/mail net/mail_test net/netip net/netip_test net/textproto net/url net/url_test net_test os os/exec os/exec/internal/fdtest os/exec_test os/signal os/signal_test os/user os_test path path/filepath path/filepath_test path_test reflect reflect/internal/example1 reflect/internal/example2 reflect_test regexp regexp/syntax regexp_test runtime runtime/cgo runtime/debug runtime/debug_test runtime/metrics runtime/metrics_test runtime/pprof runtime/trace runtime/trace_test runtime_test slices slices_test sort sort_test strconv strconv_test strings strings_test sync sync/atomic sync/atomic_test sync_test syscall syscall_test testing testing/fstest testing/iotest testing/iotest_test testing/quick testing/synctest testing/synctest_test testing_test text/scanner text/scanner_test text/tabwriter text/tabwriter_test text/template text/template/parse text/template_test time time/tzdata time_test unicode unicode/utf16 unicode/utf16_test unicode/utf8 unicode/utf8_test unicode_test unique vendor/golang.org/x/crypto/chacha20 vendor/golang.org/x/crypto/chacha20poly1305 vendor/golang.org/x/crypto/cryptobyte vendor/golang.org/x/crypto/cryptobyte/asn1 vendor/golang.org/x/crypto/internal/alias vendor/golang.org/x/crypto/internal/poly1305 vendor/golang.org/x/net/dns/dnsmessage vendor/golang.org/x/net/http/httpguts vendor/golang.org/x/net/http/httpproxy vendor/golang.org/x/net/http2/hpack vendor/golang.org/x/net/idna vendor/golang.org/x/net/nettest vendor/golang.org/x/sys/cpu vendor/golang.org/x/text/secure/bidirule vendor/golang.org/x/text/transform vendor/golang.org/x/text/unicode/bidi vendor/golang.org/x/text/unicode/norm weak weak_test]
+	packages=913
+	duration=260.339024ms
+
+[Info  - 19:35:57] 2025/10/18 19:35:57 go/packages.Load #34
+	view_id="1"
+	snapshot=1868
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=32.832578ms
+
+[Info  - 19:35:58] 2025/10/18 19:35:58 go/packages.Load #35
+	view_id="1"
+	snapshot=1869
+	directory=/home/arshan/Code/omni
+	query=[bufio bufio_test bytes bytes_test cmp cmp_test compress/bzip2 compress/flate compress/flate_test compress/gzip compress/gzip_test compress/lzw compress/zlib compress/zlib_test container/heap container/heap_test container/list container/list_test context context_test crypto crypto/aes crypto/cipher crypto/cipher_test crypto/des crypto/des_test crypto/dsa crypto/ecdh crypto/ecdh_test crypto/ecdsa crypto/ecdsa_test crypto/ed25519 crypto/ed25519_test crypto/elliptic crypto/fips140 crypto/hkdf crypto/hkdf_test crypto/hmac crypto/internal/boring crypto/internal/boring/bbig crypto/internal/boring/sig crypto/internal/cryptotest crypto/internal/entropy crypto/internal/fips140 crypto/internal/fips140/aes crypto/internal/fips140/aes/gcm crypto/internal/fips140/aes/gcm_test crypto/internal/fips140/aes_test crypto/internal/fips140/alias crypto/internal/fips140/bigmod crypto/internal/fips140/check crypto/internal/fips140/drbg crypto/internal/fips140/ecdh crypto/internal/fips140/ecdsa crypto/internal/fips140/ed25519 crypto/internal/fips140/edwards25519 crypto/internal/fips140/edwards25519/field crypto/internal/fips140/hkdf crypto/internal/fips140/hmac crypto/internal/fips140/mlkem crypto/internal/fips140/nistec crypto/internal/fips140/nistec/fiat crypto/internal/fips140/nistec/fiat_test crypto/internal/fips140/nistec_test crypto/internal/fips140/rsa crypto/internal/fips140/sha256 crypto/internal/fips140/sha3 crypto/internal/fips140/sha512 crypto/internal/fips140/subtle crypto/internal/fips140/tls12 crypto/internal/fips140/tls13 crypto/internal/fips140cache crypto/internal/fips140deps/byteorder crypto/internal/fips140deps/cpu crypto/internal/fips140deps/godebug crypto/internal/fips140hash crypto/internal/fips140only crypto/internal/hpke crypto/internal/impl crypto/internal/randutil crypto/internal/sysrand crypto/internal/sysrand/internal/seccomp crypto/internal/sysrand_test crypto/md5 crypto/md5_test crypto/rand crypto/rand_test crypto/rc4 crypto/rsa crypto/rsa_test crypto/sha1 crypto/sha1_test crypto/sha256 crypto/sha256_test crypto/sha3 crypto/sha3_test crypto/sha512 crypto/subtle crypto/subtle_test crypto/tls crypto/tls/internal/fips140tls crypto/tls_test crypto/x509 crypto/x509/pkix crypto/x509_test crypto_test debug/dwarf debug/dwarf_test debug/elf debug/macho debug/pe encoding encoding/asn1 encoding/base64 encoding/base64_test encoding/binary encoding/binary_test encoding/gob encoding/gob_test encoding/hex encoding/hex_test encoding/json encoding/json_test encoding/pem encoding/pem_test encoding/xml encoding/xml_test errors errors_test flag flag_test fmt fmt_test github.com/creack/pty github.com/mattn/go-colorable github.com/mattn/go-isatty github.com/mattn/go-isatty_test go/ast go/ast_test go/build go/build/constraint go/constant go/constant_test go/doc go/doc/comment go/doc_test go/format go/format_test go/importer go/internal/gccgoimporter go/internal/gcimporter go/internal/gcimporter_test go/internal/srcimporter go/parser go/parser_test go/printer go/printer_test go/scanner go/scanner_test go/token go/token_test go/types go/types_test go/version golang.org/x/sys/unix golang.org/x/sys/unix_test hash hash/adler32 hash/crc32 hash/crc32_test hash/crc64 hash/fnv hash_test image image/color image/color/palette image/draw image/draw_test image/gif image/internal/imageutil image/jpeg image/png image/png_test image_test internal/abi internal/abi_test internal/bisect internal/buildcfg internal/bytealg internal/cfg internal/cgrouptest internal/chacha8rand internal/chacha8rand_test internal/cpu internal/cpu_test internal/dag internal/diff internal/exportdata internal/filepathlite internal/fmtsort internal/fmtsort_test internal/godebug internal/godebug_test internal/godebugs internal/godebugs_test internal/goroot internal/gover internal/goversion internal/itoa internal/itoa_test internal/lazyregexp internal/nettrace internal/obscuretestdata internal/oserror internal/pkgbits internal/pkgbits_test internal/platform internal/platform_test internal/poll internal/poll_test internal/profile internal/race internal/reflectlite internal/reflectlite_test internal/runtime/atomic internal/runtime/atomic_test internal/runtime/cgroup internal/runtime/cgroup_test internal/runtime/maps internal/runtime/maps_test internal/runtime/math internal/runtime/math_test internal/runtime/startlinetest internal/runtime/strconv internal/runtime/strconv_test internal/runtime/sys internal/runtime/sys_test internal/runtime/syscall internal/runtime/syscall_test internal/saferio internal/singleflight internal/stringslite internal/sync internal/sync_test internal/synctest internal/synctest_test internal/syscall/execenv internal/syscall/unix internal/syscall/unix_test internal/sysinfo internal/sysinfo_test internal/syslist internal/testenv internal/testenv_test internal/testhash internal/testlog internal/testpty internal/trace internal/trace/internal/tracev1 internal/trace/raw internal/trace/testtrace internal/trace/tracev2 internal/trace/tracev2_test internal/trace/version internal/trace_test internal/txtar internal/types/errors internal/types/errors_test internal/unsafeheader internal/unsafeheader_test internal/xcoff internal/zstd io io/fs io/fs_test io_test iter iter_test log log/internal log_test maps maps_test math math/big math/big_test math/bits math/bits_test math/cmplx math/cmplx_test math/rand math/rand/v2 math/rand/v2_test math/rand_test math_test mime mime/multipart mime/multipart_test mime/quotedprintable mime/quotedprintable_test mime_test net net/http net/http/cookiejar net/http/cookiejar_test net/http/httptest net/http/httptest_test net/http/httptrace net/http/httptrace_test net/http/httputil net/http/httputil_test net/http/internal net/http/internal/ascii net/http/internal/httpcommon net/http/internal/testcert net/http_test net/internal/socktest net/internal/socktest_test net/mail net/mail_test net/netip net/netip_test net/textproto net/url net/url_test net_test os os/exec os/exec/internal/fdtest os/exec_test os/signal os/signal_test os/user os_test path path/filepath path/filepath_test path_test reflect reflect/internal/example1 reflect/internal/example2 reflect_test regexp regexp/syntax regexp_test runtime runtime/cgo runtime/debug runtime/debug_test runtime/metrics runtime/metrics_test runtime/pprof runtime/trace runtime/trace_test runtime_test slices slices_test sort sort_test strconv strconv_test strings strings_test sync sync/atomic sync/atomic_test sync_test syscall syscall_test testing testing/fstest testing/iotest testing/iotest_test testing/quick testing/synctest testing/synctest_test testing_test text/scanner text/scanner_test text/tabwriter text/tabwriter_test text/template text/template/parse text/template_test time time/tzdata time_test unicode unicode/utf16 unicode/utf16_test unicode/utf8 unicode/utf8_test unicode_test unique vendor/golang.org/x/crypto/chacha20 vendor/golang.org/x/crypto/chacha20poly1305 vendor/golang.org/x/crypto/cryptobyte vendor/golang.org/x/crypto/cryptobyte/asn1 vendor/golang.org/x/crypto/internal/alias vendor/golang.org/x/crypto/internal/poly1305 vendor/golang.org/x/net/dns/dnsmessage vendor/golang.org/x/net/http/httpguts vendor/golang.org/x/net/http/httpproxy vendor/golang.org/x/net/http2/hpack vendor/golang.org/x/net/idna vendor/golang.org/x/net/nettest vendor/golang.org/x/sys/cpu vendor/golang.org/x/text/secure/bidirule vendor/golang.org/x/text/transform vendor/golang.org/x/text/unicode/bidi vendor/golang.org/x/text/unicode/norm weak weak_test]
+	packages=913
+	duration=285.33801ms
+
+[Info  - 19:36:01] 2025/10/18 19:36:01 go/packages.Load #36
+	view_id="1"
+	snapshot=1871
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=36.634481ms
+
+[Info  - 19:36:03] 2025/10/18 19:36:03 go/packages.Load #38
+	view_id="1"
+	snapshot=1873
+	directory=/home/arshan/Code/omni
+	query=[bufio bufio_test bytes bytes_test cmp cmp_test compress/bzip2 compress/flate compress/flate_test compress/gzip compress/gzip_test compress/lzw compress/zlib compress/zlib_test container/heap container/heap_test container/list container/list_test context context_test crypto crypto/aes crypto/cipher crypto/cipher_test crypto/des crypto/des_test crypto/dsa crypto/ecdh crypto/ecdh_test crypto/ecdsa crypto/ecdsa_test crypto/ed25519 crypto/ed25519_test crypto/elliptic crypto/fips140 crypto/hkdf crypto/hkdf_test crypto/hmac crypto/internal/boring crypto/internal/boring/bbig crypto/internal/boring/sig crypto/internal/cryptotest crypto/internal/entropy crypto/internal/fips140 crypto/internal/fips140/aes crypto/internal/fips140/aes/gcm crypto/internal/fips140/aes/gcm_test crypto/internal/fips140/aes_test crypto/internal/fips140/alias crypto/internal/fips140/bigmod crypto/internal/fips140/check crypto/internal/fips140/drbg crypto/internal/fips140/ecdh crypto/internal/fips140/ecdsa crypto/internal/fips140/ed25519 crypto/internal/fips140/edwards25519 crypto/internal/fips140/edwards25519/field crypto/internal/fips140/hkdf crypto/internal/fips140/hmac crypto/internal/fips140/mlkem crypto/internal/fips140/nistec crypto/internal/fips140/nistec/fiat crypto/internal/fips140/nistec/fiat_test crypto/internal/fips140/nistec_test crypto/internal/fips140/rsa crypto/internal/fips140/sha256 crypto/internal/fips140/sha3 crypto/internal/fips140/sha512 crypto/internal/fips140/subtle crypto/internal/fips140/tls12 crypto/internal/fips140/tls13 crypto/internal/fips140cache crypto/internal/fips140deps/byteorder crypto/internal/fips140deps/cpu crypto/internal/fips140deps/godebug crypto/internal/fips140hash crypto/internal/fips140only crypto/internal/hpke crypto/internal/impl crypto/internal/randutil crypto/internal/sysrand crypto/internal/sysrand/internal/seccomp crypto/internal/sysrand_test crypto/md5 crypto/md5_test crypto/rand crypto/rand_test crypto/rc4 crypto/rsa crypto/rsa_test crypto/sha1 crypto/sha1_test crypto/sha256 crypto/sha256_test crypto/sha3 crypto/sha3_test crypto/sha512 crypto/subtle crypto/subtle_test crypto/tls crypto/tls/internal/fips140tls crypto/tls_test crypto/x509 crypto/x509/pkix crypto/x509_test crypto_test debug/dwarf debug/dwarf_test debug/elf debug/macho debug/pe encoding encoding/asn1 encoding/base64 encoding/base64_test encoding/binary encoding/binary_test encoding/gob encoding/gob_test encoding/hex encoding/hex_test encoding/json encoding/json_test encoding/pem encoding/pem_test encoding/xml encoding/xml_test errors errors_test flag flag_test fmt fmt_test github.com/creack/pty github.com/labstack/gommon/color github.com/mattn/go-colorable github.com/mattn/go-isatty github.com/mattn/go-isatty_test go/ast go/ast_test go/build go/build/constraint go/constant go/constant_test go/doc go/doc/comment go/doc_test go/format go/format_test go/importer go/internal/gccgoimporter go/internal/gcimporter go/internal/gcimporter_test go/internal/srcimporter go/parser go/parser_test go/printer go/printer_test go/scanner go/scanner_test go/token go/token_test go/types go/types_test go/version golang.org/x/sys/unix golang.org/x/sys/unix_test hash hash/adler32 hash/crc32 hash/crc32_test hash/crc64 hash/fnv hash_test image image/color image/color/palette image/draw image/draw_test image/gif image/internal/imageutil image/jpeg image/png image/png_test image_test internal/abi internal/abi_test internal/bisect internal/buildcfg internal/bytealg internal/cfg internal/cgrouptest internal/chacha8rand internal/chacha8rand_test internal/cpu internal/cpu_test internal/dag internal/diff internal/exportdata internal/filepathlite internal/fmtsort internal/fmtsort_test internal/godebug internal/godebug_test internal/godebugs internal/godebugs_test internal/goroot internal/gover internal/goversion internal/itoa internal/itoa_test internal/lazyregexp internal/nettrace internal/obscuretestdata internal/oserror internal/pkgbits internal/pkgbits_test internal/platform internal/platform_test internal/poll internal/poll_test internal/profile internal/race internal/reflectlite internal/reflectlite_test internal/runtime/atomic internal/runtime/atomic_test internal/runtime/cgroup internal/runtime/cgroup_test internal/runtime/maps internal/runtime/maps_test internal/runtime/math internal/runtime/math_test internal/runtime/startlinetest internal/runtime/strconv internal/runtime/strconv_test internal/runtime/sys internal/runtime/sys_test internal/runtime/syscall internal/runtime/syscall_test internal/saferio internal/singleflight internal/stringslite internal/sync internal/sync_test internal/synctest internal/synctest_test internal/syscall/execenv internal/syscall/unix internal/syscall/unix_test internal/sysinfo internal/sysinfo_test internal/syslist internal/testenv internal/testenv_test internal/testhash internal/testlog internal/testpty internal/trace internal/trace/internal/tracev1 internal/trace/raw internal/trace/testtrace internal/trace/tracev2 internal/trace/tracev2_test internal/trace/version internal/trace_test internal/txtar internal/types/errors internal/types/errors_test internal/unsafeheader internal/unsafeheader_test internal/xcoff internal/zstd io io/fs io/fs_test io_test iter iter_test log log/internal log_test maps maps_test math math/big math/big_test math/bits math/bits_test math/cmplx math/cmplx_test math/rand math/rand/v2 math/rand/v2_test math/rand_test math_test mime mime/multipart mime/multipart_test mime/quotedprintable mime/quotedprintable_test mime_test net net/http net/http/cookiejar net/http/cookiejar_test net/http/httptest net/http/httptest_test net/http/httptrace net/http/httptrace_test net/http/httputil net/http/httputil_test net/http/internal net/http/internal/ascii net/http/internal/httpcommon net/http/internal/testcert net/http_test net/internal/socktest net/internal/socktest_test net/mail net/mail_test net/netip net/netip_test net/textproto net/url net/url_test net_test os os/exec os/exec/internal/fdtest os/exec_test os/signal os/signal_test os/user os_test path path/filepath path/filepath_test path_test reflect reflect/internal/example1 reflect/internal/example2 reflect_test regexp regexp/syntax regexp_test runtime runtime/cgo runtime/debug runtime/debug_test runtime/metrics runtime/metrics_test runtime/pprof runtime/trace runtime/trace_test runtime_test slices slices_test sort sort_test strconv strconv_test strings strings_test sync sync/atomic sync/atomic_test sync_test syscall syscall_test testing testing/fstest testing/iotest testing/iotest_test testing/quick testing/synctest testing/synctest_test testing_test text/scanner text/scanner_test text/tabwriter text/tabwriter_test text/template text/template/parse text/template_test time time/tzdata time_test unicode unicode/utf16 unicode/utf16_test unicode/utf8 unicode/utf8_test unicode_test unique vendor/golang.org/x/crypto/chacha20 vendor/golang.org/x/crypto/chacha20poly1305 vendor/golang.org/x/crypto/cryptobyte vendor/golang.org/x/crypto/cryptobyte/asn1 vendor/golang.org/x/crypto/internal/alias vendor/golang.org/x/crypto/internal/poly1305 vendor/golang.org/x/net/dns/dnsmessage vendor/golang.org/x/net/http/httpguts vendor/golang.org/x/net/http/httpproxy vendor/golang.org/x/net/http2/hpack vendor/golang.org/x/net/idna vendor/golang.org/x/net/nettest vendor/golang.org/x/sys/cpu vendor/golang.org/x/text/secure/bidirule vendor/golang.org/x/text/transform vendor/golang.org/x/text/unicode/bidi vendor/golang.org/x/text/unicode/norm weak weak_test]
+	packages=914
+	duration=280.03937ms
+
+[Info  - 19:36:04] 2025/10/18 19:36:04 go/packages.Load #39
+	view_id="1"
+	snapshot=1874
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=35.091268ms
+
+[Info  - 19:36:04] 2025/10/18 19:36:04 go/packages.Load #40
+	view_id="1"
+	snapshot=1875
+	directory=/home/arshan/Code/omni
+	query=[bufio bufio_test bytes bytes_test cmp cmp_test compress/bzip2 compress/flate compress/flate_test compress/gzip compress/gzip_test compress/lzw compress/zlib compress/zlib_test container/heap container/heap_test container/list container/list_test context context_test crypto crypto/aes crypto/cipher crypto/cipher_test crypto/des crypto/des_test crypto/dsa crypto/ecdh crypto/ecdh_test crypto/ecdsa crypto/ecdsa_test crypto/ed25519 crypto/ed25519_test crypto/elliptic crypto/fips140 crypto/hkdf crypto/hkdf_test crypto/hmac crypto/internal/boring crypto/internal/boring/bbig crypto/internal/boring/sig crypto/internal/cryptotest crypto/internal/entropy crypto/internal/fips140 crypto/internal/fips140/aes crypto/internal/fips140/aes/gcm crypto/internal/fips140/aes/gcm_test crypto/internal/fips140/aes_test crypto/internal/fips140/alias crypto/internal/fips140/bigmod crypto/internal/fips140/check crypto/internal/fips140/drbg crypto/internal/fips140/ecdh crypto/internal/fips140/ecdsa crypto/internal/fips140/ed25519 crypto/internal/fips140/edwards25519 crypto/internal/fips140/edwards25519/field crypto/internal/fips140/hkdf crypto/internal/fips140/hmac crypto/internal/fips140/mlkem crypto/internal/fips140/nistec crypto/internal/fips140/nistec/fiat crypto/internal/fips140/nistec/fiat_test crypto/internal/fips140/nistec_test crypto/internal/fips140/rsa crypto/internal/fips140/sha256 crypto/internal/fips140/sha3 crypto/internal/fips140/sha512 crypto/internal/fips140/subtle crypto/internal/fips140/tls12 crypto/internal/fips140/tls13 crypto/internal/fips140cache crypto/internal/fips140deps/byteorder crypto/internal/fips140deps/cpu crypto/internal/fips140deps/godebug crypto/internal/fips140hash crypto/internal/fips140only crypto/internal/hpke crypto/internal/impl crypto/internal/randutil crypto/internal/sysrand crypto/internal/sysrand/internal/seccomp crypto/internal/sysrand_test crypto/md5 crypto/md5_test crypto/rand crypto/rand_test crypto/rc4 crypto/rsa crypto/rsa_test crypto/sha1 crypto/sha1_test crypto/sha256 crypto/sha256_test crypto/sha3 crypto/sha3_test crypto/sha512 crypto/subtle crypto/subtle_test crypto/tls crypto/tls/internal/fips140tls crypto/tls_test crypto/x509 crypto/x509/pkix crypto/x509_test crypto_test debug/dwarf debug/dwarf_test debug/elf debug/macho debug/pe encoding encoding/asn1 encoding/base64 encoding/base64_test encoding/binary encoding/binary_test encoding/gob encoding/gob_test encoding/hex encoding/hex_test encoding/json encoding/json_test encoding/pem encoding/pem_test encoding/xml encoding/xml_test errors errors_test flag flag_test fmt fmt_test github.com/creack/pty github.com/mattn/go-colorable github.com/mattn/go-isatty github.com/mattn/go-isatty_test go/ast go/ast_test go/build go/build/constraint go/constant go/constant_test go/doc go/doc/comment go/doc_test go/format go/format_test go/importer go/internal/gccgoimporter go/internal/gcimporter go/internal/gcimporter_test go/internal/srcimporter go/parser go/parser_test go/printer go/printer_test go/scanner go/scanner_test go/token go/token_test go/types go/types_test go/version golang.org/x/sys/unix golang.org/x/sys/unix_test hash hash/adler32 hash/crc32 hash/crc32_test hash/crc64 hash/fnv hash_test image image/color image/color/palette image/draw image/draw_test image/gif image/internal/imageutil image/jpeg image/png image/png_test image_test internal/abi internal/abi_test internal/bisect internal/buildcfg internal/bytealg internal/cfg internal/cgrouptest internal/chacha8rand internal/chacha8rand_test internal/cpu internal/cpu_test internal/dag internal/diff internal/exportdata internal/filepathlite internal/fmtsort internal/fmtsort_test internal/godebug internal/godebug_test internal/godebugs internal/godebugs_test internal/goroot internal/gover internal/goversion internal/itoa internal/itoa_test internal/lazyregexp internal/nettrace internal/obscuretestdata internal/oserror internal/pkgbits internal/pkgbits_test internal/platform internal/platform_test internal/poll internal/poll_test internal/profile internal/race internal/reflectlite internal/reflectlite_test internal/runtime/atomic internal/runtime/atomic_test internal/runtime/cgroup internal/runtime/cgroup_test internal/runtime/maps internal/runtime/maps_test internal/runtime/math internal/runtime/math_test internal/runtime/startlinetest internal/runtime/strconv internal/runtime/strconv_test internal/runtime/sys internal/runtime/sys_test internal/runtime/syscall internal/runtime/syscall_test internal/saferio internal/singleflight internal/stringslite internal/sync internal/sync_test internal/synctest internal/synctest_test internal/syscall/execenv internal/syscall/unix internal/syscall/unix_test internal/sysinfo internal/sysinfo_test internal/syslist internal/testenv internal/testenv_test internal/testhash internal/testlog internal/testpty internal/trace internal/trace/internal/tracev1 internal/trace/raw internal/trace/testtrace internal/trace/tracev2 internal/trace/tracev2_test internal/trace/version internal/trace_test internal/txtar internal/types/errors internal/types/errors_test internal/unsafeheader internal/unsafeheader_test internal/xcoff internal/zstd io io/fs io/fs_test io_test iter iter_test log log/internal log_test maps maps_test math math/big math/big_test math/bits math/bits_test math/cmplx math/cmplx_test math/rand math/rand/v2 math/rand/v2_test math/rand_test math_test mime mime/multipart mime/multipart_test mime/quotedprintable mime/quotedprintable_test mime_test net net/http net/http/cookiejar net/http/cookiejar_test net/http/httptest net/http/httptest_test net/http/httptrace net/http/httptrace_test net/http/httputil net/http/httputil_test net/http/internal net/http/internal/ascii net/http/internal/httpcommon net/http/internal/testcert net/http_test net/internal/socktest net/internal/socktest_test net/mail net/mail_test net/netip net/netip_test net/textproto net/url net/url_test net_test os os/exec os/exec/internal/fdtest os/exec_test os/signal os/signal_test os/user os_test path path/filepath path/filepath_test path_test reflect reflect/internal/example1 reflect/internal/example2 reflect_test regexp regexp/syntax regexp_test runtime runtime/cgo runtime/debug runtime/debug_test runtime/metrics runtime/metrics_test runtime/pprof runtime/trace runtime/trace_test runtime_test slices slices_test sort sort_test strconv strconv_test strings strings_test sync sync/atomic sync/atomic_test sync_test syscall syscall_test testing testing/fstest testing/iotest testing/iotest_test testing/quick testing/synctest testing/synctest_test testing_test text/scanner text/scanner_test text/tabwriter text/tabwriter_test text/template text/template/parse text/template_test time time/tzdata time_test unicode unicode/utf16 unicode/utf16_test unicode/utf8 unicode/utf8_test unicode_test unique vendor/golang.org/x/crypto/chacha20 vendor/golang.org/x/crypto/chacha20poly1305 vendor/golang.org/x/crypto/cryptobyte vendor/golang.org/x/crypto/cryptobyte/asn1 vendor/golang.org/x/crypto/internal/alias vendor/golang.org/x/crypto/internal/poly1305 vendor/golang.org/x/net/dns/dnsmessage vendor/golang.org/x/net/http/httpguts vendor/golang.org/x/net/http/httpproxy vendor/golang.org/x/net/http2/hpack vendor/golang.org/x/net/idna vendor/golang.org/x/net/nettest vendor/golang.org/x/sys/cpu vendor/golang.org/x/text/secure/bidirule vendor/golang.org/x/text/transform vendor/golang.org/x/text/unicode/bidi vendor/golang.org/x/text/unicode/norm weak weak_test]
+	packages=913
+	duration=332.400361ms
+
+[Error - 19:36:06] Request textDocument/hover failed.
+  Message: no package data for import "github.com/labstack/gommon/color"
+  Code: 0 
+[Info  - 19:36:06] 2025/10/18 19:36:06 go/packages.Load #41
+	view_id="1"
+	snapshot=1876
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=66.114255ms
+
+[Info  - 19:36:06] 2025/10/18 19:36:06 go/packages.Load #42
+	view_id="1"
+	snapshot=1876
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=81.87179ms
+
+[Error - 19:36:12] Request textDocument/definition failed.
+  Message: can't find definitions for file type go.mod
+  Code: 0 
+[Error - 19:36:12] Request textDocument/definition failed.
+  Message: can't find definitions for file type go.mod
+  Code: 0 
+[Error - 19:36:12] Request textDocument/definition failed.
+  Message: can't find definitions for file type go.mod
+  Code: 0 
+[Info  - 19:36:14] 2025/10/18 19:36:14 go/packages.Load #43
+	view_id="1"
+	snapshot=1880
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=57.226311ms
+
+[Info  - 19:36:14] 2025/10/18 19:36:14 go/packages.Load #44
+	view_id="1"
+	snapshot=1880
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=56.590132ms
+
+[Info  - 19:36:15] 2025/10/18 19:36:15 go/packages.Load #47
+	view_id="1"
+	snapshot=1883
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=65.432443ms
+
+[Info  - 19:36:15] 2025/10/18 19:36:15 go/packages.Load #48
+	view_id="1"
+	snapshot=1883
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=66.965227ms
+
+[Info  - 19:36:16] 2025/10/18 19:36:16 go/packages.Load #49
+	view_id="1"
+	snapshot=1886
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=51.105681ms
+
+[Info  - 19:36:16] 2025/10/18 19:36:16 go/packages.Load #50
+	view_id="1"
+	snapshot=1886
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=57.547855ms
+
+[Error - 19:36:24] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:36:24] 2025/10/18 19:36:24 go/packages.Load #53
+	view_id="1"
+	snapshot=1911
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=52.241054ms
+
+[Info  - 19:36:24] 2025/10/18 19:36:24 go/packages.Load #54
+	view_id="1"
+	snapshot=1911
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=54.74898ms
+
+[Info  - 19:36:34] 2025/10/18 19:36:34 background imports cache refresh starting
+
+[Info  - 19:36:34] 2025/10/18 19:36:34 background refresh finished after 4.076841ms
+
+[Error - 19:36:51] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:51] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:51] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:51] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:51] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:51] 2025/10/18 19:36:51 code lens upgrade_dependency failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:36:51] 2025/10/18 19:36:51 code lens tidy failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:36:51] 2025/10/18 19:36:51 code lens vendor failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:36:51] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:51] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:52] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:52] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:52] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:52] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:52] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:52] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:52] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:53] 2025/10/18 19:36:53 code lens upgrade_dependency failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:36:53] 2025/10/18 19:36:53 code lens tidy failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:36:53] 2025/10/18 19:36:53 code lens vendor failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:36:53] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:53] 2025/10/18 19:36:53 failed to compute document links: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	URI=file:///home/arshan/Code/omni/go.mod
+
+[Error - 19:36:54] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:54] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:54] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:54] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:54] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:54] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:54] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:55] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:55] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:55] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:55] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:55] 2025/10/18 19:36:55 code lens upgrade_dependency failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:36:55] 2025/10/18 19:36:55 code lens tidy failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:36:55] 2025/10/18 19:36:55 code lens vendor failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:36:56] Request textDocument/inlayHint failed.
+  Message: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:36:56] 2025/10/18 19:36:56 failed to compute document links: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	URI=file:///home/arshan/Code/omni/go.mod
+
+[Error - 19:36:57] 2025/10/18 19:36:57 go/packages.Load #59: err: exit status 1: stderr: go: errors parsing go.mod:
+go.mod:10:2: usage: require module/path v1.2.3
+
+	view_id="1"
+	snapshot=1946
+	directory=/home/arshan/Code/omni
+	query=[bufio bufio_test bytes bytes_test cmp cmp_test compress/bzip2 compress/flate compress/flate_test compress/gzip compress/gzip_test compress/lzw compress/zlib compress/zlib_test container/heap container/heap_test container/list container/list_test context context_test crypto crypto/aes crypto/cipher crypto/cipher_test crypto/des crypto/des_test crypto/dsa crypto/ecdh crypto/ecdh_test crypto/ecdsa crypto/ecdsa_test crypto/ed25519 crypto/ed25519_test crypto/elliptic crypto/fips140 crypto/hkdf crypto/hkdf_test crypto/hmac crypto/internal/boring crypto/internal/boring/bbig crypto/internal/boring/sig crypto/internal/cryptotest crypto/internal/entropy crypto/internal/fips140 crypto/internal/fips140/aes crypto/internal/fips140/aes/gcm crypto/internal/fips140/aes/gcm_test crypto/internal/fips140/aes_test crypto/internal/fips140/alias crypto/internal/fips140/bigmod crypto/internal/fips140/check crypto/internal/fips140/drbg crypto/internal/fips140/ecdh crypto/internal/fips140/ecdsa crypto/internal/fips140/ed25519 crypto/internal/fips140/edwards25519 crypto/internal/fips140/edwards25519/field crypto/internal/fips140/hkdf crypto/internal/fips140/hmac crypto/internal/fips140/mlkem crypto/internal/fips140/nistec crypto/internal/fips140/nistec/fiat crypto/internal/fips140/nistec/fiat_test crypto/internal/fips140/nistec_test crypto/internal/fips140/rsa crypto/internal/fips140/sha256 crypto/internal/fips140/sha3 crypto/internal/fips140/sha512 crypto/internal/fips140/subtle crypto/internal/fips140/tls12 crypto/internal/fips140/tls13 crypto/internal/fips140cache crypto/internal/fips140deps/byteorder crypto/internal/fips140deps/cpu crypto/internal/fips140deps/godebug crypto/internal/fips140hash crypto/internal/fips140only crypto/internal/hpke crypto/internal/impl crypto/internal/randutil crypto/internal/sysrand crypto/internal/sysrand/internal/seccomp crypto/internal/sysrand_test crypto/md5 crypto/md5_test crypto/rand crypto/rand_test crypto/rc4 crypto/rsa crypto/rsa_test crypto/sha1 crypto/sha1_test crypto/sha256 crypto/sha256_test crypto/sha3 crypto/sha3_test crypto/sha512 crypto/subtle crypto/subtle_test crypto/tls crypto/tls/internal/fips140tls crypto/tls_test crypto/x509 crypto/x509/pkix crypto/x509_test crypto_test debug/dwarf debug/dwarf_test debug/elf debug/macho debug/pe encoding encoding/asn1 encoding/base64 encoding/base64_test encoding/binary encoding/binary_test encoding/gob encoding/gob_test encoding/hex encoding/hex_test encoding/json encoding/json_test encoding/pem encoding/pem_test encoding/xml encoding/xml_test errors errors_test flag flag_test fmt fmt_test github.com/creack/pty github.com/mattn/go-colorable github.com/mattn/go-isatty github.com/mattn/go-isatty_test go/ast go/ast_test go/build go/build/constraint go/constant go/constant_test go/doc go/doc/comment go/doc_test go/format go/format_test go/importer go/internal/gccgoimporter go/internal/gcimporter go/internal/gcimporter_test go/internal/srcimporter go/parser go/parser_test go/printer go/printer_test go/scanner go/scanner_test go/token go/token_test go/types go/types_test go/version golang.org/x/sys/unix golang.org/x/sys/unix_test hash hash/adler32 hash/crc32 hash/crc32_test hash/crc64 hash/fnv hash_test image image/color image/color/palette image/draw image/draw_test image/gif image/internal/imageutil image/jpeg image/png image/png_test image_test internal/abi internal/abi_test internal/asan internal/bisect internal/buildcfg internal/bytealg internal/byteorder internal/cfg internal/cgrouptest internal/chacha8rand internal/chacha8rand_test internal/coverage/rtcov internal/cpu internal/cpu_test internal/dag internal/diff internal/exportdata internal/filepathlite internal/fmtsort internal/fmtsort_test internal/goarch internal/godebug internal/godebug_test internal/godebugs internal/godebugs_test internal/goexperiment internal/goos internal/goroot internal/gover internal/goversion internal/itoa internal/itoa_test internal/lazyregexp internal/msan internal/nettrace internal/obscuretestdata internal/oserror internal/pkgbits internal/pkgbits_test internal/platform internal/platform_test internal/poll internal/poll_test internal/profile internal/profilerecord internal/race internal/reflectlite internal/reflectlite_test internal/runtime/atomic internal/runtime/atomic_test internal/runtime/cgroup internal/runtime/cgroup_test internal/runtime/exithook internal/runtime/gc internal/runtime/maps internal/runtime/maps_test internal/runtime/math internal/runtime/math_test internal/runtime/startlinetest internal/runtime/strconv internal/runtime/strconv_test internal/runtime/sys internal/runtime/sys_test internal/runtime/syscall internal/runtime/syscall_test internal/saferio internal/singleflight internal/stringslite internal/sync internal/sync_test internal/synctest internal/synctest_test internal/syscall/execenv internal/syscall/unix internal/syscall/unix_test internal/sysinfo internal/sysinfo_test internal/syslist internal/testenv internal/testenv_test internal/testhash internal/testlog internal/testpty internal/trace internal/trace/internal/tracev1 internal/trace/raw internal/trace/testtrace internal/trace/tracev2 internal/trace/tracev2_test internal/trace/version internal/trace_test internal/txtar internal/types/errors internal/types/errors_test internal/unsafeheader internal/unsafeheader_test internal/xcoff internal/zstd io io/fs io/fs_test io_test iter iter_test log log/internal log_test maps maps_test math math/big math/big_test math/bits math/bits_test math/cmplx math/cmplx_test math/rand math/rand/v2 math/rand/v2_test math/rand_test math_test mime mime/multipart mime/multipart_test mime/quotedprintable mime/quotedprintable_test mime_test net net/http net/http/cookiejar net/http/cookiejar_test net/http/httptest net/http/httptest_test net/http/httptrace net/http/httptrace_test net/http/httputil net/http/httputil_test net/http/internal net/http/internal/ascii net/http/internal/httpcommon net/http/internal/testcert net/http_test net/internal/socktest net/internal/socktest_test net/mail net/mail_test net/netip net/netip_test net/textproto net/url net/url_test net_test omni omni/cmd os os/exec os/exec/internal/fdtest os/exec_test os/signal os/signal_test os/user os_test path path/filepath path/filepath_test path_test reflect reflect/internal/example1 reflect/internal/example2 reflect_test regexp regexp/syntax regexp_test runtime runtime/cgo runtime/debug runtime/debug_test runtime/metrics runtime/metrics_test runtime/pprof runtime/trace runtime/trace_test runtime_test slices slices_test sort sort_test strconv strconv_test strings strings_test sync sync/atomic sync/atomic_test sync_test syscall syscall_test testing testing/fstest testing/iotest testing/iotest_test testing/quick testing/synctest testing/synctest_test testing_test text/scanner text/scanner_test text/tabwriter text/tabwriter_test text/template text/template/parse text/template_test time time/tzdata time_test unicode unicode/utf16 unicode/utf16_test unicode/utf8 unicode/utf8_test unicode_test unique unsafe vendor/golang.org/x/crypto/chacha20 vendor/golang.org/x/crypto/chacha20poly1305 vendor/golang.org/x/crypto/cryptobyte vendor/golang.org/x/crypto/cryptobyte/asn1 vendor/golang.org/x/crypto/internal/alias vendor/golang.org/x/crypto/internal/poly1305 vendor/golang.org/x/net/dns/dnsmessage vendor/golang.org/x/net/http/httpguts vendor/golang.org/x/net/http/httpproxy vendor/golang.org/x/net/http2/hpack vendor/golang.org/x/net/idna vendor/golang.org/x/net/nettest vendor/golang.org/x/sys/cpu vendor/golang.org/x/text/secure/bidirule vendor/golang.org/x/text/transform vendor/golang.org/x/text/unicode/bidi vendor/golang.org/x/text/unicode/norm weak weak_test]
+	packages=0
+	duration=7.060948ms
+
+[Error - 19:36:57] 2025/10/18 19:36:57 reloading workspace: packages.Load error: err: exit status 1: stderr: go: errors parsing go.mod:
+go.mod:10:2: usage: require module/path v1.2.3
+
+	view_id="1"
+	snapshot=1946
+	directory=/home/arshan/Code/omni
+
+[Error - 19:36:57] 2025/10/18 19:36:57 errors loading workspace: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	view_id="1"
+	snapshot=1946
+	directory=/home/arshan/Code/omni
+
+[Error - 19:36:57] 2025/10/18 19:36:57 go/packages.Load #60: err: exit status 1: stderr: go: errors parsing go.mod:
+go.mod:10:2: usage: require module/path v1.2.3
+
+	view_id="1"
+	snapshot=1946
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=0
+	duration=11.664597ms
+
+[Error - 19:36:57] 2025/10/18 19:36:57 MetadataForFile: packages.Load error: err: exit status 1: stderr: go: errors parsing go.mod:
+go.mod:10:2: usage: require module/path v1.2.3
+
+
+[Error - 19:36:57] 2025/10/18 19:36:57 go/packages.Load #61: err: exit status 1: stderr: go: errors parsing go.mod:
+go.mod:10:2: usage: require module/path v1.2.3
+
+	view_id="1"
+	snapshot=1946
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/timetest.go]
+	packages=0
+	duration=7.672512ms
+
+[Error - 19:36:57] 2025/10/18 19:36:57 MetadataForFile: packages.Load error: err: exit status 1: stderr: go: errors parsing go.mod:
+go.mod:10:2: usage: require module/path v1.2.3
+
+
+[Error - 19:36:58] 2025/10/18 19:36:58 code lens upgrade_dependency failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:36:58] 2025/10/18 19:36:58 code lens tidy failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:36:58] 2025/10/18 19:36:58 code lens vendor failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:37:00] Request textDocument/hover failed.
+  Message: getting modfile handle: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:37:01] Request textDocument/hover failed.
+  Message: getting modfile handle: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+  Code: 0 
+[Error - 19:37:02] 2025/10/18 19:37:02 code lens vendor failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:37:02] 2025/10/18 19:37:02 code lens upgrade_dependency failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Error - 19:37:02] 2025/10/18 19:37:02 code lens tidy failed: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+
+[Info  - 19:37:04] 2025/10/18 19:37:04 go/packages.Load #62
+	view_id="1"
+	snapshot=1950
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=38.101112ms
+
+[Info  - 19:37:05] 2025/10/18 19:37:05 go/packages.Load #63
+	view_id="1"
+	snapshot=1952
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=40.665894ms
+
+[Info  - 19:37:05] 2025/10/18 19:37:05 go/packages.Load #64
+	view_id="1"
+	snapshot=1953
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=36.681881ms
+
+[Info  - 19:37:09] 2025/10/18 19:37:09 go/packages.Load #65
+	view_id="1"
+	snapshot=1957
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=43.150636ms
+
+[Error - 19:37:09] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:37:09] 2025/10/18 19:37:09 go/packages.Load #67
+	view_id="1"
+	snapshot=1958
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=42.007575ms
+
+[Info  - 19:37:09] 2025/10/18 19:37:09 go/packages.Load #68
+	view_id="1"
+	snapshot=1958
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=40.707403ms
+
+[Info  - 19:37:09] 2025/10/18 19:37:09 go/packages.Load #69
+	view_id="1"
+	snapshot=1959
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=45.416734ms
+
+[Error - 19:37:09] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:37:09] 2025/10/18 19:37:09 go/packages.Load #71
+	view_id="1"
+	snapshot=1960
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=46.586766ms
+
+[Info  - 19:37:09] 2025/10/18 19:37:09 go/packages.Load #72
+	view_id="1"
+	snapshot=1960
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=48.482722ms
+
+[Info  - 19:37:10] 2025/10/18 19:37:10 go/packages.Load #73
+	view_id="1"
+	snapshot=1961
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=45.072492ms
+
+[Error - 19:37:10] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:37:10] 2025/10/18 19:37:10 go/packages.Load #75
+	view_id="1"
+	snapshot=1962
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=45.915621ms
+
+[Info  - 19:37:10] 2025/10/18 19:37:10 go/packages.Load #76
+	view_id="1"
+	snapshot=1962
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=43.060588ms
+
+[Info  - 19:37:10] 2025/10/18 19:37:10 go/packages.Load #78
+	view_id="1"
+	snapshot=1963
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=46.534521ms
+
+[Info  - 19:37:10] 2025/10/18 19:37:10 go/packages.Load #77
+	view_id="1"
+	snapshot=1963
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=48.316375ms
+
+[Info  - 19:37:10] 2025/10/18 19:37:10 go/packages.Load #79
+	view_id="1"
+	snapshot=1964
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=42.011132ms
+
+[Info  - 19:37:10] 2025/10/18 19:37:10 go/packages.Load #80
+	view_id="1"
+	snapshot=1964
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=37.219062ms
+
+[Info  - 19:37:10] 2025/10/18 19:37:10 go/packages.Load #81
+	view_id="1"
+	snapshot=1965
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=38.742243ms
+
+[Info  - 19:37:10] 2025/10/18 19:37:10 go/packages.Load #82
+	view_id="1"
+	snapshot=1966
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=41.321071ms
+
+[Info  - 19:37:11] 2025/10/18 19:37:11 go/packages.Load #83
+	view_id="1"
+	snapshot=1967
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=37.136749ms
+
+[Info  - 19:37:11] 2025/10/18 19:37:11 go/packages.Load #84
+	view_id="1"
+	snapshot=1967
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=41.714961ms
+
+[Info  - 19:37:11] 2025/10/18 19:37:11 go/packages.Load #85
+	view_id="1"
+	snapshot=1968
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=48.001104ms
+
+[Info  - 19:37:11] 2025/10/18 19:37:11 go/packages.Load #86
+	view_id="1"
+	snapshot=1968
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=44.293567ms
+
+[Info  - 19:37:11] 2025/10/18 19:37:11 go/packages.Load #87
+	view_id="1"
+	snapshot=1969
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=38.627294ms
+
+[Info  - 19:37:11] 2025/10/18 19:37:11 go/packages.Load #88
+	view_id="1"
+	snapshot=1969
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=50.719469ms
+
+[Info  - 19:37:11] 2025/10/18 19:37:11 go/packages.Load #89
+	view_id="1"
+	snapshot=1970
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=39.455239ms
+
+[Info  - 19:37:11] 2025/10/18 19:37:11 go/packages.Load #90
+	view_id="1"
+	snapshot=1970
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=45.931808ms
+
+[Info  - 19:37:12] 2025/10/18 19:37:12 go/packages.Load #91
+	view_id="1"
+	snapshot=1971
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=35.83661ms
+
+[Info  - 19:37:12] 2025/10/18 19:37:12 go/packages.Load #92
+	view_id="1"
+	snapshot=1971
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=40.90829ms
+
+[Info  - 19:37:12] 2025/10/18 19:37:12 go/packages.Load #93
+	view_id="1"
+	snapshot=1972
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=41.955625ms
+
+[Info  - 19:37:12] 2025/10/18 19:37:12 go/packages.Load #94
+	view_id="1"
+	snapshot=1973
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=37.999824ms
+
+[Info  - 19:37:13] 2025/10/18 19:37:13 go/packages.Load #95
+	view_id="1"
+	snapshot=1974
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=39.601502ms
+
+[Error - 19:37:13] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:37:13] 2025/10/18 19:37:13 go/packages.Load #97
+	view_id="1"
+	snapshot=1975
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=42.676139ms
+
+[Info  - 19:37:13] 2025/10/18 19:37:13 go/packages.Load #98
+	view_id="1"
+	snapshot=1975
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=43.970545ms
+
+[Info  - 19:37:13] 2025/10/18 19:37:13 go/packages.Load #99
+	view_id="1"
+	snapshot=1976
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=41.669111ms
+
+[Info  - 19:37:13] 2025/10/18 19:37:13 go/packages.Load #100
+	view_id="1"
+	snapshot=1976
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=39.807232ms
+
+[Info  - 19:37:13] 2025/10/18 19:37:13 go/packages.Load #101
+	view_id="1"
+	snapshot=1977
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=43.456919ms
+
+[Error - 19:37:13] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:37:13] 2025/10/18 19:37:13 go/packages.Load #103
+	view_id="1"
+	snapshot=1978
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=45.17391ms
+
+[Error - 19:37:13] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:37:13] 2025/10/18 19:37:13 go/packages.Load #105
+	view_id="1"
+	snapshot=1979
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=37.740807ms
+
+[Info  - 19:37:14] 2025/10/18 19:37:14 go/packages.Load #106
+	view_id="1"
+	snapshot=1979
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=46.226154ms
+
+[Info  - 19:37:14] 2025/10/18 19:37:14 go/packages.Load #107
+	view_id="1"
+	snapshot=1980
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=47.375491ms
+
+[Info  - 19:37:14] 2025/10/18 19:37:14 go/packages.Load #108
+	view_id="1"
+	snapshot=1980
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=45.357757ms
+
+[Info  - 19:37:15] 2025/10/18 19:37:15 go/packages.Load #109
+	view_id="1"
+	snapshot=1982
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=37.900023ms
+
+[Info  - 19:37:15] 2025/10/18 19:37:15 go/packages.Load #110
+	view_id="1"
+	snapshot=1982
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=45.471027ms
+
+[Info  - 19:37:15] 2025/10/18 19:37:15 go/packages.Load #111
+	view_id="1"
+	snapshot=1984
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=36.301507ms
+
+[Info  - 19:37:15] 2025/10/18 19:37:15 go/packages.Load #112
+	view_id="1"
+	snapshot=1985
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=51.963425ms
+
+[Info  - 19:37:15] 2025/10/18 19:37:15 go/packages.Load #113
+	view_id="1"
+	snapshot=1985
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=45.827097ms
+
+[Info  - 19:37:15] 2025/10/18 19:37:15 go/packages.Load #114
+	view_id="1"
+	snapshot=1986
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=40.948663ms
+
+[Info  - 19:37:15] 2025/10/18 19:37:15 go/packages.Load #115
+	view_id="1"
+	snapshot=1986
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=42.319055ms
+
+[Info  - 19:37:15] 2025/10/18 19:37:15 go/packages.Load #116
+	view_id="1"
+	snapshot=1987
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=36.228618ms
+
+[Error - 19:37:15] Request textDocument/inlayHint failed.
+  Message: getting file for InlayHint: context canceled
+  Code: 0 
+[Info  - 19:37:15] 2025/10/18 19:37:15 go/packages.Load #118
+	view_id="1"
+	snapshot=1988
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=46.650532ms
+
+[Info  - 19:37:15] 2025/10/18 19:37:15 go/packages.Load #119
+	view_id="1"
+	snapshot=1988
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=48.069028ms
+
+[Error - 19:37:23] 2025/10/18 19:37:23 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:70:10: expected type, found `
+   ____  __  ____   ______
+  / __ \/  |/  / | / /  _/
+ / / / / /|_/ /  |/ // /
+/ /_/ / /  / / /|  // /
+\____/_/  /_/_/ |_/___/
+
+	`
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:37:25] 2025/10/18 19:37:25 go/packages.Load #120
+	view_id="1"
+	snapshot=1999
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=35.338838ms
+
+[Info  - 19:37:25] 2025/10/18 19:37:25 go/packages.Load #121
+	view_id="1"
+	snapshot=2000
+	directory=/home/arshan/Code/omni
+	query=[/home/arshan/Code/omni/... builtin]
+	packages=3
+	duration=35.322549ms
+
+[Info  - 19:37:37] 2025/10/18 19:37:37 background imports cache refresh starting
+
+[Info  - 19:37:37] 2025/10/18 19:37:37 background refresh finished after 5.562441ms
+
+[Info  - 19:37:54] 2025/10/18 19:37:54 go/packages.Load #122
+	view_id="1"
+	snapshot=2056
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=49.920219ms
+
+[Info  - 19:37:54] 2025/10/18 19:37:54 go/packages.Load #123
+	view_id="1"
+	snapshot=2056
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=55.226374ms
+
+[Info  - 19:37:55] 2025/10/18 19:37:55 go/packages.Load #124
+	view_id="1"
+	snapshot=2058
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=43.540322ms
+
+[Info  - 19:37:55] 2025/10/18 19:37:55 go/packages.Load #125
+	view_id="1"
+	snapshot=2058
+	directory=/home/arshan/Code/omni
+	query=[file=/home/arshan/Code/omni/cmd/main.go]
+	packages=1
+	duration=44.904184ms
+
+[Info  - 19:38:07] 2025/10/18 19:38:07 background imports cache refresh starting
+
+[Info  - 19:38:07] 2025/10/18 19:38:07 background refresh finished after 4.555514ms
+
+[Error - 19:38:32] 2025/10/18 19:38:32 signature help failed: cannot get type for Fun *ast.SelectorExpr (&{color Red})
+	position=69:12
+
+[Info  - 19:38:39] 2025/10/18 19:38:39 background imports cache refresh starting
+
+[Info  - 19:38:39] 2025/10/18 19:38:39 background refresh finished after 4.981794ms
+
+[Info  - 19:39:12] 2025/10/18 19:39:12 background imports cache refresh starting
+
+[Info  - 19:39:12] 2025/10/18 19:39:12 background refresh finished after 5.836053ms
+
+[Info  - 19:39:44] 2025/10/18 19:39:44 background imports cache refresh starting
+
+[Info  - 19:39:44] 2025/10/18 19:39:44 background refresh finished after 5.229334ms
+
+[Info  - 19:40:25] 2025/10/18 19:40:25 background imports cache refresh starting
+
+[Info  - 19:40:25] 2025/10/18 19:40:25 background refresh finished after 4.4681ms
+
+[Error - 19:40:29] 2025/10/18 19:40:29 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:77:14: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:40:53] 2025/10/18 19:40:53 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:85:14: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:40:56] 2025/10/18 19:40:56 background imports cache refresh starting
+
+[Info  - 19:40:56] 2025/10/18 19:40:56 background refresh finished after 5.355011ms
+
+[Info  - 19:41:27] 2025/10/18 19:41:27 background imports cache refresh starting
+
+[Info  - 19:41:27] 2025/10/18 19:41:27 background refresh finished after 4.972282ms
+
+[Info  - 19:42:44] 2025/10/18 19:42:44 background imports cache refresh starting
+
+[Info  - 19:42:44] 2025/10/18 19:42:44 background refresh finished after 6.445122ms
+
+[Error - 19:42:59] 2025/10/18 19:42:59 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:78:12: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:43:01] 2025/10/18 19:43:01 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:78:14: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:43:12] 2025/10/18 19:43:12 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:80:15: expected ':', found newline
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:43:14] 2025/10/18 19:43:14 background imports cache refresh starting
+
+[Info  - 19:43:14] 2025/10/18 19:43:14 background refresh finished after 5.946937ms
+
+[Info  - 19:43:44] 2025/10/18 19:43:44 background imports cache refresh starting
+
+[Info  - 19:43:44] 2025/10/18 19:43:44 background refresh finished after 6.681061ms
+
+[Error - 19:47:34] 2025/10/18 19:47:34 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:111:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:47:36] 2025/10/18 19:47:36 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:111:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:47:36] 2025/10/18 19:47:36 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:111:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:47:41] 2025/10/18 19:47:41 background imports cache refresh starting
+
+[Info  - 19:47:41] 2025/10/18 19:47:41 background refresh finished after 5.782132ms
+
+[Error - 19:47:42] 2025/10/18 19:47:42 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:111:5: expected boolean expression, found assignment (missing parentheses around composite literal?)
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:48:22] 2025/10/18 19:48:22 background imports cache refresh starting
+
+[Info  - 19:48:22] 2025/10/18 19:48:22 background refresh finished after 5.571765ms
+
+[Error - 19:48:43] 2025/10/18 19:48:43 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:111:4: missing condition in if statement
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:48:43] 2025/10/18 19:48:43 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:111:4: missing condition in if statement
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:48:44] 2025/10/18 19:48:44 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:111:4: missing condition in if statement
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:48:46] 2025/10/18 19:48:46 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:111:5: missing condition in if statement
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:48:47] 2025/10/18 19:48:47 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:111:5: missing condition in if statement
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Error - 19:48:47] 2025/10/18 19:48:47 imports fixes: allImportsFixes: /home/arshan/Code/omni/cmd/main.go:111:5: missing condition in if statement
+	file="/home/arshan/Code/omni/cmd/main.go"
+
+[Info  - 19:48:51] 2025/10/18 19:48:51 Shutdown session
+	shutdown_session=1
+

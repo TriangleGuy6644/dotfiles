@@ -1,0 +1,6 @@
+[Warn  - 16:27:14] 23:27:14.160 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
+[Warn  - 16:27:14] 23:27:14.176 WARNING ⛔️ Error while parsing file:///home/arshan/Code/scripts/ilyt/ilt.fish: syntax error
+[Info  - 16:27:14] 23:27:14.176 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///home/arshan/Code/scripts"...
+[Info  - 16:27:14] 23:27:14.189 INFO BackgroundAnalysis: Glob resolved with 2 files after 0.012 seconds
+[Info  - 16:27:14] 23:27:14.191 INFO BackgroundAnalysis: Completed after 0.014 seconds.
+[Warn  - 16:27:15] 23:27:15.462 WARNING ⛔️ Error while parsing file:///home/arshan/Code/scripts/ilyt/ilt.fish: syntax error

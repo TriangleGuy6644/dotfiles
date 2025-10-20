@@ -1,0 +1,649 @@
+2025-10-18 16:45:31.468 [info] Extension host with pid 38742 started
+2025-10-18 16:45:31.468 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/bd306b4bf75c1612df1200c4814549f4.
+2025-10-18 16:45:31.631 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-18 16:45:31.659 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-18 16:45:31.680 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2025-10-18 16:45:32.301 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-18 16:45:32.305 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-18 16:45:32.308 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-18 16:45:32.380 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:.venv'
+2025-10-18 16:45:32.686 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-18 16:45:32.747 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-18 16:45:33.117 [info] Eager extensions activated
+2025-10-18 16:45:33.169 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:45:33.172 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:45:33.189 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:45:33.196 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:45:33.213 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:45:33.216 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:45:33.419 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-10-18 16:45:33.865 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-18 16:45:33.927 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'api', root cause: ms-python.vscode-pylance
+2025-10-18 16:45:35.648 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 16:45:35.749 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 16:45:35.768 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 16:48:30.128 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-18 16:48:30.147 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/arshan/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:668401)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-18 16:48:30.148 [info] Extension host with pid 38742 exiting with code 0
+2025-10-18 16:48:31.629 [info] Extension host with pid 40183 started
+2025-10-18 16:48:31.630 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/1a559d47fa0d015cf38cef4db9558df6.
+2025-10-18 16:48:31.963 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-18 16:48:31.993 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-18 16:48:32.009 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-18 16:48:32.023 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-18 16:48:32.124 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-18 16:48:32.126 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-18 16:48:32.195 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-18 16:48:32.750 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-18 16:48:32.752 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-18 16:48:32.754 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-18 16:48:32.818 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-10-18 16:48:32.934 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-18 16:48:33.015 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-18 16:48:33.588 [info] Eager extensions activated
+2025-10-18 16:48:33.607 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:48:33.609 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:48:33.626 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:48:33.631 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:48:33.640 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 16:48:33.642 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 17:54:42.647 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-10-18 18:22:56.132 [error] [golang.go] provider FAILED
+2025-10-18 18:22:56.137 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:47:07.979 [error] [golang.go] provider FAILED
+2025-10-18 18:47:07.979 [error] Error: no package data for import "github.com/labstack/gommon/color"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 18:47:08.312 [error] [golang.go] provider FAILED
+2025-10-18 18:47:08.313 [error] Error: no package data for import "github.com/labstack/gommon/color"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:22:01.281 [error] [golang.go] provider FAILED
+2025-10-18 19:22:01.281 [error] Error: 28:27: expected selector or type assertion, found '.'
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:24.142 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-10-18 19:32:24.313 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-10-18 19:32:24.690 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-10-18 19:32:25.030 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-10-18 19:32:25.648 [error] [golang.go] provider FAILED
+2025-10-18 19:32:25.648 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:26.843 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 19:32:27.010 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 19:32:27.033 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 19:32:28.678 [error] [golang.go] provider FAILED
+2025-10-18 19:32:28.678 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:29.161 [error] [golang.go] provider FAILED
+2025-10-18 19:32:29.161 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:29.363 [error] [golang.go] provider FAILED
+2025-10-18 19:32:29.363 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:29.515 [error] [golang.go] provider FAILED
+2025-10-18 19:32:29.515 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:29.656 [error] [golang.go] provider FAILED
+2025-10-18 19:32:29.656 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:29.798 [error] [golang.go] provider FAILED
+2025-10-18 19:32:29.798 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:31.804 [error] [golang.go] provider FAILED
+2025-10-18 19:32:31.804 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:31.978 [error] [golang.go] provider FAILED
+2025-10-18 19:32:31.978 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:32.111 [error] [golang.go] provider FAILED
+2025-10-18 19:32:32.111 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:32.258 [error] [golang.go] provider FAILED
+2025-10-18 19:32:32.258 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:32.408 [error] [golang.go] provider FAILED
+2025-10-18 19:32:32.408 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:33:31.135 [error] [golang.go] provider FAILED
+2025-10-18 19:33:31.135 [error] Error: 35:1: expected statement, found ')'
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:34.174 [error] [golang.go] provider FAILED
+2025-10-18 19:35:34.174 [error] Error: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:44.381 [error] [golang.go] provider FAILED
+2025-10-18 19:35:44.381 [error] Error: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:44.633 [error] [golang.go] provider FAILED
+2025-10-18 19:35:44.633 [error] Error: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:45.173 [error] [golang.go] provider FAILED
+2025-10-18 19:35:45.174 [error] Error: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:46.447 [error] [golang.go] provider FAILED
+2025-10-18 19:35:46.447 [error] Error: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:46.581 [error] [golang.go] provider FAILED
+2025-10-18 19:35:46.581 [error] Error: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:46.717 [error] [golang.go] provider FAILED
+2025-10-18 19:35:46.718 [error] Error: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:46.896 [error] [golang.go] provider FAILED
+2025-10-18 19:35:46.896 [error] Error: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:47.157 [error] [golang.go] provider FAILED
+2025-10-18 19:35:47.157 [error] Error: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:47.754 [error] [golang.go] provider FAILED
+2025-10-18 19:35:47.754 [error] Error: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:50.331 [error] [golang.go] provider FAILED
+2025-10-18 19:35:50.331 [error] Error: can't find definitions for file type go.mod
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:52.956 [error] [golang.go] provider FAILED
+2025-10-18 19:35:52.956 [error] Error: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:06.444 [error] [golang.go] provider FAILED
+2025-10-18 19:36:06.444 [error] Error: no package data for import "github.com/labstack/gommon/color"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:12.416 [error] [golang.go] provider FAILED
+2025-10-18 19:36:12.416 [error] Error: can't find definitions for file type go.mod
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:12.454 [error] [golang.go] provider FAILED
+2025-10-18 19:36:12.454 [error] Error: can't find definitions for file type go.mod
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:12.463 [error] [golang.go] provider FAILED
+2025-10-18 19:36:12.463 [error] Error: can't find definitions for file type go.mod
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:24.396 [error] [golang.go] provider FAILED
+2025-10-18 19:36:24.397 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:51.184 [error] [golang.go] provider FAILED
+2025-10-18 19:36:51.184 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:51.285 [error] [golang.go] provider FAILED
+2025-10-18 19:36:51.285 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:51.362 [error] [golang.go] provider FAILED
+2025-10-18 19:36:51.362 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:51.470 [error] [golang.go] provider FAILED
+2025-10-18 19:36:51.470 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:51.635 [error] [golang.go] provider FAILED
+2025-10-18 19:36:51.635 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:51.891 [error] [golang.go] provider FAILED
+2025-10-18 19:36:51.891 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:51.989 [error] [golang.go] provider FAILED
+2025-10-18 19:36:51.989 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:52.184 [error] [golang.go] provider FAILED
+2025-10-18 19:36:52.184 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:52.295 [error] [golang.go] provider FAILED
+2025-10-18 19:36:52.295 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:52.401 [error] [golang.go] provider FAILED
+2025-10-18 19:36:52.401 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:52.534 [error] [golang.go] provider FAILED
+2025-10-18 19:36:52.534 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:52.592 [error] [golang.go] provider FAILED
+2025-10-18 19:36:52.592 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:52.624 [error] [golang.go] provider FAILED
+2025-10-18 19:36:52.624 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:52.863 [error] [golang.go] provider FAILED
+2025-10-18 19:36:52.863 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:53.634 [error] [golang.go] provider FAILED
+2025-10-18 19:36:53.634 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:54.089 [error] [golang.go] provider FAILED
+2025-10-18 19:36:54.089 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:54.191 [error] [golang.go] provider FAILED
+2025-10-18 19:36:54.191 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:54.357 [error] [golang.go] provider FAILED
+2025-10-18 19:36:54.358 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:54.422 [error] [golang.go] provider FAILED
+2025-10-18 19:36:54.422 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:54.547 [error] [golang.go] provider FAILED
+2025-10-18 19:36:54.547 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:54.778 [error] [golang.go] provider FAILED
+2025-10-18 19:36:54.778 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:54.996 [error] [golang.go] provider FAILED
+2025-10-18 19:36:54.997 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:55.058 [error] [golang.go] provider FAILED
+2025-10-18 19:36:55.058 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:55.190 [error] [golang.go] provider FAILED
+2025-10-18 19:36:55.190 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:55.300 [error] [golang.go] provider FAILED
+2025-10-18 19:36:55.300 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:55.346 [error] [golang.go] provider FAILED
+2025-10-18 19:36:55.346 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:56.116 [error] [golang.go] provider FAILED
+2025-10-18 19:36:56.117 [error] Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:37:00.863 [error] [golang.go] provider FAILED
+2025-10-18 19:37:00.863 [error] Error: getting modfile handle: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:37:01.495 [error] [golang.go] provider FAILED
+2025-10-18 19:37:01.495 [error] Error: getting modfile handle: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:37:09.727 [error] [golang.go] provider FAILED
+2025-10-18 19:37:09.727 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:37:09.899 [error] [golang.go] provider FAILED
+2025-10-18 19:37:09.899 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:37:10.095 [error] [golang.go] provider FAILED
+2025-10-18 19:37:10.095 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:37:13.288 [error] [golang.go] provider FAILED
+2025-10-18 19:37:13.288 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:37:13.872 [error] [golang.go] provider FAILED
+2025-10-18 19:37:13.873 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:37:13.951 [error] [golang.go] provider FAILED
+2025-10-18 19:37:13.952 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:37:15.873 [error] [golang.go] provider FAILED
+2025-10-18 19:37:15.873 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:48:51.814 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-18 19:48:51.849 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/arshan/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:668401)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-18 19:48:51.857 [info] Extension host with pid 40183 exiting with code 0
+2025-10-18 19:48:53.199 [info] Extension host with pid 80460 started
+2025-10-18 19:48:53.199 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/bd306b4bf75c1612df1200c4814549f4.
+2025-10-18 19:48:53.262 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-18 19:48:53.320 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-18 19:48:53.346 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onLanguage:ignore'
+2025-10-18 19:48:53.417 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-18 19:48:53.462 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-18 19:48:53.463 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-18 19:48:53.464 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-18 19:48:53.507 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:.venv'
+2025-10-18 19:48:54.029 [info] Eager extensions activated
+2025-10-18 19:48:54.054 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:48:54.058 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:48:54.082 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:48:54.090 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:48:54.111 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:48:54.114 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:48:54.379 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-10-18 19:48:54.769 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-18 19:48:54.830 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'api', root cause: ms-python.vscode-pylance
+2025-10-18 19:48:56.492 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 19:48:56.573 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 19:48:56.575 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-18 19:49:14.673 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-18 19:49:44.542 [error] [golang.go] provider FAILED
+2025-10-18 19:49:44.544 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:49:46.618 [error] [golang.go] provider FAILED
+2025-10-18 19:49:46.618 [error] Error: getting file for InlayHint: context canceled
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:51:01.318 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-18 19:51:01.338 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/arshan/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:668401)
+	at SZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11797)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9947
+	at Array.map (<anonymous>)
+	at SZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9935)
+	at SZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10178)
+	at H3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Ss (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10409)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6948)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-18 19:51:01.345 [info] Extension host with pid 80460 exiting with code 0
+2025-10-18 19:51:02.622 [info] Extension host with pid 82586 started
+2025-10-18 19:51:02.622 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/1a559d47fa0d015cf38cef4db9558df6.
+2025-10-18 19:51:02.930 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-18 19:51:02.956 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-18 19:51:02.978 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-18 19:51:02.991 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-18 19:51:03.065 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-18 19:51:03.067 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-18 19:51:03.485 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-18 19:51:03.591 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-18 19:51:03.593 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-18 19:51:03.594 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-18 19:51:03.933 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-10-18 19:51:03.959 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-18 19:51:04.009 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-18 19:51:04.204 [info] Eager extensions activated
+2025-10-18 19:51:04.212 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:51:04.221 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:51:04.241 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:51:04.247 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:51:04.258 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:51:04.261 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-18 19:51:44.691 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-10-18 20:28:26.844 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-18 20:28:26.866 [info] Extension host with pid 82586 exiting with code 0

@@ -1,0 +1,18 @@
+2025-10-19 10:53:08.979 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2025-10-19 10:53:08.979 [info] Getting Manifest... ms-azuretools.vscode-containers
+2025-10-19 10:53:09.052 [info] Installing extension: ms-vscode-remote.remote-containers {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.1","date":"2025-10-14T22:33:36.618Z"}}
+2025-10-19 10:53:09.053 [info] Installing extension: ms-azuretools.vscode-containers {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.1","date":"2025-10-14T22:33:36.618Z"}}
+2025-10-19 10:53:10.006 [info] Extension signature verification result for ms-azuretools.vscode-containers: Success. Internal Code: 0. Executed: true. Duration: 504ms.
+2025-10-19 10:53:10.063 [info] Extracted extension to file:///home/arshan/.vscode/extensions/ms-azuretools.vscode-containers-2.2.0: ms-azuretools.vscode-containers
+2025-10-19 10:53:10.068 [info] Renamed to /home/arshan/.vscode/extensions/ms-azuretools.vscode-containers-2.2.0
+2025-10-19 10:53:10.075 [info] Extension signature verification result for ms-vscode-remote.remote-containers: Success. Internal Code: 0. Executed: true. Duration: 489ms.
+2025-10-19 10:53:10.160 [info] Extracted extension to file:///home/arshan/.vscode/extensions/ms-vscode-remote.remote-containers-0.427.0: ms-vscode-remote.remote-containers
+2025-10-19 10:53:10.165 [info] Renamed to /home/arshan/.vscode/extensions/ms-vscode-remote.remote-containers-0.427.0
+2025-10-19 10:53:10.184 [info] Extension installed successfully: ms-azuretools.vscode-containers vscode-userdata:/home/arshan/.vscode/extensions/extensions.json
+2025-10-19 10:53:10.184 [info] Extension installed successfully: ms-vscode-remote.remote-containers vscode-userdata:/home/arshan/.vscode/extensions/extensions.json
+2025-10-19 13:06:51.371 [info] Getting Manifest... nguyenngoclong.terminal-keeper
+2025-10-19 13:06:51.458 [info] Installing extension: nguyenngoclong.terminal-keeper {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/arshan/.vscode/extensions/extensions.json","path":"/home/arshan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.1","date":"2025-10-14T22:33:36.618Z"}}
+2025-10-19 13:06:53.160 [info] Extension signature verification result for nguyenngoclong.terminal-keeper: Success. Internal Code: 0. Executed: true. Duration: 486ms.
+2025-10-19 13:06:53.182 [info] Extracted extension to file:///home/arshan/.vscode/extensions/nguyenngoclong.terminal-keeper-1.1.56: nguyenngoclong.terminal-keeper
+2025-10-19 13:06:53.187 [info] Renamed to /home/arshan/.vscode/extensions/nguyenngoclong.terminal-keeper-1.1.56
+2025-10-19 13:06:53.212 [info] Extension installed successfully: nguyenngoclong.terminal-keeper vscode-userdata:/home/arshan/.vscode/extensions/extensions.json

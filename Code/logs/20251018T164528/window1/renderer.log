@@ -1,0 +1,312 @@
+2025-10-18 16:45:30.770 [info] Started local extension host with pid 38742.
+2025-10-18 16:45:32.220 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-18 16:45:32.220 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-18 16:45:33.620 [info] [perf] Render performance baseline is 32ms
+2025-10-18 16:45:34.004 [error] Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server: Error: Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server
+    at qct.resolveConnection (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:2218)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:13693
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:73168
+2025-10-18 16:45:34.510 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at z6 (file:///opt/visual-studio-code/resources/app/out/main.js:30:64302)
+    at new nd (file:///opt/visual-studio-code/resources/app/out/main.js:30:67682)
+    at new zr (file:///opt/visual-studio-code/resources/app/out/main.js:30:69120)
+    at nd.revive (file:///opt/visual-studio-code/resources/app/out/main.js:30:68897)
+    at o5.call (file:///opt/visual-studio-code/resources/app/out/main.js:88:105739)
+    at Lf.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:14859)
+    at Lf.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:14382)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:13784)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.D (file:///opt/visual-studio-code/resources/app/out/main.js:30:2443)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2660)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5145)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5333)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at F (file:///opt/visual-studio-code/resources/app/out/main.js:28:7627)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:10776)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106370)
+    at Session.emit (node:events:519:28)
+2025-10-18 16:45:56.918 [error] Error: The editor could not be opened because the file was not found.
+    at yDe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:81184)
+    at async yDe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:80342)
+    at async PGe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:58521)
+    at async PGe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:57076)
+    at async PGe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:56158)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:808:23355
+2025-10-18 16:48:30.879 [info] Started local extension host with pid 40183.
+2025-10-18 16:48:32.341 [error] [Extension Host] (node:40183) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-18 16:48:33.652 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-18 16:48:33.723 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-18 16:48:34.195 [info] [perf] Render performance baseline is 32ms
+2025-10-18 18:47:07.980 [error] no package data for import "github.com/labstack/gommon/color": Error: no package data for import "github.com/labstack/gommon/color"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:22:01.289 [error] Error: 28:27: expected selector or type assertion, found '.'
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:30:33.325 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-18 19:30:33.325 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList
+2025-10-18 19:31:04.722 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-18 19:32:25.248 [error] Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server: Error: Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server
+    at qct.resolveConnection (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:2218)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:13693
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:73168
+2025-10-18 19:32:25.649 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:25.727 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at z6 (file:///opt/visual-studio-code/resources/app/out/main.js:30:64302)
+    at new nd (file:///opt/visual-studio-code/resources/app/out/main.js:30:67682)
+    at new zr (file:///opt/visual-studio-code/resources/app/out/main.js:30:69120)
+    at nd.revive (file:///opt/visual-studio-code/resources/app/out/main.js:30:68897)
+    at o5.call (file:///opt/visual-studio-code/resources/app/out/main.js:88:105739)
+    at Lf.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:14859)
+    at Lf.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:14382)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:13784)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.D (file:///opt/visual-studio-code/resources/app/out/main.js:30:2443)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2660)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5145)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5333)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at F (file:///opt/visual-studio-code/resources/app/out/main.js:28:7627)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:10776)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106370)
+    at Session.emit (node:events:519:28)
+2025-10-18 19:32:26.527 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-18 19:32:28.303 [warning] Settings pattern "mcp" doesn't match any settings
+2025-10-18 19:32:28.678 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:29.162 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:29.363 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:29.515 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:29.656 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:29.799 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:31.805 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:31.979 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:32.112 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:32.258 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:32:32.409 [error] Error: 37:6: expected '(', found runCmd (and 3 more errors)
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:33:31.136 [error] Error: 35:1: expected statement, found ')'
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:44.382 [error] /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3: Error: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:46.447 [error] /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3: Error: /home/arshan/Code/omni/go.mod:7:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:35:50.335 [error] can't find definitions for file type go.mod: Error: can't find definitions for file type go.mod
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:06.444 [error] no package data for import "github.com/labstack/gommon/color": Error: no package data for import "github.com/labstack/gommon/color"
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:12.420 [error] can't find definitions for file type go.mod: Error: can't find definitions for file type go.mod
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:51.201 [error] /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3: Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:52.296 [error] /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3: Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:53.635 [error] /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3: Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:54.779 [error] /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3: Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:36:56.117 [error] /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3: Error: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:37:00.864 [error] getting modfile handle: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3: Error: getting modfile handle: /home/arshan/Code/omni/go.mod:10:2: usage: require module/path v1.2.3
+	at handleResponse (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8582:40)
+	at handleMessage (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/arshan/.vscode/extensions/golang.go-0.50.0/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)
+2025-10-18 19:43:17.102 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:13219
+    at Vi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:12993
+    at async wWe.trigger (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:35633)
+2025-10-18 19:43:17.865 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at mWe.clear (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:13580)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:35954
+    at h2 (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:104074)
+    at wWe.stop (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:35812)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:469:3818
+    at Vi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at C6._runFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:469:3809)
+    at C6.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:5636)
+    at C6.endUpdate (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:6050)
+2025-10-18 19:43:20.622 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at mWe.clear (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:13580)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:35954
+    at h2 (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:104074)
+    at wWe.stop (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:35812)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:469:3818
+    at Vi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at C6._runFn (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:469:3809)
+    at C6.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:5636)
+    at C6.endUpdate (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:6050)
+2025-10-18 19:43:28.190 [error] Can only set when there is a listener! This is to prevent leaks.: Error: Can only set when there is a listener! This is to prevent leaks.
+    at DMt.set (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:455:2798)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:13055
+    at Vi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:103828)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:456:12993
+2025-10-18 19:48:52.653 [info] Started local extension host with pid 80460.
+2025-10-18 19:48:53.591 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-18 19:48:53.619 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-18 19:48:54.896 [error] Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server: Error: Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server
+    at qct.resolveConnection (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:2218)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:13693
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:73168
+2025-10-18 19:48:55.405 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at z6 (file:///opt/visual-studio-code/resources/app/out/main.js:30:64302)
+    at new nd (file:///opt/visual-studio-code/resources/app/out/main.js:30:67682)
+    at new zr (file:///opt/visual-studio-code/resources/app/out/main.js:30:69120)
+    at nd.revive (file:///opt/visual-studio-code/resources/app/out/main.js:30:68897)
+    at o5.call (file:///opt/visual-studio-code/resources/app/out/main.js:88:105739)
+    at Lf.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:14859)
+    at Lf.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:14382)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:13784)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.D (file:///opt/visual-studio-code/resources/app/out/main.js:30:2443)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2660)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5145)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5333)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at F (file:///opt/visual-studio-code/resources/app/out/main.js:28:7627)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:10776)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106370)
+    at Session.emit (node:events:519:28)
+2025-10-18 19:48:55.432 [info] [perf] Render performance baseline is 20ms
+2025-10-18 19:49:14.736 [error] [Extension Host] (node:80460) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-18 19:50:34.918 [error] Error: The editor could not be opened because the file was not found.
+    at yDe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:81184)
+    at async yDe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:80342)
+    at async PGe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:58521)
+    at async PGe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:57076)
+    at async PGe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:56158)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:808:23355
+    at async o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:700:44978)
+2025-10-18 19:51:02.053 [info] Started local extension host with pid 82586.
+2025-10-18 19:51:03.246 [error] [Extension Host] (node:82586) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-18 19:51:04.448 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-18 19:51:04.515 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-18 19:51:05.277 [info] [perf] Render performance baseline is 24ms
