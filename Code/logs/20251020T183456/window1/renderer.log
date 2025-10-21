@@ -1,0 +1,6 @@
+2025-10-20 18:34:57.402 [info] Started local extension host with pid 6980.
+2025-10-20 18:34:58.690 [error] [Extension Host] (node:6980) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-20 18:34:59.884 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-20 18:35:00.047 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-20 18:35:00.348 [info] [perf] Render performance baseline is 34ms

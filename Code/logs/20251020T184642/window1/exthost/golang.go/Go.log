@@ -1,0 +1,348 @@
+2025-10-20 18:46:49.707 [info] Try to start language server - activation (enabled: true)
+2025-10-20 18:46:49.905 [info] Running language server gopls(v0.20.0/go1.25.1)
+2025-10-20 18:49:37.508 [info] Try to start language server - activation (enabled: true)
+2025-10-20 18:49:37.733 [info] Running language server gopls(v0.20.0/go1.25.1)
+2025-10-20 18:50:04.957 [info] Running checks...
+2025-10-20 18:50:04.957 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:50:05.054 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:50:05.054 [info] 
+2025-10-20 18:50:08.625 [info] Running checks...
+2025-10-20 18:50:08.625 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:50:08.693 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:50:08.693 [info] 
+2025-10-20 18:50:12.620 [info] Running checks...
+2025-10-20 18:50:12.620 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:50:12.690 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:50:12.690 [info] 
+2025-10-20 18:50:13.993 [info] Running checks...
+2025-10-20 18:50:13.993 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:50:14.052 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:50:14.052 [info] 
+2025-10-20 18:50:21.864 [info] Running checks...
+2025-10-20 18:50:21.864 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:50:21.914 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:50:21.914 [info] 
+2025-10-20 18:50:32.478 [info] Running checks...
+2025-10-20 18:50:32.478 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:50:32.543 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:50:32.543 [info] 
+2025-10-20 18:50:51.497 [info] Running checks...
+2025-10-20 18:50:51.497 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:50:51.549 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:50:51.549 [info] 
+2025-10-20 18:51:01.569 [info] Running checks...
+2025-10-20 18:51:01.569 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:51:01.650 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:51:01.650 [info] 
+2025-10-20 18:51:29.813 [info] Running checks...
+2025-10-20 18:51:29.813 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:51:29.889 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:51:29.890 [info] 
+2025-10-20 18:51:37.581 [info] Running checks...
+2025-10-20 18:51:37.581 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:51:37.652 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:51:37.652 [info] 
+2025-10-20 18:51:46.081 [info] Running checks...
+2025-10-20 18:51:46.081 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:51:46.152 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:51:46.152 [info] 
+2025-10-20 18:51:55.202 [info] Running checks...
+2025-10-20 18:51:55.202 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:51:55.257 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:51:55.257 [info] 
+2025-10-20 18:51:57.853 [info] Running checks...
+2025-10-20 18:51:57.853 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:51:57.909 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:51:57.909 [info] 
+2025-10-20 18:52:04.033 [info] Running checks...
+2025-10-20 18:52:04.033 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:52:04.077 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:52:04.077 [info] 
+2025-10-20 18:52:08.107 [info] Running checks...
+2025-10-20 18:52:08.107 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:52:08.181 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:52:08.181 [info] 
+2025-10-20 18:52:09.715 [info] Running checks...
+2025-10-20 18:52:09.716 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:52:09.789 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:52:09.789 [info] 
+2025-10-20 18:52:13.578 [info] Running checks...
+2025-10-20 18:52:13.578 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:52:13.646 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:52:13.646 [info] 
+2025-10-20 18:53:08.283 [info] Running checks...
+2025-10-20 18:53:08.283 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:53:08.374 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:53:08.377 [info] 
+2025-10-20 18:53:12.875 [info] Running checks...
+2025-10-20 18:53:12.875 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:53:12.928 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:53:12.928 [info] 
+2025-10-20 18:53:15.492 [info] Running checks...
+2025-10-20 18:53:15.492 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:53:15.573 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:53:15.573 [info] 
+2025-10-20 18:53:20.439 [info] Running checks...
+2025-10-20 18:53:20.439 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:53:20.501 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:53:20.501 [info] 
+2025-10-20 18:53:30.624 [info] Running checks...
+2025-10-20 18:53:30.624 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:53:30.692 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:53:30.692 [info] 
+2025-10-20 18:53:45.869 [info] Running checks...
+2025-10-20 18:53:45.869 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:53:45.922 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:53:45.922 [info] 
+2025-10-20 18:53:52.883 [info] Running checks...
+2025-10-20 18:53:52.883 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:53:52.972 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:53:52.972 [info] 
+2025-10-20 18:54:03.949 [info] Running checks...
+2025-10-20 18:54:03.949 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:54:04.035 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:54:04.035 [info] 
+2025-10-20 18:54:17.231 [info] Running checks...
+2025-10-20 18:54:17.231 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:54:17.312 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:54:17.312 [info] 
+2025-10-20 18:54:21.824 [info] Running checks...
+2025-10-20 18:54:21.824 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:54:21.901 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:54:21.901 [info] 
+2025-10-20 18:54:26.994 [info] Running checks...
+2025-10-20 18:54:26.994 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:54:27.056 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:54:27.056 [info] 
+2025-10-20 18:54:39.196 [info] Running checks...
+2025-10-20 18:54:39.196 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:54:39.262 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:54:39.262 [info] 
+2025-10-20 18:54:41.558 [info] Running checks...
+2025-10-20 18:54:41.558 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:54:41.618 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:54:41.618 [info] 
+2025-10-20 18:54:52.095 [info] Running checks...
+2025-10-20 18:54:52.095 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:54:52.196 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:54:52.196 [info] 
+2025-10-20 18:55:05.255 [info] Running checks...
+2025-10-20 18:55:05.255 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:05.321 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:05.321 [info] 
+2025-10-20 18:55:08.290 [info] Running checks...
+2025-10-20 18:55:08.290 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:08.366 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:08.366 [info] 
+2025-10-20 18:55:12.475 [info] Running checks...
+2025-10-20 18:55:12.475 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:12.536 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:12.536 [info] 
+2025-10-20 18:55:14.009 [info] Running checks...
+2025-10-20 18:55:14.009 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:14.072 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:14.072 [info] 
+2025-10-20 18:55:15.213 [info] Running checks...
+2025-10-20 18:55:15.213 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:15.287 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:15.287 [info] 
+2025-10-20 18:55:20.972 [info] Running checks...
+2025-10-20 18:55:20.972 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:21.018 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:21.019 [info] 
+2025-10-20 18:55:23.726 [info] Running checks...
+2025-10-20 18:55:23.726 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:23.785 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:23.785 [info] 
+2025-10-20 18:55:33.302 [info] Running checks...
+2025-10-20 18:55:33.302 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:33.362 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:33.362 [info] 
+2025-10-20 18:55:36.091 [info] Running checks...
+2025-10-20 18:55:36.091 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:36.150 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:36.150 [info] 
+2025-10-20 18:55:38.884 [info] Running checks...
+2025-10-20 18:55:38.884 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:38.935 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:38.935 [info] 
+2025-10-20 18:55:47.208 [info] Running checks...
+2025-10-20 18:55:47.208 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:47.272 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:47.272 [info] 
+2025-10-20 18:55:49.849 [info] Running checks...
+2025-10-20 18:55:49.849 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:55:49.931 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:55:49.931 [info] 
+2025-10-20 18:56:03.650 [info] Running checks...
+2025-10-20 18:56:03.652 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:03.721 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:03.721 [info] 
+2025-10-20 18:56:07.074 [info] Running checks...
+2025-10-20 18:56:07.074 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:07.123 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:07.123 [info] 
+2025-10-20 18:56:09.450 [info] Running checks...
+2025-10-20 18:56:09.450 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:09.509 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:09.509 [info] 
+2025-10-20 18:56:14.699 [info] Running checks...
+2025-10-20 18:56:14.699 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:14.790 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:14.790 [info] 
+2025-10-20 18:56:17.419 [info] Running checks...
+2025-10-20 18:56:17.419 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:17.476 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:17.476 [info] 
+2025-10-20 18:56:20.968 [info] Running checks...
+2025-10-20 18:56:20.968 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:21.022 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:21.022 [info] 
+2025-10-20 18:56:24.496 [info] Running checks...
+2025-10-20 18:56:24.496 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:24.542 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:24.543 [info] 
+2025-10-20 18:56:28.180 [info] Running checks...
+2025-10-20 18:56:28.180 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:28.236 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:28.236 [info] 
+2025-10-20 18:56:31.630 [info] Running checks...
+2025-10-20 18:56:31.630 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:31.697 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:31.697 [info] 
+2025-10-20 18:56:34.012 [info] Running checks...
+2025-10-20 18:56:34.012 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:34.065 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:34.065 [info] 
+2025-10-20 18:56:35.540 [info] Running checks...
+2025-10-20 18:56:35.540 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:35.616 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:35.616 [info] 
+2025-10-20 18:56:36.844 [info] Running checks...
+2025-10-20 18:56:36.845 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:36.900 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:36.900 [info] 
+2025-10-20 18:56:40.727 [info] Running checks...
+2025-10-20 18:56:40.728 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:40.792 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:40.792 [info] 
+2025-10-20 18:56:43.199 [info] Running checks...
+2025-10-20 18:56:43.199 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:43.259 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:43.259 [info] 
+2025-10-20 18:56:44.987 [info] Running checks...
+2025-10-20 18:56:44.987 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:45.035 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:45.035 [info] 
+2025-10-20 18:56:52.570 [info] Running checks...
+2025-10-20 18:56:52.570 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:52.642 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:52.642 [info] 
+2025-10-20 18:56:56.959 [info] Running checks...
+2025-10-20 18:56:56.959 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:56:57.013 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:56:57.013 [info] 
+2025-10-20 18:57:07.875 [info] Running checks...
+2025-10-20 18:57:07.875 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:57:07.956 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:57:07.956 [info] 
+2025-10-20 18:57:12.978 [info] Running checks...
+2025-10-20 18:57:12.979 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:57:13.036 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:57:13.036 [info] 
+2025-10-20 18:57:17.396 [info] Running checks...
+2025-10-20 18:57:17.396 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:57:17.460 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:57:17.460 [info] 
+2025-10-20 18:57:20.868 [info] Running checks...
+2025-10-20 18:57:20.868 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:57:20.926 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:57:20.926 [info] 
+2025-10-20 18:57:34.283 [info] Running checks...
+2025-10-20 18:57:34.283 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:57:34.341 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:57:34.341 [info] 
+2025-10-20 18:57:37.736 [info] Running checks...
+2025-10-20 18:57:37.736 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:57:37.793 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:57:37.793 [info] 
+2025-10-20 18:57:42.914 [info] Running checks...
+2025-10-20 18:57:42.914 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:57:42.971 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:57:42.971 [info] 
+2025-10-20 18:57:44.929 [info] Running checks...
+2025-10-20 18:57:44.929 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:57:44.989 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:57:44.989 [info] 
+2025-10-20 18:57:49.404 [info] Running checks...
+2025-10-20 18:57:49.404 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:57:49.460 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:57:49.460 [info] 
+2025-10-20 18:57:52.694 [info] Running checks...
+2025-10-20 18:57:52.694 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:57:52.748 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:57:52.748 [info] 
+2025-10-20 18:58:04.603 [info] Running checks...
+2025-10-20 18:58:04.603 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:58:04.650 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:58:04.650 [info] 
+2025-10-20 18:58:10.799 [info] Running checks...
+2025-10-20 18:58:10.799 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:58:10.863 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:58:10.863 [info] 
+2025-10-20 18:58:12.025 [info] Running checks...
+2025-10-20 18:58:12.025 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:58:12.082 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:58:12.082 [info] 
+2025-10-20 18:58:20.017 [info] Running checks...
+2025-10-20 18:58:20.017 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:58:20.078 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:58:20.078 [info] 
+2025-10-20 18:58:22.350 [info] Running checks...
+2025-10-20 18:58:22.350 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:58:22.424 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:58:22.424 [info] 
+2025-10-20 18:58:27.721 [info] Running checks...
+2025-10-20 18:58:27.721 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:58:27.779 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:58:27.779 [info] 
+2025-10-20 18:58:33.441 [info] Running checks...
+2025-10-20 18:58:33.441 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:58:33.514 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:58:33.514 [info] 
+2025-10-20 18:58:42.547 [info] Running checks...
+2025-10-20 18:58:42.547 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:58:42.615 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:58:42.615 [info] 
+2025-10-20 18:58:57.205 [info] Running checks...
+2025-10-20 18:58:57.205 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:58:57.275 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:58:57.275 [info] 
+2025-10-20 18:58:59.644 [info] Running checks...
+2025-10-20 18:58:59.644 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:58:59.705 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:58:59.705 [info] 
+2025-10-20 18:59:09.609 [info] Running checks...
+2025-10-20 18:59:09.609 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:59:09.673 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:59:09.673 [info] 
+2025-10-20 18:59:10.991 [info] Running checks...
+2025-10-20 18:59:10.991 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:59:11.088 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:59:11.088 [info] 
+2025-10-20 18:59:16.172 [info] Running checks...
+2025-10-20 18:59:16.172 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:59:16.249 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:59:16.249 [info] 
+2025-10-20 18:59:26.972 [info] Running checks...
+2025-10-20 18:59:26.972 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:59:27.038 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:59:27.038 [info] 
+2025-10-20 18:59:51.943 [info] Running checks...
+2025-10-20 18:59:51.943 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 18:59:52.005 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 18:59:52.005 [info] 
+2025-10-20 19:00:07.963 [info] Running checks...
+2025-10-20 19:00:07.963 [info] Starting linting the current package at /home/arshan/Code/gomisc/calculator
+2025-10-20 19:00:08.029 [info] /home/arshan/Code/gomisc/calculator>Finished running tool: /home/arshan/go/bin/staticcheck
+2025-10-20 19:00:08.029 [info] 

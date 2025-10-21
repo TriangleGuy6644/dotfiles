@@ -1,0 +1,13 @@
+2025-10-20 18:46:45.365 [info] Started local extension host with pid 20258.
+2025-10-20 18:46:49.138 [error] [Extension Host] (node:20258) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-20 18:46:50.795 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-20 18:46:52.480 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-20 18:46:53.517 [info] [perf] Render performance baseline is 49ms
+2025-10-20 18:49:29.853 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-20 18:49:30.202 [info] Started local extension host with pid 22131.
+2025-10-20 18:49:32.044 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-10-20 18:49:32.227 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-20 18:49:34.366 [info] [perf] Render performance baseline is 36ms
+2025-10-20 18:49:37.354 [error] [Extension Host] (node:22131) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

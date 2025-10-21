@@ -1,0 +1,40 @@
+2025-10-21 16:42:59.730 [info] Extension host with pid 651764 started
+2025-10-21 16:42:59.730 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/29e63414ea60905c004f33f0e05ec091.
+2025-10-21 16:42:59.880 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-21 16:42:59.903 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-21 16:42:59.919 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-21 16:43:00.285 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-21 16:43:00.288 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-21 16:43:00.290 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-21 16:43:00.346 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-21 16:43:00.402 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-21 16:43:00.686 [info] Eager extensions activated
+2025-10-21 16:43:00.687 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:43:00.689 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:43:00.706 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:43:00.712 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:43:00.728 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:43:00.870 [info] ExtensionService#_doActivateExtension nguyenngoclong.terminal-keeper, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:43:00.919 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:43:00.922 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:45:27.538 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-21 16:45:27.554 [info] Extension host with pid 651764 exiting with code 0
+2025-10-21 16:45:28.479 [info] Extension host with pid 653993 started
+2025-10-21 16:45:28.479 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/151a8c443e8f745bf2c22f011fce5c95.
+2025-10-21 16:45:28.622 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-21 16:45:28.649 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-21 16:45:28.665 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2025-10-21 16:45:29.198 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-21 16:45:29.200 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-21 16:45:29.201 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-21 16:45:29.252 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-21 16:45:29.309 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-21 16:45:29.460 [info] Eager extensions activated
+2025-10-21 16:45:29.464 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:45:29.466 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:45:29.486 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:45:29.491 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:45:29.505 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:45:29.639 [info] ExtensionService#_doActivateExtension nguyenngoclong.terminal-keeper, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:45:29.696 [info] ExtensionService#_doActivateExtension rpinski.shebang-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-21 16:45:29.698 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
