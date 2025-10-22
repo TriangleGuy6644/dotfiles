@@ -1,0 +1,49 @@
+2025-10-21 16:51:45.348 [info] Extension host with pid 658266 started
+2025-10-21 16:51:45.350 [info] Skipping acquiring lock for /home/arshan/.config/Code/User/workspaceStorage/1a559d47fa0d015cf38cef4db9558df6.
+2025-10-21 16:51:45.918 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-21 16:51:45.946 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-21 16:51:45.964 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-21 16:51:45.984 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-21 16:51:46.090 [info] ExtensionService#_doActivateExtension yzhang.dictionary-completion, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-21 16:51:46.091 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-10-21 16:51:46.634 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-21 16:51:46.642 [info] ExtensionService#_doActivateExtension canadaduane.notes, startup: true, activationEvent: '*'
+2025-10-21 16:51:46.646 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-10-21 16:51:46.994 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-21 16:51:47.053 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-21 16:51:47.053 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-21 16:51:47.296 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-10-21 16:51:47.802 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-21 16:51:47.838 [error] Unable to refresh tree view go.package.outline: Canceled
+2025-10-21 16:51:47.839 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+	at new MR (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116391)
+	at U4.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121001)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118495)
+	at zb.loadCertificates (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:75005)
+	at Object.loadAdditionalCertificates (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:203:23184)
+	at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:804:53
+	at Generator.next (<anonymous>)
+	at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:803:43
+	at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:805:16
+	at Generator.next (<anonymous>)
+	at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at getOrLoadAdditionalCertificates (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:801:12)
+	at addCertificatesToOptionsV1 (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:780:9)
+	at resolveProxyWithRequest (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:140:9)
+	at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:372:77
+	at new Promise (<anonymous>)
+	at PacProxyAgent.resolveP [as resolver] (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:372:54)
+	at PacProxyAgent.<anonymous> (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:74:37)
+	at Generator.next (<anonymous>)
+	at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:8:71
+	at new Promise (<anonymous>)
+	at __awaiter (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:4:12)
+	at PacProxyAgent.connect (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:56:16)
+	at /opt/visual-studio-code/resources/app/node_modules/agent-base/dist/index.js:132:30
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-10-21 16:51:48.699 [info] Extension host with pid 658266 exiting with code 0
