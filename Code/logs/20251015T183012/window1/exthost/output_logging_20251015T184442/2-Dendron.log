@@ -1,8 +1,0 @@
-info: {"ctx":"Logger:configure","msg":"exit","logLevel":"info"}
-info: {"ctx":"_activate","stage":"prod","isDebug":false,"logLevel":"info","logPath":"/home/arshan/.config/Code/logs/20251015T183012/window1/exthost/dendron.dendron","extensionPath":"/home/arshan/.vscode/extensions/dendron.dendron-0.124.0","extensionUri":"/home/arshan/.vscode/extensions/dendron.dendron-0.124.0","workspaceFolders":["/home/arshan/Code/omni"]}
-info: {"ctx":"DendronExtension","msg":"initialized"}
-info: {"ctx":"_activate","msg":"initializeWorkspace","wsType":"NONE","currentVersion":"0.124.0","previousGlobalVersion":"0.124.0","extensionInstallStatus":"NO_CHANGE"}
-info: {"ctx":"_activate","msg":"dendron not active"}
-info: {"msg":"Telemetry is disabled? false"}
-info: {"msg":"Segment Residual Cache Path is at /home/arshan/.config/Code/User/globalStorage/dendron.dendron/segmentresidualcache.log"}
-info: {"ctx":"showWelcomeOrWhatsNew","version":"0.124.0","previousExtensionVersion":"0.0.0"}

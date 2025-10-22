@@ -1,8 +1,0 @@
-{
-    "editor.fontSize": 17,
-    "editor.cursorBlinking": "smooth",
-    "editor.cursorSmoothCaretAnimation": "on",
-    "editor.fontFamily": "SpaceMono Nerd Font",
-    "files.autoSave": "afterDelay",
-    "workbench.colorTheme": "Vesper"
-}

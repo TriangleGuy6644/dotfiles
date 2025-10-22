@@ -1,8 +1,0 @@
-[17/10/2025 18:36:02 - INFO] Discord Presence activated
-[17/10/2025 18:36:02 - INFO] Creating discord-rpc client
-[17/10/2025 18:36:03 - INFO] Successfully connected to Discord
-[17/10/2025 18:36:03 - DEBUG] Loading git extension
-[17/10/2025 18:36:03 - TRACE] Git extension not activated, activating...
-[17/10/2025 18:36:03 - DEBUG] Loading git extension
-[17/10/2025 18:36:03 - TRACE] Git extension not activated, activating...
-[17/10/2025 18:36:03 - TRACE] VSCode language id: go

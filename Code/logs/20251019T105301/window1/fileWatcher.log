@@ -1,2 +1,0 @@
-2025-10-19 19:13:28.761 [warning] [File Watcher ('parcel')] Watcher shutdown because watched path got deleted (path: /home/arshan/Code/scripts)
-2025-10-19 19:13:28.761 [error] [File Watcher (node.js)] Failed to watch /home/arshan/Code/scripts/.git/refs/remotes/origin/main for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/arshan/Code/scripts/.git/refs/remotes/origin/main')

@@ -1,6 +1,0 @@
-2025-10-13 11:03:25.311 [info] Try to start language server - activation (enabled: true)
-2025-10-13 11:03:25.382 [info] Running language server gopls(v0.20.0/go1.25.1)
-2025-10-13 11:03:30.394 [info] Running checks...
-2025-10-13 11:03:30.394 [info] Starting linting the current package at /home/arshan/Code/omni/cmd
-2025-10-13 11:03:30.458 [info] /home/arshan/Code/omni/cmd>Finished running tool: /home/arshan/go/bin/staticcheck
-2025-10-13 11:03:30.458 [info] 

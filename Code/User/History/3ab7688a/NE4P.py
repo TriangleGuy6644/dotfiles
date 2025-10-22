@@ -1,8 +1,0 @@
-for i in range(1000001):
-    print(i)
-    
-def g():
-    print("hi")
-
-
-g

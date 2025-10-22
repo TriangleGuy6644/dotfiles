@@ -1,4 +1,0 @@
-[Warn  - 19:15:24] 02:15:24.070 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
-[Info  - 19:15:24] 02:15:24.167 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///home/arshan/Code/magOSpostinstall"...
-[Info  - 19:15:24] 02:15:24.182 INFO BackgroundAnalysis: Glob resolved with 1 files after 0.015 seconds
-[Info  - 19:15:24] 02:15:24.188 INFO BackgroundAnalysis: Completed after 0.021 seconds.

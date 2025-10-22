@@ -1,8 +1,0 @@
-{
-    "editor.fontSize": 17,
-    "editor.cursorBlinking": "smooth",
-    "editor.cursorSmoothCaretAnimation": "on",
-    "editor.fontFamily": "Monocraft",
-    "files.autoSave": "afterDelay",
-    "workbench.colorTheme": "Abyss"
-}
