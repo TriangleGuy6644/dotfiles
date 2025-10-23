@@ -8,3 +8,6 @@ PreviewSize=96
 [KFileDialog Settings]
 Places Icons Auto-resize=false
 Places Icons Static Size=22
+
+[Notification Messages]
+warnAboutRisksBeforeActingAsAdmin=false
