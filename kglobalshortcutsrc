@@ -262,6 +262,9 @@ _launch=Meta+Ctrl+Shift+S
 [services][net.local.reboot-2.desktop]
 _launch=Meta+Ctrl+Shift+R
 
+[services][net.local.vicinae.desktop]
+_launch=Meta+Space
+
 [services][org.flameshot.Flameshot.desktop]
 Capture=Meta+Shift+S
 
