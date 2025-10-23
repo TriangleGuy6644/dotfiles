@@ -139,7 +139,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][44][Applets][48][Applets][54][Configuration]
-PreloadWeight=85
+PreloadWeight=95
 
 [Containments][44][Applets][48][Applets][55]
 immutability=1
@@ -197,7 +197,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][44][Applets][48][Applets][64][Configuration]
-PreloadWeight=60
+PreloadWeight=65
 
 [Containments][44][Applets][48][General]
 extraItems=org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.manage-inputmethod,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.weather,org.kde.plasma.battery,org.kde.plasma.brightness,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.kscreen,org.kde.plasma.volume
@@ -265,4 +265,4 @@ AppletOrder=72;73;74;68;66;67;69;65;48
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/kitty.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131,desktop:/steam.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131
+screenMapping=desktop:/steam.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131,desktop:/kitty.desktop,0,bb5be998-3dd9-4284-ae1b-fc450c5c6131
