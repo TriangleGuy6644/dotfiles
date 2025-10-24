@@ -16,9 +16,9 @@ done=replace-view-mode-with-view-settings-in-toolbar,25.04-convert-bool-showstat
 mtime=1760045114
 
 [gtkconfig.upd]
-ctime=1759703063
-done=25.04-convert-bool-showstatusbar-to-enum-showstatusbar,gtk_theme,dont_use_gtk_css_for_window_decorations,remove_deprecated_gtk4_option
-mtime=1759698904
+ctime=1761324061
+done=25.04-convert-bool-showstatusbar-to-enum-showstatusbar,gtk_theme,dont_use_gtk_css_for_window_decorations,remove_deprecated_gtk4_option,remove_deprecated_gtk4_option_v2
+mtime=1761303707
 
 [kcalcrc.upd]
 ctime=1760134133
@@ -26,56 +26,61 @@ done=remove_deprecated_gtk4_option
 mtime=1760045938
 
 [kwin-x11.upd]
-ctime=1760134133
-done=kwin-6.0-reset-active-mouse-screen-x11,kwin-6.0-delete-desktop-switching-shortcuts-x11,kwin-6.0-remove-breeze-tabbox-default-x11,kwin-6.1-remove-gridview-expose-shortcuts-x11
-mtime=1760110617
+ctime=1761324063
+done=kwin-6.0-reset-active-mouse-screen-x11,kwin-6.0-delete-desktop-switching-shortcuts-x11,kwin-6.0-remove-breeze-tabbox-default-x11,kwin-6.1-remove-gridview-expose-shortcuts-x11,kwin-6.5-showpaint-changes-x11
+mtime=1761301783
 
 [kwin.upd]
-ctime=1760134133
-done=remove_deprecated_gtk4_option,kwin-6.0-reset-active-mouse-screen,kwin-6.0-delete-desktop-switching-shortcuts,kwin-6.0-remove-breeze-tabbox-default,kwin-6.1-remove-gridview-expose-shortcuts
-mtime=1760096348
+ctime=1761324062
+done=remove_deprecated_gtk4_option,kwin-6.0-reset-active-mouse-screen,kwin-6.0-delete-desktop-switching-shortcuts,kwin-6.0-remove-breeze-tabbox-default,kwin-6.1-remove-gridview-expose-shortcuts,remove_deprecated_gtk4_option_v2,kwin-6.5-showpaint-changes
+mtime=1761300435
 
 [migrate-calendar-to-plugin-id.upd]
-ctime=1760134134
-done=kwin-6.1-remove-gridview-expose-shortcuts,migrate-calendar-plugins
-mtime=1760110193
+ctime=1761324063
+done=kwin-6.1-remove-gridview-expose-shortcuts,migrate-calendar-plugins,kwin-6.5-showpaint-changes-x11
+mtime=1761301144
 
 [plasma-systemmonitor.upd]
-ctime=1759703065
+ctime=1761324065
 done=migrate-calendar-plugins,memory-column
-mtime=1757648759
+mtime=1761303240
 
 [plasma6.0-remove-dpi-settings.upd]
-ctime=1760134134
+ctime=1761324063
 done=memory-column,plasma6.0-remove-dpi-settings
-mtime=1760110193
+mtime=1761301144
 
 [plasma6.0-remove-old-shortcuts.upd]
-ctime=1760134134
+ctime=1761324063
 done=plasma6.0-remove-dpi-settings,plasma6.0-remove-old-shortcuts
-mtime=1760110193
+mtime=1761301144
 
 [plasma6.3-update-clipboard-database-2-to-3.upd]
-ctime=1760134134
+ctime=1761324063
 done=plasma6.0-remove-old-shortcuts,plasma6.3-update-clipboard-database-2-to-3
-mtime=1760110193
+mtime=1761301144
 
 [plasma6.4-migrate-fullscreen-notifications-to-dnd.upd]
-ctime=1760134134
+ctime=1761324063
 done=plasma6.3-update-clipboard-database-2-to-3,plasma6.4-migrate-fullscreen-notifications-to-dnd
-mtime=1760110193
+mtime=1761301144
 
 [plasmashell-6.0-keep-custom-position-of-panels.upd]
-ctime=1760134134
+ctime=1761324063
 done=plasma6.4-migrate-fullscreen-notifications-to-dnd,plasmashell-6.0-keep-custom-position-of-panels
-mtime=1760110193
+mtime=1761301144
 
 [plasmashell-6.0-keep-default-floating-setting-for-plasma-5-panels.upd]
-ctime=1760134134
+ctime=1761324063
 done=plasmashell-6.0-keep-custom-position-of-panels,plasmashell-6.0-keep-default-floating-setting-for-plasma-5-panels
-mtime=1760110193
+mtime=1761301144
+
+[plasmashell-6.5-remove-stop-activity-shortcut.upd]
+ctime=1761324063
+done=plasmashell-6.5-remove-stop-activity-shortcut
+mtime=1761301144
 
 [spectacle.upd]
-ctime=1760134135
+ctime=1761324066
 done=plasmashell-6.0-keep-default-floating-setting-for-plasma-5-panels,24.02.0-video_format,24.02.0-keep_old_save_location,24.02.0-rename_settings,24.02.0-keep_old_filename_templates,24.05.2-change_placeholder_format
-mtime=1760117364
+mtime=1761298351

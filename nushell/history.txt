@@ -43,3 +43,19 @@ nu
 exit
 nu
 exit
+ls
+clear
+ls
+clear
+"10" / bob
+clear
+ls
+clear
+"10" / "bob"
+10 / "bob"
+ld
+ls
+clear
+posix
+eixt
+exit
