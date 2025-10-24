@@ -30,6 +30,7 @@ function __auto_source_venv --on-variable PWD --description "Activate/Deactivate
 end
 alias cp "cpg -g"
 alias mv "mvg -g"
+alias icat "kitten icat"
 function gapc
     if test (count $argv) -eq 0
         echo "Usage: gapc <commit message>"
