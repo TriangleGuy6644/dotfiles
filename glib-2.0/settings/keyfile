@@ -1,2 +1,6 @@
 [org/gnome/desktop/a11y/applications]
 screen-reader-enabled=false
+
+[org/gnome/desktop/interface]
+font-name='Rubik 11'
+color-scheme='prefer-dark'

@@ -1,6 +1,5 @@
 alias ls 'eza --icons'
 zoxide init fish | source
-source ~/.config/fish/aliases.fish
 thefuck --alias | source
 fish_add_path /home/arshan/.spicetify
 alias venv "python3 -m venv venv"
