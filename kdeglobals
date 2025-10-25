@@ -105,8 +105,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [General]
-ColorScheme=DarkDream
-ColorSchemeHash=fa724d121c79ce0edbaf6f965296e41a438b2b8a
+ColorSchemeHash=2d9dce3866c211ee9d6bae86c5026388870f00c7
 LastUsedCustomAccentColor=184,117,220
 TerminalApplication=kitty -1
 XftHintStyle=hintslight
