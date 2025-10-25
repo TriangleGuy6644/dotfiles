@@ -197,7 +197,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][44][Applets][48][Applets][64][Configuration]
-PreloadWeight=65
+PreloadWeight=70
 
 [Containments][44][Applets][48][General]
 extraItems=org.kde.plasma.bluetooth,org.kde.kdeconnect,org.kde.plasma.cameraindicator,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.manage-inputmethod,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.weather,org.kde.plasma.battery,org.kde.plasma.brightness,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.kscreen,org.kde.plasma.volume
